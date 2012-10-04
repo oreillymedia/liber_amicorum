@@ -1,0 +1,106 @@
+== Overview
+
+Creative Coding and Software Art is an emerging multidisciplinary field that brings together artists, designers, sculptors, computer scientists, vision researchers, hardware hackers, and a host of others in the creative application of technology.   The goal of this guide is to map the state of the art and create a useful resource for both new and experienced software artists.  The project will operate as Open Source project on GitHub, and be maintained by O'Reilly Media and select members of the community.  Project goals include:
+
+* Creating a living resource that is valuable to practitioners in this emerging space
+* Understanding the pain points within the community.  For example, to what extent is an artist's creative vision held up by a lack of technical or mathematical knowledge?
+* Helping practitioners identify and find each other
+* Documenting inspirational projects, as well as challenges the creator had to overcome
+* Exploring the use of GitHub as a tool for writing collaborative authoring
+
+We'll publish this periodically as a PDF (in this repo), on the iBookstore, and on the Kindle.  
+
+
+=== What We're Looking For
+
+* Useful tools or techniques
+* Inspirational projects
+* Hands on tutorials or articles
+* Sites and resources of interest to practitioners
+* Key people or organizations
+
+=== How to Contribute
+
+The simplest way to get started is to follow the project on GitHub so that you'll be notified of changes to the document.  To contribute to the document:
+
+* Fork the repository
+* Add your changes
+* Send a pull request
+
+We'll use the feedback and discussion generated from the pull request to decide whether to merge the request and generate a fresh version of the guide.
+
+=== License
+
+The guide is licensed under the Creative Commons Attribution-NonCommercial 3.0 Unported License. You are free to share and remix the book, as long as you provide attribution and do not attempt to re-sell.
+
+=== Areas / Fields
+
+We're interested primarily in these areas:
+
+* 3D graphics
+* Algorithmic and Generative Art
+* Animation
+* App Design
+* Circuit Bending
+* Data visualization
+* Electromechanical sculpture
+* Interaction Design
+* LED design
+* Musical / Sound Arts
+* Physical Computing
+
+Please note that we're not seeking to define these areas in particular -- that's better done on wikipedia or similar sites.  We're interested mainly in identifying trends, tools, people, and projects that are advancing the state of the art in the field.
+
+=== Organizations and Events
+
+This would be a listing of the organizations / groups in the field that you should know about
+
+* ITP
+* CMU program
+* MIT Media Lab
+* LISA
+* Guggenheim
+* SIGGRAPH
+
+=== Tools
+
+This will probably be the bulk of the resource gide, and will outline things you need to know about the tools.
+
+* 3d printers
+* arduino
+* cinder
+* openFrameworks
+* Max/MSP
+* processing
+* 3D modeling tools
+* kinect
+* openCV
+
+For each tool:
+
+* Description and link
+* Useful resources and guides (blogs, books, etc)
+* Key practitioners
+* Examples and/or tutorials that provide examples / algorithms that describe technologies or obstacles.
+
+
+=== Projects
+
+The goal of the projects section is to articulate the vision and thoughts that go into creating an interesting work or solving an interesting problem, with a particular focus on the project's relevance compared to other computational / serial artists or projects.  We're much more interested in the "why's" of the project -- why did you pick certain tools, why did you take the approach, why is this different than what's come before -- before the "how's".  (But, don't worry -- you can put the How's in the tutorial or example sections.)  The project descriptions should serve as a guide of your thinking for people who will follow after you.  
+
+
+What was the project?
+What areas or field does it fall in?
+What tools did you use?
+Why was this an interesting project to you -- what was new or innovative?
+What were the key challenges you had to overcome?
+Your name and a brief bio
+
+
+
+ 
+
+
+
+
+
