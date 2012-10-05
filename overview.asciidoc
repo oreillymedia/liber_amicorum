@@ -1,37 +1,38 @@
 == Overview
 *Vade Mecum: A handbook for software artists*
 
-Creative Coding. Software Art. It's a pan-disciplinary field so new that we haven't settled on a name yet. Practitioners are artists, designers, sculptors, computer scientists, vision researchers, hardware hackers--anyone who makes art through the creative application of technology. 
+Creative Coding. Software Art. It's a pan-disciplinary field so new that those working in it haven't yet settled on a name. Practitioners are artists, designers, sculptors, computer scientists, vision researchers, hardware hackers--anyone who makes art through the creative application of technology. 
 
-Vade Mecum is a collaborative, community-driven project to map the state of the art and create a useful resource for both new and experienced software artists.  O'Reilly Media, The project will operate as open source project on GitHub, and be maintained by O'Reilly Media and select members of the community.  Project goals include:
+Vade Mecum is a collaborative, community-driven project to map the state of the art and create a useful resource for both new and experienced software artists. Andrew Odewahn of O'Reilly Media, Isabel Draves of LISA (Leaders in Software and Art), and select members of the community will serve as curators. It  will operate as open source project on GitHub, and be maintained by O'Reilly. Through Vade Mecum, we aim to:
 
-* Creating a living resource that is valuable to practitioners in this emerging space
-* Understanding the pain points within the community.  For example, to what extent is an artist's creative vision held up by a lack of technical or mathematical knowledge?
-* Helping practitioners identify and find each other
-* Documenting inspirational projects, as well as challenges the creator had to overcome
-* Exploring the use of GitHub as a tool for writing collaborative authoring
+* Create a resource--equal parts inspiration, guide, and catalog--that maps this emerging space, advances practitioners'understanding of it, and shows that there's a there there.
+* Document inspirational projects--not only the amazing finished product, but the workflow, tools, and hacks the artist used in the process of creating it.
+* Help practitioners identify and find each other.
+* Surface and address practitioners' pain points and stumbling blocks. For example, what happens when an artist's creative vision is held up by a lack of technical or mathematical knowledge?
+* Explore the use of GitHub as a tool for collaborative authoring. How does this new platform, which has fueled community-driven innovation in the software world, serve the creative community?
 
-We'll publish this periodically as a PDF, on the iBookstore, on the Kindle, and, in the not-too-distant future, on the web.  And that title? A vade mecum (vay-dee mee-cum) is:
+We'll publish Vade Mecum periodically as a PDF, on the iBookstore, on the Kindle, and, in the not-too-distant future, on the web.  And that title? A vade mecum (vay-dee mee-cum) is:
 1. a book for ready reference; a manual
 2. something regularly carried about by a person
-We thought that was a pretty good description of this thing (and we like it better than "handbook").
-
-
+We thought that was a pretty good description of this thing (and we like it better than "guide" or "directory").
 
 
 === What We're Looking For
 
 * Useful tools or techniques
 * Inspirational projects
-* Hands on tutorials or articles
+* Hands-on tutorials or articles
 * Sites and resources of interest to practitioners
 * Key people or organizations
 
 === How to Contribute
 
-The simplest way to get started is to follow the project on GitHub so that you'll be notified of changes to the document.  To contribute to the document:
+The simplest way to get started is to follow the project on GitHub so that you'll be notified of changes to the document. If you don't have a GitHub account, it's easy and free to set up. And if you're wondering, "Why GitHub?," Clay Shirky explains its transformative superpowers in this video: http://www.youtube.com/watch?v=CEN4XNth61o
 
-* Fork the repository
+
+To contribute to Vade Mecum:
+*[ANDREW: this needs more definition/explanation or a pointer to a how-to--it will scare off GitHub newbies without that]*
+* Fork the repository 
 * Add your changes
 * Send a pull request
 
@@ -57,12 +58,11 @@ We're interested primarily in these areas:
 * Musical / Sound Arts
 * Physical Computing
 
-Please note that we're not seeking to define these areas in particular -- that's better done on wikipedia or similar sites.  We're interested mainly in identifying trends, tools, people, and projects that are advancing the state of the art in the field.
+Please note that we're not seeking to _define_ these areas in particular -- that's better done on Wikipedia or similar sites.  We're interested mainly in identifying trends, tools, people, and projects that are advancing the state of the art in the field.
 
 === Organizations and Events
 
-This would be a listing of the organizations / groups in the field that you should know about
-
+The usual suspects are below. What else?
 * ITP
 * CMU program
 * MIT Media Lab
@@ -71,8 +71,6 @@ This would be a listing of the organizations / groups in the field that you shou
 * SIGGRAPH
 
 === Tools
-
-This will probably be the bulk of the resource gide, and will outline things you need to know about the tools.
 
 * 3d printers
 * arduino
