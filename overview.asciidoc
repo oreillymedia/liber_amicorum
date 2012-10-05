@@ -107,7 +107,6 @@ The goal of the projects section is to articulate the vision and thoughts that g
 
 We're much more interested in the "why's" of the project -- why did you pick certain tools, why did you take the approach, why is this different than what's come before -- before the "how's".  (But, don't worry -- you can put the How's in the tutorial or example sections.)  The project descriptions should serve as a guide of your thinking for people who will follow after you.  
 
-
 * What was the project?
 * What areas or field does it fall in?
 * What tools did you use?
