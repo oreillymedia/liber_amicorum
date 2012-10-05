@@ -1,6 +1,9 @@
 == Overview
+*Vade Mecum: A handbook for software artists*
 
-Creative Coding and Software Art is an emerging multidisciplinary field that brings together artists, designers, sculptors, computer scientists, vision researchers, hardware hackers, and a host of others in the creative application of technology.   The goal of this guide is to map the state of the art and create a useful resource for both new and experienced software artists.  The project will operate as Open Source project on GitHub, and be maintained by O'Reilly Media and select members of the community.  Project goals include:
+Creative Coding. Software Art. It's a pan-disciplinary field so new that we haven't settled on a name yet. Practitioners are artists, designers, sculptors, computer scientists, vision researchers, hardware hackers--anyone who makes art through the creative application of technology. 
+
+Vade Mecum is a collaborative, community-driven project to map the state of the art and create a useful resource for both new and experienced software artists.  O'Reilly Media, The project will operate as open source project on GitHub, and be maintained by O'Reilly Media and select members of the community.  Project goals include:
 
 * Creating a living resource that is valuable to practitioners in this emerging space
 * Understanding the pain points within the community.  For example, to what extent is an artist's creative vision held up by a lack of technical or mathematical knowledge?
@@ -8,7 +11,12 @@ Creative Coding and Software Art is an emerging multidisciplinary field that bri
 * Documenting inspirational projects, as well as challenges the creator had to overcome
 * Exploring the use of GitHub as a tool for writing collaborative authoring
 
-We'll publish this periodically as a PDF (in this repo), on the iBookstore, and on the Kindle.  
+We'll publish this periodically as a PDF, on the iBookstore, on the Kindle, and, in the not-too-distant future, on the web.  And that title? A vade mecum (vay-dee mee-cum) is:
+1. a book for ready reference; a manual
+2. something regularly carried about by a person
+We thought that was a pretty good description of this thing (and we like it better than "handbook").
+
+
 
 
 === What We're Looking For
