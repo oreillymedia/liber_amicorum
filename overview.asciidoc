@@ -1,5 +1,4 @@
 == Overview
-*Vade Mecum: A handbook for software artists*
 
 Creative Coding. Software Art. It's a pan-disciplinary field so new that those working in it haven't yet settled on a name. Practitioners are artists, designers, sculptors, computer scientists, vision researchers, hardware hackers--anyone who makes art through the creative application of technology. 
 
