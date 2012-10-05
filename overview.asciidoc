@@ -11,10 +11,16 @@ Vade Mecum is a collaborative, community-driven project to map the state of the 
 * Surface and address practitioners' pain points and stumbling blocks. For example, what happens when an artist's creative vision is held up by a lack of technical or mathematical knowledge?
 * Explore the use of GitHub as a tool for collaborative authoring. How does this new platform, which has fueled community-driven innovation in the software world, serve the creative community?
 
-We'll publish Vade Mecum periodically as a PDF, on the iBookstore, on the Kindle, and, in the not-too-distant future, on the web.  And that title? A vade mecum (vay-dee mee-cum) is:
+We'll publish Vade Mecum periodically as a PDF, on the iBookstore, on the Kindle, and, in the not-too-distant future, on the web.  
+
+[NOTE]
+====
+And that title? A vade mecum (vay-dee mee-cum) is:
+
 1. a book for ready reference; a manual
 2. something regularly carried about by a person
 We thought that was a pretty good description of this thing (and we like it better than "guide" or "directory").
+====
 
 
 === What We're Looking For
@@ -30,8 +36,12 @@ We thought that was a pretty good description of this thing (and we like it bett
 The simplest way to get started is to follow the project on GitHub so that you'll be notified of changes to the document. If you don't have a GitHub account, it's easy and free to set up. And if you're wondering, "Why GitHub?," Clay Shirky explains its transformative superpowers in this video: http://www.youtube.com/watch?v=CEN4XNth61o
 
 
-To contribute to Vade Mecum:
+////
 *[ANDREW: this needs more definition/explanation or a pointer to a how-to--it will scare off GitHub newbies without that]*
+////
+
+To contribute to Vade Mecum:
+
 * Fork the repository 
 * Add your changes
 * Send a pull request
@@ -63,6 +73,7 @@ Please note that we're not seeking to _define_ these areas in particular -- that
 === Organizations and Events
 
 The usual suspects are below. What else?
+
 * ITP
 * CMU program
 * MIT Media Lab
@@ -92,13 +103,15 @@ For each tool:
 
 === Projects
 
-The goal of the projects section is to articulate the vision and thoughts that go into creating an interesting work or solving an interesting problem, with a particular focus on the project's relevance compared to other computational / serial artists or projects.  We're much more interested in the "why's" of the project -- why did you pick certain tools, why did you take the approach, why is this different than what's come before -- before the "how's".  (But, don't worry -- you can put the How's in the tutorial or example sections.)  The project descriptions should serve as a guide of your thinking for people who will follow after you.  
+The goal of the projects section is to articulate the vision and thoughts that go into creating an interesting work or solving an interesting problem, with a particular focus on the project's relevance compared to other computational / serial artists or projects.  
+
+We're much more interested in the "why's" of the project -- why did you pick certain tools, why did you take the approach, why is this different than what's come before -- before the "how's".  (But, don't worry -- you can put the How's in the tutorial or example sections.)  The project descriptions should serve as a guide of your thinking for people who will follow after you.  
 
 
-What was the project?
-What areas or field does it fall in?
-What tools did you use?
-Why was this an interesting project to you -- what was new or innovative?
-What were the key challenges you had to overcome?
-Your name and a brief bio
+* What was the project?
+* What areas or field does it fall in?
+* What tools did you use?
+* Why was this an interesting project to you -- what was new or innovative?
+* What were the key challenges you had to overcome?
+* Your name and a brief bio
 
