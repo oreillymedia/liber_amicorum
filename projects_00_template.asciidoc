@@ -1,7 +1,6 @@
 [[unique_project_name]]
 === Unique Project Name
 
-
 Name of project::
    Project name
 
@@ -11,9 +10,8 @@ What areas or field does it fall in::
 What tools did you use?
    (((tool 1))), (((tool 2)))
 
-Why was this an interesting project to you -- what was new or innovative?::
-   Description
+Descibe the project and why you find it interesting::
 
-What were the key challenges you had to overcome?::
+Key challenges::
 
 Your name and a brief bio::
