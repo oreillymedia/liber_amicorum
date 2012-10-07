@@ -1,0 +1,19 @@
+[[unique-tool-name]]
+=== Unique Tool Name
+
+General description and overview
+
+URL::
+   http://example.com
+Key areas::
+   (((area 1))), (((area 2)))
+
+==== Key resources 
+
+List the key resources with links here (blogs, books, etc)
+
+==== Key people
+
+==== Examples
+
+This section should have a list of examples that give the reader a flavor of what the tool is and what it's used for.
