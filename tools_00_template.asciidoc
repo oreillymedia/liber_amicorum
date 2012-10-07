@@ -10,7 +10,10 @@ Key areas::
 
 ==== Key resources 
 
-List the key resources with links here (blogs, books, etc)
+List the key resources with links here (blogs, books, etc).
+
+* Resource 1. http://example.com is a great place to find inspirational examples.
+* Resource 2. http://example.com is a the spot for how-to articles and technical resources.
 
 ==== Key people
 
