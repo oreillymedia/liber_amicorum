@@ -1,0 +1,9 @@
+[[tools]]
+== Tools
+
+This section lists the main resources and tools.  For each tool, you should include the following information:
+
+* Description and link
+* Useful resources and guides (blogs, books, etc)
+* Key practitioners
+* Examples that describe technologies or obstacles.
