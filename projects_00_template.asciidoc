@@ -1,0 +1,19 @@
+[[unique_project_name]]
+=== Unique Project Name
+
+
+Name of project::
+   Project name
+
+What areas or field does it fall in::
+   (((area 1))), (((area 2)))
+
+What tools did you use?
+   (((tool 1))), (((tool 2)))
+
+Why was this an interesting project to you -- what was new or innovative?::
+   Description
+
+What were the key challenges you had to overcome?::
+
+Your name and a brief bio::
