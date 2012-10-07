@@ -1,17 +1,26 @@
 [[unique_project_name]]
 === Unique Project Name
 
-Name of project::
-   Project name
-
 What areas or field does it fall in::
    (((area 1))), (((area 2)))
-
 What tools did you use?
    (((tool 1))), (((tool 2)))
 
-Descibe the project and why you find it interesting::
+==== Description
 
-Key challenges::
+Why was this an interesting project to you -- what was new or innovative?
 
-Your name and a brief bio::
+==== Key Challenges
+
+What were the key challenges you had to overcome?
+
+==== Your name and a brief bio
+
+Your brief bio.
+
+URL::
+   http://www.example.com/
+Contact Information::
+   info@example.com
+Tags::
+   (((processing)))
