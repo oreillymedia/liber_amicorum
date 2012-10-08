@@ -58,7 +58,7 @@ The language has a Java-like syntax (in fact, it basically is Java with a few ne
  */
  
 void setup() {
-  size(640, 360);
+  size(500, 360);
   background(102);
 }
 
