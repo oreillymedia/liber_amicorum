@@ -1,4 +1,4 @@
-:bookseries: maker4c
+:bookseries: maker
 
 = Vade Mecum
 
@@ -8,6 +8,6 @@ include::organizations.asciidoc[]
 
 include::tools.asciidoc[]
 
-include::tools_processing.asciidoc[]
-
 include::projects.asciidoc[]
+
+include::tools_processing.asciidoc[]
