@@ -20,6 +20,10 @@ image::images/processing_guiguitrochoid.png[]
 
 * http://http://www.learningprocessing.com/[Learning Processing]. This site is home for ITP Professor Daniel Shiffman’s book Learning Processing. Although this book doesn’t cover Arduino, it covers almost everything you would want to do in Processing, and is a great book to tackle once you’ve learned the language. The section on video has many creative mirrors, like “Video Pixelation.”
 
+* link:http://www.shiffman.net/teaching/nature/[The Nature of Code]. Another great site from Daniel Shiffman, this site covers “topics ranging from basic mathematics and physics concepts to more advanced simulations of complex systems. Subjects covered will include forces, trigonometry, fractals, cellular automata, self-organization, and genetic algorithms.” In addition to all the great Processing code, you’ll also learn the physics behind the code. For example, the material on vectors and path following will be helpful to anyone doing robotics.
+
+* http://shop.oreilly.com/product/0636920000570.do[Learning Processing].  A refreshingly brief introduction to Processing by the project's founders, Ben Fry and Casey Reas.  This is a great book for total beginners to Processing and programing in general.
+
 ==== Key people
 
 Ben Fry::
