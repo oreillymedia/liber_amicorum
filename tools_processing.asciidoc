@@ -42,4 +42,47 @@ Dan Shiffman::
 
 ==== Examples
 
-Processing sketches, the Preocessing community's term for programs, have a Java-like syntax that will be immediately familiar to most coders.  Development is done in a custom integrated devlopment environment (IDE) that makes it very easy to get started writhing.   
+Processing _sketches_, the Processing community's term for programs, are created in a custom integrated devlopment environment (IDE) that makes it very easy to get started writing code.  
+
+image::images/processing_ide.png[]
+
+The language has a Java-like syntax (in fact, it basically is Java with a few new commands) that will be immediately familiar to most coders.  Here, for example, is a Processing sketch that makes interesting patterns as you move the mouse across the canvas area:
+
+[source, processingjs-live]
+----
+/**
+ * Patterns. 
+ * 
+ * Move the cursor over the image to draw with a software tool 
+ * which responds to the speed of the mouse. 
+ */
+ 
+void setup() {
+  size(640, 360);
+  background(102);
+}
+
+void draw() {
+  // Call the variableEllipse() method and send it the
+  // parameters for the current mouse position
+  // and the previous mouse position
+  variableEllipse(mouseX, mouseY, pmouseX, pmouseY);
+}
+
+
+// The simple method variableEllipse() was created specifically 
+// for this program. It calculates the speed of the mouse
+// and draws a small ellipse if the mouse is moving slowly
+// and draws a large ellipse if the mouse is moving quickly 
+
+void variableEllipse(int x, int y, int px, int py) {
+  float speed = abs(x-px) + abs(y-py);
+  stroke(speed);
+  ellipse(x, y, speed, speed);
+}
+----
+
+
+
+
+Most of the action revolves around painting images on the _canvas_, which is the main output display area.   
