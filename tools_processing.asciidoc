@@ -1,26 +1,31 @@
 [[processing]]
 === Processing
 
-What areas or field does it fall in::
-   (((Algorithmic and Generative Art))), (((area 2)))
-What tools did you use?
-   (((tool 1))), (((tool 2)))
-
-==== Description
-
-Why was this an interesting project to you -- what was new or innovative?
-
-==== Key Challenges
-
-What were the key challenges you had to overcome?
-
-==== Your name and a brief bio
-
-Your brief bio.
+Processing is an open source programming language and environment for people who want to create images, animations, and interactions. Initially developed to serve as a software sketchbook and to teach fundamentals of computer programming within a visual context, Processing also has evolved into a tool for generating finished professional work. Today, there are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning, prototyping, and production.
 
 URL::
-   http://www.example.com/
-Contact Information::
-   info@example.com
-Tags::
-   (((processing)))
+   http://processing.org/
+Key areas::
+   (((Algorithmic and Generative Art))), (((Data Visualization)))
+
+==== Key resources 
+
+Processing has a rich set of resources.  These include:
+
+* link:http://www.openprocessing.org/[OpenProcessing]. OpenProcessing is a community-driven site where people can share their portfolios. You’ll find a vast array of creative sketches that range from art to science. For example, http://www.openprocessing.org/sketch/760[GUIGUITROCHOID] by http://www.openprocessing.org/user/613[Guigui] simulates the gears in a Spirograph. In addition to enjoying the visual beauty, you can also view the source code from any sketch to see how it works.
+
+* Resource 1. http://example.com is a great place to find inspirational examples.
+* Resource 2. http://example.com is a the spot for how-to articles and technical resources.
+
+==== Key people
+
+Ben Fry::
+   link:http://benfry.com/[Ben Fry] is principal of Fathom, a design and software consultancy located in Boston. He received his doctoral degree from the Aesthetics + Computation Group at the MIT Media Laboratory, where his research focused on combining fields such as computer science, statistics, graphic design, and data visualization as a means for understanding information. After completing his thesis, he spent time developing tools for visualization of genetic data as a postdoc with Eric Lander at the Eli & Edythe L. Broad Insitute of MIT & Harvard. During the 2006-2007 school year, Ben was the Nierenberg Chair of Design for the Carnegie Mellon School of Design. At the end of 2007, he finished writing Visualizing Data for O'Reilly. In 2011, he won the National Design Award for Interaction Design from the Cooper-Hewitt.
+
+Dan Shiffman:: 
+   link:http://www.shiffman.net/[Daniel Shiffman] works as an Assistant Arts Professor at the Interactive Telecommunications Program at NYU’s Tisch School of the Arts. Originally from Baltimore, Daniel received a BA in Mathematics and Philosophy from Yale University and a Master’s Degree from the Interactive Telecommunications Program. He works on developing tutorials, examples, and libraries for Processing, the open source programming language and environment created by Casey Reas and Ben Fry. He is the author of Learning Processing: A Beginner’s Guide to Programming Images, Animation, and Interaction and The Nature of Code (self-published via Kickstarter), an upcoming text and series of code examples about simulating natural phenomenon in Processing. 
+
+
+==== Examples
+
+This section should have a list of examples that give the reader a flavor of what the tool is and what it's used for.
