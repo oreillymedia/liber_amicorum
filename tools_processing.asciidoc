@@ -42,4 +42,4 @@ Dan Shiffman::
 
 ==== Examples
 
-This section should have a list of examples that give the reader a flavor of what the tool is and what it's used for.
+Processing sketches, the Preocessing community's term for programs, have a Java-like syntax that will be immediately familiar to most coders.  Development is done in a custom integrated devlopment environment (IDE) that makes it very easy to get started writhing.   
