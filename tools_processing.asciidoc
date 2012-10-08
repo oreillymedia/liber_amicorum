@@ -42,11 +42,11 @@ Dan Shiffman::
 
 ==== Examples
 
-Processing _sketches_, the Processing community's term for programs, are created in a custom integrated devlopment environment (IDE) that makes it very easy to get started writing code.  
+Processing _sketches_, the Processing community's term for interactive programs, are created in a custom integrated devlopment environment (IDE) that makes it very easy to get started writing code.  
 
 image::images/processing_ide.png[]
 
-The language has a Java-like syntax (in fact, it basically is Java with a few new commands) that will be immediately familiar to most coders.  Here, for example, is a Processing sketch that makes interesting patterns as you move the mouse across the canvas area:
+The language has a Java-like syntax (in fact, it basically is Java with a few new commands) that will be immediately familiar to most coders.  Here, for example, is a Processing sketch called "Patternd.pde" that is included in the "Examples"that are shipped with the environment.  It makes interesting patterns as you move the mouse across the canvas area:
 
 [source, processingjs-live]
 ----
@@ -82,7 +82,9 @@ void variableEllipse(int x, int y, int px, int py) {
 }
 ----
 
+Here's a sample of the output:
 
+image::images/processing_sketch_sample.png[].  
 
+Most of the action revolves around painting images on the _canvas_, which is the main output display area.  Each sketch contains a method called _draw()_ that executes as a continuous loop on the main output of the program.  The sketches typically implement basic interactions, such as detectin mouse movements or button clicks.  There are libraries for more complex interactions.
 
-Most of the action revolves around painting images on the _canvas_, which is the main output display area.  Each sketch contains a method called _draw()_ that executes as a continuous loop on the main output of the program.  
