@@ -12,10 +12,13 @@ Key areas::
 
 Processing has a rich set of resources.  These include:
 
+* link:http://forum.processing.org/[Processing Forums].  An old school community forum for asking questions and sharing techniques.  This is a great place for beginners and seasoned hands alike to discuss how to use the language.
+
 * link:http://www.openprocessing.org/[OpenProcessing]. OpenProcessing is a community-driven site where people can share their portfolios. You’ll find a vast array of creative sketches that range from art to science. For example, http://www.openprocessing.org/sketch/760[GUIGUITROCHOID] by http://www.openprocessing.org/user/613[Guigui] simulates the gears in a Spirograph. In addition to enjoying the visual beauty, you can also view the source code from any sketch to see how it works.
 
-* Resource 1. http://example.com is a great place to find inspirational examples.
-* Resource 2. http://example.com is a the spot for how-to articles and technical resources.
+image::images/processing_guiguitrochoid.png[]
+
+* http://http://www.learningprocessing.com/[Learning Processing]. This site is home for ITP Professor Daniel Shiffman’s book Learning Processing. Although this book doesn’t cover Arduino, it covers almost everything you would want to do in Processing, and is a great book to tackle once you’ve learned the language. The section on video has many creative mirrors, like “Video Pixelation.”
 
 ==== Key people
 
