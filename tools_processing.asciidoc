@@ -85,4 +85,4 @@ void variableEllipse(int x, int y, int px, int py) {
 
 
 
-Most of the action revolves around painting images on the _canvas_, which is the main output display area.   
+Most of the action revolves around painting images on the _canvas_, which is the main output display area.  Each sketch contains a method called _draw()_ that executes as a continuous loop on the main output of the program.  
