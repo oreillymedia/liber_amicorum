@@ -26,8 +26,13 @@ image::images/processing_guiguitrochoid.png[]
 
 ==== Key people
 
+Processing has a large and vital community.  Some of the key figures include:
+
 Ben Fry::
    link:http://benfry.com/[Ben Fry] is principal of Fathom, a design and software consultancy located in Boston. He received his doctoral degree from the Aesthetics + Computation Group at the MIT Media Laboratory, where his research focused on combining fields such as computer science, statistics, graphic design, and data visualization as a means for understanding information. After completing his thesis, he spent time developing tools for visualization of genetic data as a postdoc with Eric Lander at the Eli & Edythe L. Broad Insitute of MIT & Harvard. During the 2006-2007 school year, Ben was the Nierenberg Chair of Design for the Carnegie Mellon School of Design. At the end of 2007, he finished writing Visualizing Data for O'Reilly. In 2011, he won the National Design Award for Interaction Design from the Cooper-Hewitt.
+   
+Casey Reas::
+   link:http://reas.com/[Casey Reas]' ongoing Process series explores the relationship between naturally evolved systems and those that are synthetic. The imagery evokes transformation, and visualizes systems in motion and at rest. Equally embracing the qualitative human perception and the quantitative rules that define digital culture, organic form emerges from precise mechanical structures. Reas' software, prints, and installations have been featured in numerous solo and group exhibitions at museums and galleries in the United States, Europe, and Asia.
 
 Dan Shiffman:: 
    link:http://www.shiffman.net/[Daniel Shiffman] works as an Assistant Arts Professor at the Interactive Telecommunications Program at NYU’s Tisch School of the Arts. Originally from Baltimore, Daniel received a BA in Mathematics and Philosophy from Yale University and a Master’s Degree from the Interactive Telecommunications Program. He works on developing tutorials, examples, and libraries for Processing, the open source programming language and environment created by Casey Reas and Ben Fry. He is the author of Learning Processing: A Beginner’s Guide to Programming Images, Animation, and Interaction and The Nature of Code (self-published via Kickstarter), an upcoming text and series of code examples about simulating natural phenomenon in Processing. 
