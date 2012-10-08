@@ -86,5 +86,4 @@ Here's a sample of the output:
 
 image::images/processing_sketch_sample.png[].  
 
-Most of the action revolves around painting images on the _canvas_, which is the main output display area.  Each sketch contains a method called _draw()_ that executes as a continuous loop on the main output of the program.  The sketches typically implement basic interactions, such as detectin mouse movements or button clicks.  There are libraries for more complex interactions.
-
+Most of the action revolves around painting images on the _canvas_, which is the main output display area.  Each sketch contains a method called _draw()_ that executes as a continuous loop on the main output of the program.  The sketches typically implement basic interactions, such as detecting mouse movements or button clicks.  There are additional libraries for more complex interactions.
