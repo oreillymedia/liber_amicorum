@@ -24,6 +24,6 @@ Dan Shiffman::
    link:http://www.shiffman.net/[Daniel Shiffman] works as an Assistant Arts Professor at the Interactive Telecommunications Program at NYU’s Tisch School of the Arts. Originally from Baltimore, Daniel received a BA in Mathematics and Philosophy from Yale University and a Master’s Degree from the Interactive Telecommunications Program. He works on developing tutorials, examples, and libraries for Processing, the open source programming language and environment created by Casey Reas and Ben Fry. He is the author of Learning Processing: A Beginner’s Guide to Programming Images, Animation, and Interaction and The Nature of Code (self-published via Kickstarter), an upcoming text and series of code examples about simulating natural phenomenon in Processing. 
 
 
-==== Examples
+==== Overview
 
 This section should have a list of examples that give the reader a flavor of what the tool is and what it's used for.
