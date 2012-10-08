@@ -1,5 +1,13 @@
 :bookseries: maker4c
 
-= Creative Coding Resource Book
+= Vade Mecum
 
 include::overview.asciidoc[]
+
+include::organizations.asciidoc[]
+
+include::tools.asciidoc[]
+
+include::tools_processing.asciidoc[]
+
+include::projects.asciidoc[]
