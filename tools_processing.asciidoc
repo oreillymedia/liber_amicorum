@@ -42,7 +42,7 @@ Dan Shiffman::
 
 ==== Examples
 
-Processing _sketches_, the Processing community's term for interactive programs, are created in a custom integrated devlopment environment (IDE) that makes it very easy to get started writing code.  
+Processing _sketches_, the Processing community's term for interactive programs, are created in a custom integrated devlopment environment (IDE) that makes it very easy to get started writing code.  Processing sketches end in the extension ".pde".  
 
 image::images/processing_ide.png[]
 
