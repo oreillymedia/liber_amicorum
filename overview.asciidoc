@@ -34,6 +34,9 @@ We thought that was a pretty good description of this thing (and we like it bett
 
 The simplest way to get started is to follow the project on GitHub so that you'll be notified of changes to the document. If you don't have a GitHub account, it's easy and free to set up. And if you're wondering, "Why GitHub?," Clay Shirky explains its transformative superpowers in hi talk link::http://www.youtube.com/watch?v=CEN4XNth61o[How the Internet will (one day) transform government].
 
+video::http://www.youtube.com/embed/CEN4XNth61o[height='300' width='500' poster='images/clay_shirky_github_poster.png']
+
+
 
 ////
 *[ANDREW: this needs more definition/explanation or a pointer to a how-to--it will scare off GitHub newbies without that]*
