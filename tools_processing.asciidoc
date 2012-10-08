@@ -48,7 +48,7 @@ image::images/processing_ide.png[]
 
 The language has a Java-like syntax (in fact, it basically is Java with a few new commands) that will be immediately familiar to most coders.  Here, for example, is a Processing sketch called "Patternd.pde" that is included in the "Examples"that are shipped with the environment.  It makes interesting patterns as you move the mouse across the canvas area:
 
-[source, processingjs-live]
+[source, processingjslive]
 ----
 /**
  * Patterns. 
