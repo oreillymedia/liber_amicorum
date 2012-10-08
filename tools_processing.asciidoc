@@ -14,6 +14,8 @@ Processing has a rich set of resources.  These include:
 
 * link:http://forum.processing.org/[Processing Forums].  An old school community forum for asking questions and sharing techniques.  This is a great place for beginners and seasoned hands alike to discuss how to use the language.
 
+* link:http://www.amazon.com/Processing-Programming-Handbook-Designers-Artists/dp/0262182629[Processing: A Programming Handbook for Visual Designers and Artists].  A giant, beautifully designed and richly detailed exploration of Processing by languages co-founders.
+
 * link:http://www.openprocessing.org/[OpenProcessing]. OpenProcessing is a community-driven site where people can share their portfolios. You’ll find a vast array of creative sketches that range from art to science. For example, http://www.openprocessing.org/sketch/760[GUIGUITROCHOID] by http://www.openprocessing.org/user/613[Guigui] simulates the gears in a Spirograph. In addition to enjoying the visual beauty, you can also view the source code from any sketch to see how it works.
 
 image::images/processing_guiguitrochoid.png[]
