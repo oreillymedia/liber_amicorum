@@ -32,7 +32,7 @@ We thought that was a pretty good description of this thing (and we like it bett
 
 === How to Contribute
 
-The simplest way to get started is to follow the project on GitHub so that you'll be notified of changes to the document. If you don't have a GitHub account, it's easy and free to set up. And if you're wondering, "Why GitHub?," Clay Shirky explains its transformative superpowers in this video: http://www.youtube.com/watch?v=CEN4XNth61o
+The simplest way to get started is to follow the project on GitHub so that you'll be notified of changes to the document. If you don't have a GitHub account, it's easy and free to set up. And if you're wondering, "Why GitHub?," Clay Shirky explains its transformative superpowers in hi talk link::http://www.youtube.com/watch?v=CEN4XNth61o[How the Internet will (one day) transform government].
 
 
 ////
