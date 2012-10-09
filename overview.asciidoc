@@ -2,7 +2,7 @@
 
 Creative Coding. Software Art. It's a pan-disciplinary field so new that those working in it haven't yet settled on a name. Practitioners are artists, designers, sculptors, computer scientists, vision researchers, hardware hackers--anyone who makes art through the creative application of technology. 
 
-Vade Mecum is a collaborative, community-driven project to map the state of the art and create a useful resource for both new and experienced software artists. Andrew Odewahn of O'Reilly Media, Isabel Draves of LISA (Leaders in Software and Art), and select members of the community will serve as curators. It  will operate as open source project on GitHub, and be maintained by O'Reilly. Through Vade Mecum, we aim to:
+Vade Mecum is a collaborative, community-driven project to map the state of the art and create a useful resource for both new and experienced software artists. Andrew Odewahn of O'Reilly Media, Isabel Draves of LISA (Leaders in Software and Art), and select members of the community will serve as curators. It  will operate as open source project on GitHub, and be maintained by O'Reilly. Through Liber Amicorum, we aim to:
 
 * Create a resource--equal parts inspiration, guide, and catalog--that maps this emerging space, advances practitioners'understanding of it, and shows that there's a there there.
 * Document inspirational projects--not only the amazing finished product, but the workflow, tools, and hacks the artist used in the process of creating it.
@@ -10,15 +10,11 @@ Vade Mecum is a collaborative, community-driven project to map the state of the 
 * Surface and address practitioners' pain points and stumbling blocks. For example, what happens when an artist's creative vision is held up by a lack of technical or mathematical knowledge?
 * Explore the use of GitHub as a tool for collaborative authoring. How does this new platform, which has fueled community-driven innovation in the software world, serve the creative community?
 
-We'll publish Vade Mecum periodically as a PDF, on the iBookstore, on the Kindle, and, in the not-too-distant future, on the web.  
+We'll publish Liber Amicorum periodically as a PDF, on the iBookstore, on the Kindle, and, in the not-too-distant future, on the web.  
 
 [NOTE]
 ====
-And that title? A vade mecum (vay-dee mee-cum) is:
-
-1. a book for ready reference; a manual
-2. something regularly carried about by a person
-We thought that was a pretty good description of this thing (and we like it better than "guide" or "directory").
+And that title? A Liber Amicorum (vay-dee mee-cum) is a "book of friends."  We thought that was a pretty good description of this thing (and we like it better than "guide" or "directory").
 ====
 
 
@@ -34,15 +30,14 @@ We thought that was a pretty good description of this thing (and we like it bett
 
 The simplest way to get started is to follow the project on GitHub so that you'll be notified of changes to the document. If you don't have a GitHub account, it's easy and free to set up. And if you're wondering, "Why GitHub?," Clay Shirky explains its transformative superpowers in hi talk link::http://www.youtube.com/watch?v=CEN4XNth61o[How the Internet will (one day) transform government].
 
-video::http://www.youtube.com/embed/CEN4XNth61o[height='300' width='500' poster='images/clay_shirky_github_poster.png']
-
+video::http://www.youtube.com/embed/CEN4XNth61o[height='300', width='500', poster='images/clay_shirky_github_talk_poster.png']
 
 
 ////
 *[ANDREW: this needs more definition/explanation or a pointer to a how-to--it will scare off GitHub newbies without that]*
 ////
 
-To contribute to Vade Mecum:
+To contribute to Liber Amicorum:
 
 * Fork the repository 
 * Add your changes
