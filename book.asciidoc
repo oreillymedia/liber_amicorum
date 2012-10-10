@@ -1,6 +1,6 @@
 :bookseries: maker
 
-= Vade Mecum
+= Liber Amicorum
 
 include::overview.asciidoc[]
 
@@ -9,5 +9,9 @@ include::organizations.asciidoc[]
 include::tools.asciidoc[]
 
 include::projects.asciidoc[]
+
+include::projects_generativetype.asciidoc[]
+
+include::projects_galloway.asciidoc[]
 
 include::tools_processing.asciidoc[]
