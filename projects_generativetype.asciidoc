@@ -21,7 +21,7 @@ I highly recommend checking out the documentationfor the Geomerative library (se
 
 ==== Bio
 
-Matthew Epler is a graduate student at NYU's Interactive Telecommunication Program (ITP). His current work is split between programmatic art and investigating ways to document and archive digital-born art works, including a massive archive project spanning 30+ years of work done at ITP. He has previously taught film theory and history and was a founding faculty member of the Red Sea Institute of Cinematic Arts in Jordan.
+Matthew Epler is a graduate student at NYU's Interactive Telecommunications Program (ITP) specializing in computational art and archives.
 
 URL::
    http://mepler.com/
