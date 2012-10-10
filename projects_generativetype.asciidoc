@@ -12,7 +12,7 @@ It's a simple prototype for a generative typography tool made with Processing us
 
 The code lives link:https://github.com/matthewepler/generative_type_platform[here].
 
-And here's a video showcasing basic functionality.
+video::http://player.vimeo.com/video/50550549[height='313', width='500', poster='images/clay_shirky_github_talk_poster.png']
 
 ==== Key Challenges
 
