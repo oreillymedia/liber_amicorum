@@ -8,10 +8,10 @@ include::organizations.asciidoc[]
 
 include::tools.asciidoc[]
 
+include::tools_processing.asciidoc[]
+
 include::projects.asciidoc[]
 
 include::projects_generativetype.asciidoc[]
 
 include::projects_galloway.asciidoc[]
-
-include::tools_processing.asciidoc[]
