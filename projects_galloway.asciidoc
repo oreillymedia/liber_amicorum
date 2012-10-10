@@ -1,5 +1,5 @@
 [[unique_project_name]]
-=== Creative Evolution
+=== Creative Archeology: finding inspiration in the archives
 
 What areas or field does it fall in::
    (((History))), (((Genetics))) (((Algorithms)))
@@ -11,7 +11,7 @@ image::images/galloway1.png[]
 
 In the summer of 2011, Alex Galloway published link:http://cultureandcommunication.org/galloway/pdf/Galloway-Creative_Evolution-Cabinet_Magazine.pdf[a fantastic article] on the work of Nils Aall Barricelli in link:http://www.cabinetmagazine.org/[Cabinet Magazine]. It has remained somewhat underground among creative coders and I believe it to be not only a fascinating read, but an example of a creative-historical process that could change the way we approach our work as digital artists.
 
-Nils Aal Barricelli was a mathematician who refused to play by the rules and who, in 1953, created numeric organisms on a Fulbright at the Institute for Advanced Study in Princeton, New Jersey. The results are visually stunning and his story fascinating. But I'll let you read the article for more on that.
+Nils Aal Barricelli was a mathematician who refused to play by the rules and who, in 1953, created numeric organisms of his own design. The results are visually stunning and his story fascinating. But I'll let you read the article for more on that.
 
 More important, I believe, is recognizing the work that has come before us and resurrecting it in an accessible langugage. There is a peculiar habit among creative code practicioners of creating in a historical vaccuum. We are often only aware of the latest developments in computational art as covered by a small handful of blogs. There are, however, countless examples of scientists, researchers, artists and meddlers using computers to do extraordinary tasks going back as far as there have been computational machines. Their work is occaisonally dug up published in an exhibit catalogue or history book. But this doesn't serve our community, who could use their code to build upon.
 
@@ -23,6 +23,7 @@ Code for this project is available on link:http://cultureandcommunication.org/ga
 ==== Other LInks
 
 link:http://rhizome.org/editorial/2012/sep/25/prosthetic-knowledge-picks-computer-graphics-art-1/[Computer Graphics & Art 1976-1978 - digitized PDFs of a short-lived magazine]
+
 link:http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=12476[A Little-Known Story about a Movement, a Magazine, and the Computer’s Arrival in Art: New Tendencies and Bit International, 1961–1973 - book published by MIT Press]
 
 ==== Bios
