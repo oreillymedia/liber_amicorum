@@ -1,5 +1,7 @@
 [[unique_project_name]]
-=== Generative Typography Platform with Processing
+=== Generative Typography Platform with Processing - Project in Progress
+
+video::http://player.vimeo.com/video/50550549[height='313', width='500', poster='images/typography_poster.png']
 
 What areas or field does it fall in::
    (((Typography))), (((Generative))) (((Design)))
@@ -8,16 +10,14 @@ What tools did you use?
 
 ==== Description
 
-It's a simple prototype for a generative typography tool made with Processing using the link:http://www.ricardmarxer.com/geomerative/[Geomerative Library]by Ricard Marxer. This project came out of Rune Madsen's class at ITP in generative design. There area a lot of generative fonts popping up, but no way to customize them on with your own generative tools. This project offers an alternative system that is open, fully customizeable, and flexible. A lot of work still needs to be done to make this a full-fledged tool, so have at it!
+This project is a basic prototype for a generative typography tool made with Processing using the link:http://www.ricardmarxer.com/geomerative/[Geomerative Library]by Ricard Marxer. It came out of Rune Madsen's class at ITP in generative design. In his lectures, Madsen stresses the important of limitations alongside flexibility. Building software systems that can provide flexibility while allowing a designer to work within their self-definied limits is difficult but ultimately extremely useful. Additionally, in the world of generative design there area a lot of generative fonts popping up, but no way to customize them on with your own tools. This interface offers an alternative system that is open, fully customizeable, and flexible. A lot of work still needs to be done to make this a full-fledged tool, so have at it!
 
 The code lives link:https://github.com/matthewepler/generative_type_platform[here].
 
-video::http://player.vimeo.com/video/50550549[height='313', width='500', poster='images/typography_poster.png']
 
+==== Notes
 
-==== Key Challenges
-
-Narrowing down the options is the biggest limitation. There's so much you can do. I highly recommend checking out the documentation for the Geomerative library to get a better idea of what it's capable of doing inside this platform. 
+I highly recommend checking out the documentationfor the Geomerative library (see above link) to get a better idea of what it's capable of doing inside this platform. 
 
 ==== Bio
 
