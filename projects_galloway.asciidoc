@@ -7,6 +7,7 @@ What tools did you use?
    (((Processing))
    
 ==== Description
+image::images/galloway1.png[]
 
 In the summer of 2011, Alex Galloway published link:http://cultureandcommunication.org/galloway/pdf/Galloway-Creative_Evolution-Cabinet_Magazine.pdf[a fantastic article] on the work of Nils Aall Barricelli in link:http://www.cabinetmagazine.org/[Cabinet Magazine]. It has remained somewhat underground among creative coders and I believe it to be not only a fascinating read, but an example of a creative-historical process that could change the way we approach our work as digital artists.
 
@@ -15,6 +16,8 @@ Nils Aal Barricelli was a mathematician who refused to play by the rules and who
 What's more interested, I believe, is the importance of recognizing the work that has come before us and resurrecting it in an accessible langugage. There is a peculiar habit among creative code practicioners of creating in a historical vaccuum. We are often only aware of the latest developments in computational art as covered by a small handful of blogs. There are, however, countless examples of scientists, researchers, artists and meddlers using computers to do extraordinary tasks going back as far as there have been computational machines. Their work is occaisonally dug up published in an exhibit catalogue or history book. But this doesn't serve our community, who could use their code to build upon.
 
 Galloway offers a rich alternative practice of digital archeology that illuminates the work of forgotten greats who have lessons to teach us. Go to the library. You never know what you might find.
+
+Code for this project is available on link:http://cultureandcommunication.org/galloway/Barricelli/[Galloway's site].
 
 
 ==== Other LInks
@@ -33,6 +36,7 @@ URL::
    http://cultureandcommunication.org/galloway/
    http://mepler.com/
 Contact Information::
-   info@example.com
+   galloway@nyu.edu    
+   matthewepler@gmail.com
 Tags::
    (((processing)))
