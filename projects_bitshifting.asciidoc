@@ -23,8 +23,10 @@ Kyle McDonald is a media artist who works with code, with a background in philos
 Matthew Epler is a graduate student at NYU's Interactive Telecommunications Program (ITP) specializing in computational art and archives.
 
 URL::
-   http://www.example.com/
+  http://kylemcdonald.net/
+  http://mepler.com
 Contact Information::
-   info@example.com
+   kyle@kylemcdonald.net
+   matthewepler@gmail.com
 Tags::
    (((processing)))
