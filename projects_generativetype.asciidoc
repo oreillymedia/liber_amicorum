@@ -19,7 +19,7 @@ video::http://player.vimeo.com/video/50550549[height='313', width='500', poster=
 
 Narrowing down the options is the biggest limitation. There's so much you can do. I highly recommend checking out the documentation for the Geomerative library to get a better idea of what it's capable of doing inside this platform. 
 
-==== Your name and a brief bio
+==== Bio
 
 Matthew Epler is a graduate student at NYU's Interactive Telecommunication Program (ITP). His current work is split between programmatic art and investigating ways to document and archive digital-born art works, including a massive archive project spanning 30+ years of work done at ITP. He has previously taught film theory and history and was a founding faculty member of the Red Sea Institute of Cinematic Arts in Jordan.
 
