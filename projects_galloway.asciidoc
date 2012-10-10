@@ -30,7 +30,7 @@ link:http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=12476[A Little
 
 Alexander R. Galloway is a writer and computer programer working on issues in philosophy, technology, and theories of mediation at NYU. He is the author of a new book, link:http://www.polity.co.uk/book.asp?ref=9780745662527["The Interface Effect"]
 
-Matthew Epler is a graduate student at NYU's Interactive Telecommunication Program (ITP). His current work is split between programmatic art and investigating ways to document and archive digital-born art works, including a massive archive project spanning 30+ years of work done at ITP. He has previously taught film theory and history and was a founding faculty member of the Red Sea Institute of Cinematic Arts in Jordan.
+Matthew Epler is a graduate student at NYU's Interactive Telecommunications Program (ITP) specializing in computational art and archives.
 
 
 URL::
