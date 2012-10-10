@@ -1,0 +1,30 @@
+[[unique_project_name]]
+=== Bit-shifting with Kyle McDonald
+
+What areas or field does it fall in::
+   (((code))), (((math)))
+What tools did you use?
+   (((Processing)))
+
+video::http://player.vimeo.com/video/p>[height='313', width='500', poster='images/bitshift_thumb.png']
+
+==== Description
+
+Ever wondered what bit-shifting is, exactly? How can you use it in your projects? Well you're not alone. I recently sat down with creative wizard samurai Kyle McDonald to get some answers. Check out this screen recording of our conversation and download the code for yourself. NOTE: sorry for the low volume. I didn't think this would be entering the web-o-spheres at the time. But it's just too good to keep to myself!
+
+link:https://github.com/ITPNYU/Glitch/tree/master/Bitwise[Bitwise (Bit-shift visualizer)]
+link:https://github.com/ITPNYU/Glitch/tree/master/Quantization[Quantization (using bit-shifting to manipulate images)]
+
+
+==== Bios
+
+Kyle McDonald is a media artist who works with code, with a background in philosophy and computer science. 
+
+Matthew Epler is a graduate student at NYU's Interactive Telecommunications Program (ITP) specializing in computational art and archives.
+
+URL::
+   http://www.example.com/
+Contact Information::
+   info@example.com
+Tags::
+   (((processing)))
