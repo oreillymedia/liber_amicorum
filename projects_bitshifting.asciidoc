@@ -6,7 +6,7 @@ What areas or field does it fall in::
 What tools did you use?
    (((Processing)))
 
-video::http://player.vimeo.com/video/p>[height='313', width='500', poster='images/bitshift_thumb.png']
+video::http://player.vimeo.com/video/50718570[height='313', width='500', poster='images/bitshift_thumb.png']
 
 ==== Description
 
