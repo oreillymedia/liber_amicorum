@@ -15,3 +15,5 @@ include::projects.asciidoc[]
 include::projects_generativetype.asciidoc[]
 
 include::projects_galloway.asciidoc[]
+
+include::projects_bitshifting.asciidoc[]
