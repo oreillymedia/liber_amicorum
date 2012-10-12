@@ -38,6 +38,7 @@ video::http://www.youtube.com/embed/JKWsfzN3syo[height='300', width='500', poste
 
 *Tutorials* +
 There's a huge amount of resources available at the http://cycling74.com/community/[Max/MSP site]. That's the best place to start.
+http://abstrakt.vade.info/?p=147[jitter movie playback optimizations]
 
 *Books* +
 http://www.virtual-sound.com/[Electronic Music & Sound Design] by Alessandro Cipriani & Maurizio Giri +
@@ -59,5 +60,5 @@ http://jmpelletier.com/cvjit/[cvjit] is a collection of Max/MSP/Jitter objects f
 http://ppooll.klingt.org/index.php/Main_Page[ppooll] is a networking system between max patches +
 http://www.maxobjects.com/[Max Objects] a database for Max objects, patches, etc. May looks old but it's still being updated. +
 http://www.ableton.com/maxforlive[Max For Live] A Toolkit for building new devices for Ableton Live
-
+http://abstrakt.vade.info/?p=272[v002] a promising alternative for live video performance that's being currently being built by Vade.
 
