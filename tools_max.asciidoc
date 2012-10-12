@@ -24,8 +24,8 @@ Cross platform and widely supported. +
 ==== Heavyweights
 Luke Dubois https://twitter.com/RLukeDuBois[@RLukeDuBois] | http://www.lukedubois.com/ (Co-author of Jitter, director of Experimental Media Center at NYU Poyltechnic) +
 Josh Goldberg (artist) http://twitter.com/wugmump[@wugmump] | http://goldbergs.com/ +
-Kurt Ralske (artist, creator of Auvi) https://twitter.com/kurtralske[@kurtralske] | http://retnull.com/
-Jeremy Bailey (artist) https://twitter.com/jeremybailey[@jeremybailey] | http://www.jeremybailey.net/
+Kurt Ralske (artist, creator of Auvi) https://twitter.com/kurtralske[@kurtralske] | http://retnull.com/ +
+Jeremy Bailey (artist) https://twitter.com/jeremybailey[@jeremybailey] | http://www.jeremybailey.net/ +
 
 ==== Projects & Examples 
 video::http://player.vimeo.com/video/41507465[height='300', width='500', poster='images/generic_video.png'] (- Vertical Music by R. Luke Dubois) +
