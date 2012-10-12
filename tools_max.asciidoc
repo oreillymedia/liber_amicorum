@@ -53,4 +53,6 @@ http://itp.nyu.edu/dataflow/Main/IntroToDataflow[Intro To Dataflow] syllabus for
 Pure Data: An open source alternative to Max, originally developed by the same developer, Miller Puckette. Labeled as a 'real-time music and multimedia environment' it allows manipulation of video, graphics, and music, and enables live collaboration across networks between musicians. It's multi-platform and portable so it can run on all sorts of devices and can be extended.+
 
 http://ppooll.klingt.org/index.php/Main_Page[ppooll] is a networking system between max patches +
+http://www.maxobjects.com/[Max Objects] a database for Max objects, patches, etc. May looks old but it's still being updated. +
+
 
