@@ -2,9 +2,9 @@
 === Bit-shifting with Kyle McDonald
 
 What areas or field does it fall in::
-   (((code))), (((math)))
+   ((code)), ((math))
 What tools did you use?
-   (((Processing)))
+   ((Processing))
 
 video::http://player.vimeo.com/video/50718570[height='300', width='500', poster='images/bitshift_thumb.png']
 
