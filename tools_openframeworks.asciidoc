@@ -36,7 +36,7 @@ Golan Levin: http://twitter.com/golan[@golan] | http://flong.com/ +
 ==== Projects & Examples: 
 video::http://player.vimeo.com/video/921725[height='300', width='500', poster='images/generic_video.png']
 made with openFrameworks: http://vimeo.com/921725 +
-video::http://player.vimeo.com/video/921725[height='300', width='500', poster='images/generic_video.png']
+video::http://player.vimeo.com/video/921725[height='377', width='500', poster='images/generic_video.png']
 
 http://eyewriter.org/[Eyewriter] +
 http://thesystemis.com/projects/drawn/[Drawn] +
