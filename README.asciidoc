@@ -2,7 +2,7 @@
 
 Creative Coding. Software Art. It's a pan-disciplinary field so new that those working in it haven't yet settled on a name. Practitioners are artists, designers, sculptors, computer scientists, vision researchers, hardware hackers--anyone who makes art through the creative application of technology. 
 
-Vade Mecum is a collaborative, community-driven project to map the state of the art and create a useful resource for both new and experienced software artists. Andrew Odewahn of O'Reilly Media, Isabel Draves of LISA (Leaders in Software and Art), and select members of the community will serve as curators. It  will operate as open source project on GitHub, and be maintained by O'Reilly. Through Liber Amicorum, we aim to:
+Liber Amicorum is a collaborative, community-driven project to map the state of the art and create a useful resource for both new and experienced software artists. Andrew Odewahn of O'Reilly Media, Isabel Draves of LISA (Leaders in Software and Art), and select members of the community will serve as curators. It  will operate as open source project on GitHub, and be maintained by O'Reilly. Through Liber Amicorum, we aim to:
 
 * Create a resource--equal parts inspiration, guide, and catalog--that maps this emerging space, advances practitioners'understanding of it, and shows that there's a there there.
 * Document inspirational projects--not only the amazing finished product, but the workflow, tools, and hacks the artist used in the process of creating it.
@@ -14,7 +14,7 @@ We'll publish Liber Amicorum periodically as a PDF, on the iBookstore, on the Ki
 
 [NOTE]
 ====
-And that title? A Liber Amicorum is a "book of friends."  We thought that was a pretty good description of this thing (and we like it better than "guide" or "directory").
+And that title? _Liber Amicorum_ means the "book of friends."  We thought that was a pretty good description for what we want to do and how we want to do it.  (And, we liked it a lot better than "guide" or "directory").
 ====
 
 
