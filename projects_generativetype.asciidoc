@@ -1,4 +1,4 @@
-[[unique_project_name]]
+[[generative_typography]]
 === Generative Typography Platform with Processing - Project in Progress
 
 
