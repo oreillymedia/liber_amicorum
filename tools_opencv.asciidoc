@@ -9,13 +9,13 @@ OpenCV is actively managed by link:http://itseez.com/[itseez] and link:http://op
 ****
 Site::
    http://opencv.org
-Git:
+Git::
    git://code.opencv.org/opencv.git
-Wikipedia:
+Wikipedia::
    http://en.wikipedia.org/wiki/OpenCV
-Twitter:
+Twitter::
    http://twitter.com/#!/opencvlibrary
-OpenCV Wiki: 
+OpenCV Wiki:: 
    http://code.opencv.org/projects/opencv/wiki
 ****
 
