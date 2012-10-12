@@ -37,16 +37,16 @@ Golan Levin: http://flong.com/ | http://twitter.com/golan +
 
 made with openFrameworks: http://vimeo.com/921725 +
 
-Eyewriter: http://eyewriter.org/ +
-Drawn: http://thesystemis.com/projects/drawn/ +
-Faces by Arturo Castro & Kyle McDonald: http://arturocastro.net/work/faces.html +
- Body Swap: http://www.chrisoshea.org/body-swap +
-Blind Self Portrait by Kyle McDonald: http://vimeo.com/44489751 +
-Night Bright by Design I/O: http://design-io.com/site_docs/work.php?id=13 +
-Hana by Andreas Muller: http://www.creativeapplications.net/iphone/hana-by-andreas-muller-allows-ios-devices-to-dream-about-flowers/ +
-Hand tracking experiment by Ben McChesney: https://github.com/HeliosInteractive/ofxIisu +
-FaceShift (face tracking): http://faceshift.com/ +
-Graffiti Analysis by Evan Roth: http://www.ni9e.com/graffiti_analysis.html +
+http://eyewriter.org/[Eyewriter] +
+http://thesystemis.com/projects/drawn/[Drawn] +
+http://arturocastro.net/work/faces.html[Faces] by Arturo Castro & Kyle McDonald +
+http://www.chrisoshea.org/body-swap[Body Swap] +
+http://vimeo.com/44489751[Blind Self Portrait] by Kyle McDonald +
+http://design-io.com/site_docs/work.php?id=13[Night Bright] by Design I/O +
+http://www.creativeapplications.net/iphone/hana-by-andreas-muller-allows-ios-devices-to-dream-about-flowers/[Hana] by Andreas Muller +
+https://github.com/HeliosInteractive/ofxIisu[Hand tracking experiment] by Ben McChesney +
+http://faceshift.com/[FaceShift (face tracking)] +
+http://www.ni9e.com/graffiti_analysis.html[Graffiti Analysis] by Evan Roth +
 
 
 ==== Resources / Community / Support: 
