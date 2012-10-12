@@ -9,12 +9,12 @@
 ==== Quickest Possible Description
 Max is a visual dataflow programming environment for music and multimedia whose GUI reflects the structure of the program you're writing, where objects in the code are displayed on the screen and are connected to each other via inlets and outlets, in a similar way to how a sound engineer might connect analog inputs to processors and outputs. Following the metaphor, Max operates in response to 'bangs', which are initiating events, much like an electric current running through a synthesizer. MSP is a plug-in for Max that allows real-time manipulation of digital audio signals, and is designed to be fairly easy to start using and prototype with. When you think Max, you're probably really thinking Max/MSP.
 
-http://cycling74.com/products/max/video-jitter/[Jitter] is another popular Max package that allows for manipulation of real-time video, 3D graphics, animation, and more.
+link:http://cycling74.com/products/max/video-jitter/[Jitter] is another popular Max package that allows for manipulation of real-time video, 3D graphics, animation, and more.
 
 
 ==== Frequently Used For
-Live performance +
-Interactive art installations, both large and small
+((Live performance)) +
+((Interactive art installations, both large and small))
  
 
 ==== Important Details
