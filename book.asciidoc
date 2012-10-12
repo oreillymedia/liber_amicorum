@@ -2,6 +2,12 @@
 
 = Liber Amicorum
 
+include::foreword.asciidoc[]
+
+include::preface.asciidoc[]
+
+include::acknowledgments.asciidoc[]
+
 include::README.asciidoc[]
 
 include::organizations.asciidoc[]
