@@ -1,0 +1,48 @@
+[[MechanicalTurk]]
+=== MechanicalTurk
+   
+*Site:* http://www.digi.com/xbee + 
+*Git:* +
+*Wikipedia:* http://en.wikipedia.org/wiki/XBee
+   
+
+==== Quickest Possible Description
+xBees make things talk, wirelessly. Free your projects.
+
+==== Frequently Used For
+
+ 
+
+==== Important Details
+
+ 
+
+==== Heavyweights
+Rob Faludi @faludi | http://www.faludi.com/ + 
+
+
+==== Projects & Examples 
+
+
+==== Resources / Community / Support 
+
+*Tutorials* +
+ +
+ +
+
+*Books* +
+ +
+ +
+
+*Blogs & Websites* +
+ +
+ +
+
+*Community / Support* +
+ +
+ +
+
+
+==== Similarly Awesome and Useful Tools
+
+
