@@ -1,4 +1,4 @@
-[[unique_project_name]]
+[[creative_archeology]]
 === Creative Archeology: finding inspiration in the archives
 
 What areas or field does it fall in::
@@ -7,6 +7,7 @@ What tools did you use?
    ((Processing))
    
 ==== Description
+
 image::images/galloway1.png[]
 
 In the summer of 2011, Alex Galloway published link:http://cultureandcommunication.org/galloway/pdf/Galloway-Creative_Evolution-Cabinet_Magazine.pdf[a fantastic article] on the work of Nils Aall Barricelli in link:http://www.cabinetmagazine.org/[Cabinet Magazine]. It has remained somewhat underground among creative coders and I believe it to be not only a fascinating read, but an example of a creative-historical process that could change the way we approach our work as digital artists.
