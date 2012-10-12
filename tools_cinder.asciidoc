@@ -1,7 +1,6 @@
-[[unique-tool-name]]
-=== Unique Tool Name
+[[Cinder]]
+=== Cinder
 
-General description and overview
 
 URL::
    http://example.com
