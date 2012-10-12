@@ -22,9 +22,8 @@ Code for this project is available on link:http://cultureandcommunication.org/ga
 
 ==== Other LInks
 
-link:http://rhizome.org/editorial/2012/sep/25/prosthetic-knowledge-picks-computer-graphics-art-1/[Computer Graphics & Art 1976-1978 - digitized PDFs of a short-lived magazine]
-
-link:http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=12476[A Little-Known Story about a Movement, a Magazine, and the Computer’s Arrival in Art: New Tendencies and Bit International, 1961–1973 - book published by MIT Press]
+* link:http://rhizome.org/editorial/2012/sep/25/prosthetic-knowledge-picks-computer-graphics-art-1/[Computer Graphics & Art 1976-1978 - digitized PDFs of a short-lived magazine]
+* link:http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=12476[A Little-Known Story about a Movement, a Magazine, and the Computer’s Arrival in Art: New Tendencies and Bit International, 1961–1973 - book published by MIT Press]
 
 ==== Bios
 
@@ -34,10 +33,10 @@ Matthew Epler is a graduate student at NYU's Interactive Telecommunications Prog
 
 
 URL::
-   http://cultureandcommunication.org/galloway/
-   http://mepler.com/
+*   http://cultureandcommunication.org/galloway/
+*   http://mepler.com/
 Contact Information::
-   galloway@nyu.edu    
-   matthewepler@gmail.com
+*   galloway@nyu.edu    
+*   matthewepler@gmail.com
 Tags::
-   (((processing)))
+   ((processing))
