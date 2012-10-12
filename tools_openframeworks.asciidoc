@@ -1,0 +1,78 @@
+collaborative book rough draft
+
+[[OpenFrameworks]]
+=== OpenFrameworks
+
+* Site: http://www.openframeworks.cc/
+* Git: https://github.com/openframeworks/openFrameworks
+* Wikipedia: http://en.wikipedia.org/wiki/OpenFrameworks
+* Twitter: https://twitter.com/openframeworks
+* Other wiki/resource: http://wiki.openframeworks.cc/
+
+ 
+==== Quickest Possible Description
+ openFrameworks is an open source C++ toolkit designed to make creative coding easier. Its creators describe it as a "general purpose glue" that wraps together common libraries such as OpenGL, OpenCV, FreeType and many more. It is designed to be cross-platform and extensible, and to provide a promote experimentation with both software interfaces that allow for interesting real-time screen-based and physical interactions. openFrameworks shares many similarities with Processing and especially Cinder, which is also a C++ library framework. It makes sense to investigate all three when deciding on a creative coding tool.
+
+
+==== Frequently Used For
+Physical Installations +
+Big Screens +
+Physical & Screen Based Interaction Projects
+
+
+Important Details:
+Open Source, distributed under the https://en.wikipedia.org/wiki/MIT_License[MIT License] +
+Platforms: Windows, OSX, Linux, iOS, Android +
+IDEs: XCode, Code::Blocks, Visual Studio, Eclipse
+
+
+Heavyweights:
+Zach Lieberman @zachlieberman | http://thesystemis.com/ +
+Arturo Castro @artur0castro | http://arturocastro.net/ +
+Kyle McDonald ‏ @kcimc | http://kylemcdonald.net/ +
+Theo Watson ‏ @theowatson | http://www.theowatson.com/ +
+Chris O’Shea ‏ @chrisoshea | http://www.chrisoshea.org/ +
+Evan Roth http://www.evan-roth.com/work/ | @fi5e +
+Golan Levin: http://flong.com/ | http://twitter.com/golan +
+
+Projects & Examples: 
+
+made with openFrameworks: http://vimeo.com/921725
+
+Eyewriter: http://eyewriter.org/ +
+Drawn: http://thesystemis.com/projects/drawn/ +
+Faces by Arturo Castro & Kyle McDonald: http://arturocastro.net/work/faces.html +
+ Body Swap: http://www.chrisoshea.org/body-swap +
+Blind Self Portrait by Kyle McDonald: http://vimeo.com/44489751 +
+Night Bright by Design I/O: http://design-io.com/site_docs/work.php?id=13 +
+Hana by Andreas Muller: http://www.creativeapplications.net/iphone/hana-by-andreas-muller-allows-ios-devices-to-dream-about-flowers/ +
+Hand tracking experiment by Ben McChesney: https://github.com/HeliosInteractive/ofxIisu +
+FaceShift (face tracking): http://faceshift.com/ +
+Graffiti Analysis by Evan Roth: http://www.ni9e.com/graffiti_analysis.html +
+
+
+Resources / Community / Support: 
+ 
+Tutorials: +
+The OF site has excellent tutorials, and is a great place to start: http://www.openframeworks.cc/tutorials/ +
+C and C++ in 5 days by Philip Machanick (PDF): http://www.itee.uq.edu.au/~comp3300/Resources/C_C++_notes.pdf +
+OF for processing users by Zach Gage, for those transitioning from Processing: http://wiki.openframeworks.cc/index.php?title=OF_for_Processing_users +
+
+Using openFrameworks with Arduino: http://www.sparkfun.com/tutorials/318 +
+
+OF Frameworks Tutorials by Ben McChesney: https://github.com/benMcChesney/Open-Frameworks-Tutorials +
+
+*Books* +
+Programming Interactivity by Joshua Noble: http://oreilly.com/catalog/9780596154141/ +
+*Community* +
+Mailing List: http://www.openframeworks.cc/list-info/ +
+Forum: http://forum.openframeworks.cc/index.php +
+
+==== Similarly Awesome and Useful Tools
+  
+http://ofxaddons.com[ofxaddons] A directory of extensions and libraries for OpenFrameworks +
+
+https://github.com/ofTheo/ofxKinect[ofxKinect], an OF add-on for the Xbox Kinect +
+
+
+
