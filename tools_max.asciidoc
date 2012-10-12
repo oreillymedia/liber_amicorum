@@ -37,7 +37,7 @@ video::http://www.youtube.com/embed/JKWsfzN3syo[height='300', width='500', poste
 ==== Resources / Community / Support 
 
 *Tutorials* +
-There's a huge amount of resources available at the http://cycling74.com/community/[Max/MSP site]. That's the best place to start.
+There's a huge amount of resources available at the http://cycling74.com/community/[Max/MSP site]. That's the best place to start. +
 http://abstrakt.vade.info/?p=147[jitter movie playback optimizations]
 
 *Books* +
@@ -49,7 +49,6 @@ http://www.s373.net/code/[s373.net]
 
 *Community / Support* +
 http://itp.nyu.edu/dataflow/Main/IntroToDataflow[Intro To Dataflow] - a syllabus for an ITP class taught by, with lots of good information. +
- +
 
 
 ==== Similarly Awesome and Useful Tools
