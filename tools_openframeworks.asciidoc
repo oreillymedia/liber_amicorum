@@ -23,7 +23,7 @@ Physical & Screen Based Interaction Projects
 ==== Important Details:
 Open Source, distributed under the https://en.wikipedia.org/wiki/MIT_License[MIT License] +
 Platforms: Windows, OSX, Linux, iOS, Android +
-IDEs: XCode, Code::Blocks, Visual Studio, Eclipse
+IDEs: XCode, pass:[Code::]Blocks, Visual Studio, Eclipse
 
 
 ==== Heavyweights:
