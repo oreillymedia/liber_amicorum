@@ -1,0 +1,79 @@
+[[Arduino]]
+=== Arduino
+   
+Site: http://arduino.cc/ +
+Git / Repo: http://code.google.com/p/arduino/ & https://github.com/arduino/Arduino +
+wikipedia: http://en.wikipedia.org/wiki/Arduino +
+twitter: http://twitter.com/arduinoteam +
+other wiki/resource: http://www.arduino.cc/playground/ +
+   
+
+==== Quickest Possible Description
+Arduino--one of the most successful open-source hardware projects ever--is a micro-controller and programming environment intended primarily for artists, designers, hobbyists, and students. It is particularly useful for quick prototyping because of the flexibility and ease-of-use of both the software and hardware. The software includes an IDE built on Processing and Wiring. 
+
+Both the hardware and software are open source, so you can build-your-own Arduino, or buy one pre-assembled. In addition, many specialized versions have been created for specific uses, such as the Lilypad Arduino for wearable computing (official Arduino project) and the Boarduino, a breadboard-compatible clone. http://www.ladyada.net/make/boarduino/
+
+==== Frequently Used For
+Physical Computing +
+Interactive art and objects +
+Translating physical inputs (sound, light, touch, temperature, vibration) into digital applications +
+Wearables 
+
+==== Important Details
+Both the hardware and software are open-source.  +
+The software is released under the http://www.gnu.org/licenses/old-licenses/gpl-2.0.html[GNU GPL V2] (IDE) and LGPL (micro-controller libraries)+
+Hardware is released under an Creative Commons Attribution Share-Alike license 
+
+==== Heavyweights
+The Arduino team is: http://www.tinker.it/[Massimo Banzi], http://www.blushingboy.org/[David Cuartielles], http://itp.nyu.edu/~tqi6023/[Tom Igoe], http://www.smartprojects.it/[Gianluca Martino], and http://dam.mellis.org/[David Mellis] +
+
+
+
+==== Projects & Examples 
+This TedGlobal talk by Massimo Banzi describes many projects: http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination.html +
+ArduCopter: Arduino-powered Drone: http://diydrones.com/profiles/blogs/announcing-arducopter-the +
+Short++: http://www.adimarom.com/?p=1386 +
+MudTub: http://tomgerhardt.com/mudtub/ +
+KickBee: http://kickbee.net/ +
+
+==== Resources / Community / Support 
+
+Because the Arduino project is so well-organized and supported, the very best resource is the Arudino site itself. Some of the most useful sections are included below
+
+*Tutorials* +
+http://arduino.cc/en/Tutorial/HomePage +
+http://arduino.cc/en/Guide/HomePage[Getting Started With Arduino]
+Arduino Video Tutorials: http://www.youtube.com/rswwwchannel/
+
+*Books* +
+Getting Started With Arduino by Massimo Banzi: http://shop.oreilly.com/product/9780596155520.do +
+Making Things Talk by Tom Igoe: http://shop.oreilly.com/product/0636920010920.do +
+Arduino Cookbook By Michael Margolis: http://shop.oreilly.com/product/0636920022244.do +
+iOS Sensor Apps with Arduino By Alasdair Allan: http://shop.oreilly.com/product/0636920021179.do
+
+*Blogs & Websites* +
+ +
+ +
+
+*Community / Support* +
+Arduino Developer Mailing List: http://mail.arduino.cc/mailman/listinfo/developers_arduino.cc +
+Arduino Forum: http://www.arduino.cc/forum/ +
+Arduino Playground (community resource): http://www.arduino.cc/playground/ +
+Arduino Language Reference: http://arduino.cc/en/Reference/HomePage +
+ITP's Physical Computing site: http://itp.nyu.edu/physcomp/Labs/Labs
+
+
+==== Similarly Awesome and Useful Tools
+  
+Make Controller Kit: http://www.makingthings.com/store/make-controller/make-controller-kit.html & http://en.wikipedia.org/wiki/Make_Controller_Kit#Make_Controller_Kit +
+Rasberry Pi - a credit card sized single-board computer:
+http://www.raspberrypi.org/  |  http://en.wikipedia.org/wiki/Raspberry_Pi  +
+BeagleBoard - another popular single board computer: +
+http://beagleboard.org/  |  http://en.wikipedia.org/wiki/BeagleBoard +
+Official Arduino Hardware: http://arduino.cc/en/Main/Hardware +
+AdaFruit: http://www.adafruit.com/ +
+SparkFun: http://www.sparkfun.com/pages/arduino_guide +
+Boarduino: http://www.ladyada.net/make/boarduino/ +
+
+
+
