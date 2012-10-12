@@ -1,7 +1,7 @@
 [[Cinder]]
 === Cinder
-
-   Site: http://libcinder.org/[http://libcinder.org/]
+http://www.your-url.com[link description]
+   Site: http://libcinder.org[http://libcinder.org/]
    Git: https://github.com/cinder/Cinder
    Wikipedia: http://en.wikipedia.org/wiki/Cinder_(programming_language)
 
