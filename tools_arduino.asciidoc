@@ -5,19 +5,22 @@ Arduino--one of the most successful open-source hardware projects ever--is a mic
 
 Both the hardware and software are open source, so you can build-your-own Arduino, or buy one pre-assembled. In addition, many specialized versions have been created for specific uses, such as the Lilypad Arduino for wearable computing (official Arduino project) and the Boarduino, a breadboard-compatible clone. http://www.ladyada.net/make/boarduino/
 
-[NOTE]
-====
+.Quickest possible description
+****
+Description::
+   A micro-controller and programming environment
 Site::
    http://arduino.cc/
 Git / Repo::
-   http://code.google.com/p/arduino/ & https://github.com/arduino/Arduino
-wikipedia: 
+   * https://github.com/arduino/Arduino
+   * http://code.google.com/p/arduino/ 
+wikipedia:: 
    http://en.wikipedia.org/wiki/Arduino
-twitter: 
+twitter:: 
    http://twitter.com/arduinoteam
-other wiki/resource: 
+other wiki/resource:: 
    http://www.arduino.cc/playground/
-====   
+**** 
 
 ==== Frequently Used For
 
@@ -45,10 +48,10 @@ The Arduino team is
 
 ==== Projects & Examples 
 
-* http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination.html[Massimo Banzi: How Arduino is open-sourcing imagination]
-* Short++: http://www.adimarom.com/?p=1386
-* MudTub: http://tomgerhardt.com/mudtub/
-* KickBee: http://kickbee.net/ 
+* link:http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination.html[Massimo Banzi: How Arduino is open-sourcing imagination]
+* link:http://www.adimarom.com/?p=1386[Short++]
+* http:http://tomgerhardt.com/mudtub/[MudTub]
+* http:http://kickbee.net/[KickBee]
 
 ==== Resources / Community / Support 
 
