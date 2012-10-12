@@ -28,21 +28,20 @@ Luke Dubois https://twitter.com/RLukeDuBois[@RLukeDuBois] | http://www.lukeduboi
 
 ==== Projects & Examples 
 video::http://player.vimeo.com/video/41507465[height='300', width='500', poster='images/generic_video.png'] (- Vertical Music by R. Luke Dubois) +
-http://www.soundplusdesign.com/?p=5516[Skube]
-http://www.youtube.com/watch?v=-1tTABS_Ugs[Monome]
-http://cycling74.com/project/word-sequencer/[Word Sequencer] by Justin Sheriff
+http://www.soundplusdesign.com/?p=5516[Skube] +
+http://www.youtube.com/watch?v=-1tTABS_Ugs[Monome] +
+http://cycling74.com/project/word-sequencer/[Word Sequencer] by Justin Sheriff +
 video::http://www.youtube.com/embed/JKWsfzN3syo[height='300', width='500', poster='images/generic_video.png']
 
 ==== Resources / Community / Support 
 
 *Tutorials* +
 There's a huge amount of resources available at the http://cycling74.com/community/[Max/MSP site]. That's the best place to start. +
- +
 
 *Books* +
 http://www.virtual-sound.com/[Electronic Music & Sound Design] by Alessandro Cipriani & Maurizio Giri +
+
 *Blogs & Websites* +
- +
  +
 
 *Community / Support* +
@@ -51,7 +50,6 @@ http://itp.nyu.edu/dataflow/Main/IntroToDataflow[Intro To Dataflow] syllabus for
 
 
 ==== Similarly Awesome and Useful Tools
-  
 Pure Data: An open source alternative to Max, originally developed by the same developer, Miller Puckette. Labeled as a 'real-time music and multimedia environment' it allows manipulation of video, graphics, and music, and enables live collaboration across networks between musicians. It's multi-platform and portable so it can run on all sorts of devices and can be extended.
 
 
