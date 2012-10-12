@@ -1,9 +1,11 @@
 [[Cinder]]
 === Cinder
    
-Site: http://libcinder.org
- Git: https://github.com/cinder/Cinder
- Wikipedia: http://en.wikipedia.org/wiki/Cinder_(programming_language)
+++++
+
+++++Site: http://libcinder.org
+Git: https://github.com/cinder/Cinder
+Wikipedia: http://en.wikipedia.org/wiki/Cinder_(programming_language)
    
 
 Key areas::
