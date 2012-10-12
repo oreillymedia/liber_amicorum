@@ -45,44 +45,40 @@ Amanda Cox
 ==== Resources / Community / Support 
 
 Tutorials::
-* http://www.revolutionanalytics.com/news-events/free-webinars/2012/introduction-to-r-for-data-mining/[Introduction to R for Data Mining] (Webinar)
-* http://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2012/Why-and-How-People-Use-R[Why and How people Use R] by John Cook (presentation)
-* http://jeffreybreen.wordpress.com/2012/10/02/tapping-the-data-deluge-with-r/
-* link:http://www.slideshare.net/jeffreybreen/tapping-the-data-deluge-with-r[Tapping the Data Deluge with R] - by Jeff Breen (lightning talk)
-* link:http://www.johndcook.com/R_language_for_programmers.html[Tutorial: R for programmers coming from different languages] by John Cook
-* link:http://burns-stat.com/pages/Tutor/hints_R_begin.html[Some Hints For The R Beginner] by Patrick Burns
-* link:http://www.burns-stat.com/pages/Tutor/R_inferno.pdf[The R Inferno] by Patrick Burns (PDF)
-* link:http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html[Google's R Style Guide]
-* link:http://flowingdata.com/category/tutorials/[A bunch of great tutorials] from Flowing Data
-* link:http://cran.r-project.org/doc/manuals/R-intro.html[an introduction to R]
+   * http://www.revolutionanalytics.com/news-events/free-webinars/2012/introduction-to-r-for-data-mining/[Introduction to R for Data Mining] (Webinar)
+   * http://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2012/Why-and-How-People-Use-R[Why and How people Use R] by John Cook (presentation)
+   * http://jeffreybreen.wordpress.com/2012/10/02/tapping-the-data-deluge-with-r/
+   * link:http://www.slideshare.net/jeffreybreen/tapping-the-data-deluge-with-r[Tapping the Data Deluge with R] - by Jeff Breen (lightning talk)
+   * link:http://www.johndcook.com/R_language_for_programmers.html[Tutorial: R for programmers coming from different languages] by John Cook
+   * link:http://burns-stat.com/pages/Tutor/hints_R_begin.html[Some Hints For The R Beginner] by Patrick Burns
+   * link:http://www.burns-stat.com/pages/Tutor/R_inferno.pdf[The R Inferno] by Patrick Burns (PDF)
+   * link:http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html[Google's R Style Guide]
+   * link:http://flowingdata.com/category/tutorials/[A bunch of great tutorials] from Flowing Data
+   * link:http://cran.r-project.org/doc/manuals/R-intro.html[an introduction to R]
+Books::
+   * link:http://datajournalismhandbook.org[datajournalismhandbook.org]
+   * link:http://shop.oreilly.com/product/9780596801717.do[R In A Nutshell]
+   * link:http://www.amazon.com/gp/product/0470944889/?tag=flowingdata-20+[Visualize This]
+   * link:http://www.manning.com/kabacoff/[R in Action - Data Analysis and Graphics with R] by Robert Kabacoff
+   * link:http://www.r-project.org/doc/bib/R-books.html[Books Related To R] (a list, not a book)
 
+Blogs & Websites::
+   * http://www.inside-r.org/howto/finding-data-internet[Finding Data on the Internet] (This blog post lists data sources that are easily imported into R or already in R format)
+http://www.statmethods.net/[www.statmethods.net] A great blog with lots of information from the author of R In Action.
+   * http://blog.revolutionanalytics.com/[David Smith's R blog]
+   * http://citizen-statistician.org/[Citizen Statistician] (a blog about stats that talks a lot about R)
+   * http://journal.r-project.org/current.html[R Journal: Articles & News about R)
+   * http://flowingdata.com[flowingdata.com]
 
-
-*Books* +
-http://datajournalismhandbook.org[datajournalismhandbook.org] +
-http://shop.oreilly.com/product/9780596801717.do[R In A Nutshell]
-http://www.amazon.com/gp/product/0470944889/?tag=flowingdata-20+[Visualize This]
-http://www.manning.com/kabacoff/[R in Action - Data Analysis and Graphics with R] by Robert Kabacoff
-http://www.r-project.org/doc/bib/R-books.html[Books Related To R] (a list, not a book)
-
-
-*Blogs & Websites* +
-http://www.inside-r.org/howto/finding-data-internet[Finding Data on the Internet] (This blog post lists data sources that are easily imported into R or already in R format)
-http://www.statmethods.net/[www.statmethods.net] A great blog with lots of information from the author of R In Action. +
-http://blog.revolutionanalytics.com/[David Smith's R blog] +
-http://citizen-statistician.org/[Citizen Statistician] (a blog about stats that talks a lot about R) +
-http://journal.r-project.org/current.html[R Journal: Articles & News about R] +
-http://flowingdata.com[flowingdata.com] +
-
-
-*Community / Support* +
-http://cran.R-project.org/faqs.html[Cran R project FAQ] +
-http://www.inside-r.org/[inside-R] +
-http://www.r-project.org/mail.html[R-Help Mailing List] +
-http://www.r-project.org/other-docs.html[project documentation]
+Community / Support::
+* link:http://cran.R-project.org/faqs.html[Cran R project FAQ]
+* link:http://www.inside-r.org/[inside-R]
+* link:http://www.r-project.org/mail.html[R-Help Mailing List]
+* link:http://www.r-project.org/other-docs.html[project documentation]
 
 
 ==== Similarly Awesome and Useful Tools
+
 http://cran.r-project.org/web/packages/Rook/index.html[Rook] - R package for building and running R web applications +
 http://rstudio.org[RStudio] - IDE for R +
 http://elastic-r.net[elasticR] - Package for using EC2 with R +
