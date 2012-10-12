@@ -1,11 +1,11 @@
 [[OpenFrameworks]]
 === OpenFrameworks
 
-* Site: http://www.openframeworks.cc/
-* Git: https://github.com/openframeworks/openFrameworks
-* Wikipedia: http://en.wikipedia.org/wiki/OpenFrameworks
-* Twitter: https://twitter.com/openframeworks
-* Other wiki/resource: http://wiki.openframeworks.cc/
+Site: http://www.openframeworks.cc/
+Git: https://github.com/openframeworks/openFrameworks
+Wikipedia: http://en.wikipedia.org/wiki/OpenFrameworks
+Twitter: https://twitter.com/openframeworks
+*Other wiki/resource:* http://wiki.openframeworks.cc/
 
  
 ==== Quickest Possible Description
