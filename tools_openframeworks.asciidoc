@@ -1,5 +1,3 @@
-collaborative book rough draft
-
 [[OpenFrameworks]]
 === OpenFrameworks
 
