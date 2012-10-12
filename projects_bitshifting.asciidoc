@@ -1,4 +1,4 @@
-[[unique_project_name]]
+[[bit_shifting]]
 === Bit-shifting with Kyle McDonald
 
 What areas or field does it fall in::
