@@ -1,0 +1,4 @@
+[preface]
+== Foreword
+
+A brilliant, insightful, and moving foreword goes here.
