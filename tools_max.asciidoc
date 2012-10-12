@@ -23,7 +23,7 @@ Cross platform and widely supported. +
 
 ==== Heavyweights
 Luke Dubois https://twitter.com/RLukeDuBois[@RLukeDuBois] | http://www.lukedubois.com/ (Co-author of Jitter, director of Experimental Media Center at NYU Poyltechnic) +
-Josh Goldberg http://goldbergs.com/ +
+Josh Goldberg http://twitter.com/wugmump[@wugmump] | http://goldbergs.com/ +
 
 
 ==== Projects & Examples 
