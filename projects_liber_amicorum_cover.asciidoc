@@ -1,0 +1,34 @@
+[[liber_amicorum_cover]]
+=== Cover for the Liber Amicorum
+
+What areas or field does it fall in::
+   ((generative art)), ((design))
+What tools did you use?
+   ((Processing))
+   
+==== Description 
+
+I've was playing around with the thought of making a generative book cover for the LISA book. I tend to have a very minimalistic style in all of my print design. Most books about creative coding tend to have extremely algorithmic book covers, and I thought it would be fun to do something very different.
+
+So, the cover is created by a Processing sketch that called link:https://github.com/runemadsen/generative-book-cover[generative-book-cover]. When it runs, it chooses a random background color, and starts a physics simulation that drops random sized shapes into a big triangle container. Inside of this triangle container is another container in the shape of a semi-colon, and all the small, dropping shapes will bounce of these 2 containers. At any given point in time, the Processing sketch will save whatever is in the window and quit.
+
+Here are a couple of samples:
+
+image::images/la_cover2.jpg[]
+
+Here's the second iteration:
+
+image::images/la_cover3.jpg[]
+
+I ran the sketch 4 times, and the initial cover was the 4th image that came out of it.  We'll use it to generate a completely new cover for each major edition of teh book.  It's a good story with some good symbolism (the semi-colon made up by a lot of smaller bits), and it fits well with the kind of stuff that I like (http://bit.ly/PstKmV). 
+
+==== Bio
+
+Rune Madsen is a designer and programmer from Copenhagen, Denmark. He moved to New York City 3 years ago to study at the Interactive Telecommunications Program (ITP) at NYU, and spent a year afterwards creating data visualizations for the New York Times. 
+
+Rune also makes art with computers, which means everything from print design (http://runemadsen.com/work/tiny-artists) and gallery installations (http://runemadsen.com/work/write-me) to video sculptures (http://runemadsen.com/work/tile-puzzle) and interactive visuals for performers (http://runemadsen.com/work/ohland-balloon-visuals). 
+
+Alongside his O'Reilly job as a software developer, Rune is teaching a graduate class at ITP on algorithmic graphic design. 
+
+URL::
+   http://runemadsen.com/
