@@ -1,9 +1,9 @@
 [[MechanicalTurk]]
 === MechanicalTurk
    
-*Site:* + 
+*Site:* https://www.mturk.com/mturk/welcome + 
 *Git:* +
-*Wikipedia:*
+*Wikipedia:* http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk
    
 
 ==== Quickest Possible Description
