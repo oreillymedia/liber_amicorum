@@ -1,4 +1,4 @@
-:bookseries: maker
+:bookseries: devnote
 
 = Liber Amicorum
 
@@ -8,7 +8,15 @@ include::organizations.asciidoc[]
 
 include::tools.asciidoc[]
 
+include::tools_openframeworks.asciidoc[]
+
 include::tools_processing.asciidoc[]
+
+include::tools_max.asciidoc[]
+
+include::tools_cinder.asciidoc[]
+
+include::tools_R.asciidoc[]
 
 include::projects.asciidoc[]
 
