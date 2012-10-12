@@ -37,11 +37,13 @@ video::http://www.youtube.com/embed/CEN4XNth61o[height='300', width='500', poste
 
 To contribute to Liber Amicorum:
 
-* Fork the repository
-* Add your changes
+* Create a GitHub account (If you don't have one already)
+* Go to the link:https://github.com/oreillymedia/liber_amicorum[Liber Amicorum] repo
+* Fork the repository, or just go to the file you want to edit and click "Edit"
+* Enter your changes in link::http://powerman.name/doc/asciidoc-compact.html[AsciiDoc] format
 * Send a pull request
 
-We'll use the feedback and discussion generated from the pull request to decide whether to merge the request and generate a fresh version of the guide.
+We'll use the feedback and discussion generated from your pull request to decide whether to accept the contribution.  Once we do, we'll generate a fresh version of the guide in PDF, EPUB (for iBooks), and Mobi (for Kindle) formats.
 
 === License
 
