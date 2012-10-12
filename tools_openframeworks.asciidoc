@@ -20,13 +20,13 @@ Big Screens +
 Physical & Screen Based Interaction Projects
 
 
-Important Details:
+==== Important Details:
 Open Source, distributed under the https://en.wikipedia.org/wiki/MIT_License[MIT License] +
 Platforms: Windows, OSX, Linux, iOS, Android +
 IDEs: XCode, Code::Blocks, Visual Studio, Eclipse
 
 
-Heavyweights:
+==== Heavyweights:
 Zach Lieberman @zachlieberman | http://thesystemis.com/ +
 Arturo Castro @artur0castro | http://arturocastro.net/ +
 Kyle McDonald ‏ @kcimc | http://kylemcdonald.net/ +
@@ -35,9 +35,9 @@ Chris O’Shea ‏ @chrisoshea | http://www.chrisoshea.org/ +
 Evan Roth http://www.evan-roth.com/work/ | @fi5e +
 Golan Levin: http://flong.com/ | http://twitter.com/golan +
 
-Projects & Examples: 
+==== Projects & Examples: 
 
-made with openFrameworks: http://vimeo.com/921725
+made with openFrameworks: http://vimeo.com/921725 +
 
 Eyewriter: http://eyewriter.org/ +
 Drawn: http://thesystemis.com/projects/drawn/ +
@@ -51,9 +51,9 @@ FaceShift (face tracking): http://faceshift.com/ +
 Graffiti Analysis by Evan Roth: http://www.ni9e.com/graffiti_analysis.html +
 
 
-Resources / Community / Support: 
+==== Resources / Community / Support: 
  
-Tutorials: +
+*Tutorials* +
 The OF site has excellent tutorials, and is a great place to start: http://www.openframeworks.cc/tutorials/ +
 C and C++ in 5 days by Philip Machanick (PDF): http://www.itee.uq.edu.au/~comp3300/Resources/C_C++_notes.pdf +
 OF for processing users by Zach Gage, for those transitioning from Processing: http://wiki.openframeworks.cc/index.php?title=OF_for_Processing_users +
