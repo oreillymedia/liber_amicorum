@@ -1,9 +1,9 @@
 [[Max]]
 === Max/MSP & Jitter
    
-*Site:* http://cycling74.com + 
-*Git:* +
-*Wikipedia:* http://en.wikipedia.org/wiki/Max_(software)
+Site::http://cycling74.com
+Git::TK
+Wikipedia::http://en.wikipedia.org/wiki/Max_(software)
    
 
 ==== Quickest Possible Description
@@ -13,19 +13,23 @@ http://cycling74.com/products/max/video-jitter/[Jitter] is another popular Max p
 
 
 ==== Frequently Used For
-Live performance +
-Interactive art installations, both large and small
+* ((Live performance))
+* ((Interactive art installations)), both large and small
  
 
 ==== Important Details
-Is not free software, but there are student and teacher versions. +
-Cross platform and widely supported. +
+* Is not free software, but there are student and teacher versions.
+* Cross platform and widely supported.
 
 ==== Heavyweights
-Luke Dubois https://twitter.com/RLukeDuBois[@RLukeDuBois] | http://www.lukedubois.com/ (Co-author of Jitter, director of Experimental Media Center at NYU Poyltechnic) +
-Josh Goldberg (artist) http://twitter.com/wugmump[@wugmump] | http://goldbergs.com/ +
-Kurt Ralske (artist, creator of Auvi) https://twitter.com/kurtralske[@kurtralske] | http://retnull.com/ +
-Jeremy Bailey (artist) https://twitter.com/jeremybailey[@jeremybailey] | http://www.jeremybailey.net/ +
+
+|===========================
+|Luke Dubois https://twitter.com/RLukeDuBois[@RLukeDuBois]| http://www.lukedubois.com/ (Co-author of Jitter, director of Experimental Media Center at NYU Poyltechnic)
+|Josh Goldberg (artist) http://twitter.com/wugmump[@wugmump] | http://goldbergs.com/
+|Kurt Ralske (artist, creator of Auvi) https://twitter.com/kurtralske[@kurtralske] | http://retnull.com/
+|Jeremy Bailey (artist) https://twitter.com/jeremybailey[@jeremybailey] | http://www.jeremybailey.net/
+|===========================
+
 
 ==== Projects & Examples 
 video::http://player.vimeo.com/video/41507465[height='300', width='500', poster='images/generic_video.png'] (- Vertical Music by R. Luke Dubois) +
