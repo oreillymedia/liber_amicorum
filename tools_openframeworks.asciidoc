@@ -58,16 +58,16 @@ http://www.openframeworks.cc/tutorials/[openframeworks.cc/tutorials/] has excell
 http://www.itee.uq.edu.au/~comp3300/Resources/C_C++_notes.pdf[C and pass:[C++ in 5 days]] by Philip Machanick (PDF) +
 http://wiki.openframeworks.cc/index.php?title=OF_for_Processing_users[OF for Processing Users] by Zach Gage, for those transitioning from Processing +
 
-Using openFrameworks with Arduino: http://www.sparkfun.com/tutorials/318 +
+http://www.sparkfun.com/tutorials/318[Using openFrameworks with Arduino] +
 
-OF Frameworks Tutorials by Ben McChesney: https://github.com/benMcChesney/Open-Frameworks-Tutorials +
+https://github.com/benMcChesney/Open-Frameworks-Tutorials[OF Frameworks Tutorials] by Ben McChesney +
 
 *Books* +
-Programming Interactivity by Joshua Noble: http://oreilly.com/catalog/9780596154141/ +
+http://oreilly.com/catalog/9780596154141/[Programming Interactivity] by Joshua Noble +
 
 *Community* +
-Mailing List: http://www.openframeworks.cc/list-info/ +
-Forum: http://forum.openframeworks.cc/index.php +
+http://www.openframeworks.cc/list-info/[Mailing List] +
+http://forum.openframeworks.cc/index.php[Forum]  +
 
 ==== Similarly Awesome and Useful Tools
   
