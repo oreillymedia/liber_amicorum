@@ -1,50 +1,77 @@
 [[MechanicalTurk]]
 === MechanicalTurk
-   
-*Site:* https://www.mturk.com/mturk/welcome + 
-*Git:* +
-*Wikipedia:* http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk
-   
 
-==== Quickest Possible Description
 Sometimes people do things better than code. Don't tell anybody, because you can keep that secret hidden with Mechanical Turk. 
 
-Fill out the rest of this page if you've used it or have any favorite projects.
+
+.Quickest possible description
+****
+Description::
+   Crowdsourcing as a service
+Site::
+   https://www.mturk.com/mturk/welcome 
+Git / Repo::
+   https://github.com/
+wikipedia:: 
+   http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk
+**** 
 
 ==== Frequently Used For
 
- 
+Major uses include:
+
+* 
+*
 
 ==== Important Details
 
- 
+Details include:
+
+*
+*
+*
 
 ==== Heavyweights
- 
 
+The heavyweights in the field include:
+
+*
+*
+* 
 
 ==== Projects & Examples 
-http://www.bicyclebuiltfortwothousand.com/[Bicycle Built For Two Thousand] by Aaron Koblin and Daniel Massey +
+
+Interesting projects and examples include:
+
+* link:http://www.bicyclebuiltfortwothousand.com/[Bicycle Built For Two Thousand] by Aaron Koblin and Daniel Massey +
+* link:http://www.emojidick.com/[Emoji Dick] -- Crowdsourced Emoji translation of Moby Dick
+*
 
 ==== Resources / Community / Support 
 
-*Tutorials* +
- +
- +
+Useful resources include:
 
-*Books* +
- +
- +
-
-*Blogs & Websites* +
- +
- +
-
-*Community / Support* +
- +
- +
-
+Tutorials::
+   *
+   *
+   * 
+Books::
+   * 
+   *
+   * 
+Blogs & Websites::
+   * 
+   *
+   * 
+Community / Support::
+   *  
+   *
+   * 
 
 ==== Similarly Awesome and Useful Tools
 
+Similar tools include:
 
+* 
+*
+* 

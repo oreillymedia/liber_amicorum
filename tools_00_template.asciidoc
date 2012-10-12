@@ -1,29 +1,80 @@
-[[unique-tool-name]]
-=== Unique Tool Name
+[[tool_name]]
+=== Tool Name
+   
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu enim in nibh porttitor feugiat vel sed dui. Cras ut leo non arcu facilisis semper eget nec sem. Etiam posuere fermentum lacus at facilisis. Donec dignissim gravida nunc, sit amet tempus tortor iaculis at. Aenean sit amet elementum velit. Nam consequat metus in tortor adipiscing interdum mollis lectus scelerisque. Ut non leo nec velit laoreet vulputate. Proin dolor neque, molestie eget commodo ut, eleifend sed risus. Praesent in eros non nisi convallis fringilla. Suspendisse ut felis non erat scelerisque pharetra. Vivamus et enim id urna tempus rutrum vitae vitae mi. In hac habitasse platea dictumst. Nunc ornare rhoncus aliquet.
 
-General description and overview
+Vestibulum vitae ligula elit, quis dignissim urna. Sed posuere fermentum erat, non lobortis libero varius eu. Vivamus facilisis nisi id turpis semper suscipit. Duis nibh risus, dapibus at sagittis vitae, facilisis id magna. Mauris id enim id ante venenatis volutpat vel vel neque. Integer semper tincidunt nisl. Nullam mi est, pretium eget viverra eu, iaculis nec diam. Morbi ut tortor vel purus tempus posuere.
 
-URL::
-   http://example.com
-Key areas::
-   (((area 1))), (((area 2)))
+.Quickest possible description
+****
+Description::
+   Etiam posuere fermentum lacus at facilisis.
+Site::
+   http://example.com/
+Git / Repo::
+   https://github.com/
+wikipedia:: 
+   http://en.wikipedia.org/wiki/tool_name
+twitter:: 
+   http://twitter.com/tool_name
+**** 
 
-==== Key resources 
+==== Frequently Used For
 
-List the key resources with links here (blogs, books, etc).
+Major uses include:
 
-* Resource 1. http://example.com is a great place to find inspirational examples.
-* Resource 2. http://example.com is a the spot for how-to articles and technical resources.
+* 
+*
 
-==== Key people
+==== Important Details
 
-Ben Fry::
-   link:http://benfry.com/[Ben Fry] is principal of Fathom, a design and software consultancy located in Boston. He received his doctoral degree from the Aesthetics + Computation Group at the MIT Media Laboratory, where his research focused on combining fields such as computer science, statistics, graphic design, and data visualization as a means for understanding information. After completing his thesis, he spent time developing tools for visualization of genetic data as a postdoc with Eric Lander at the Eli & Edythe L. Broad Insitute of MIT & Harvard. During the 2006-2007 school year, Ben was the Nierenberg Chair of Design for the Carnegie Mellon School of Design. At the end of 2007, he finished writing Visualizing Data for O'Reilly. In 2011, he won the National Design Award for Interaction Design from the Cooper-Hewitt.
+Details include:
 
-Dan Shiffman:: 
-   link:http://www.shiffman.net/[Daniel Shiffman] works as an Assistant Arts Professor at the Interactive Telecommunications Program at NYU’s Tisch School of the Arts. Originally from Baltimore, Daniel received a BA in Mathematics and Philosophy from Yale University and a Master’s Degree from the Interactive Telecommunications Program. He works on developing tutorials, examples, and libraries for Processing, the open source programming language and environment created by Casey Reas and Ben Fry. He is the author of Learning Processing: A Beginner’s Guide to Programming Images, Animation, and Interaction and The Nature of Code (self-published via Kickstarter), an upcoming text and series of code examples about simulating natural phenomenon in Processing. 
+*
+*
+*
 
+==== Heavyweights
 
-==== Overview
+The heavyweights in the field include:
 
-This section should have a list of examples that give the reader a flavor of what the tool is and what it's used for.
+*
+*
+* 
+
+==== Projects & Examples 
+
+Interesting projects and examples include:
+
+*
+*
+*
+
+==== Resources / Community / Support 
+
+Useful resources include:
+
+Tutorials::
+   *
+   *
+   * 
+Books::
+   * 
+   *
+   * 
+Blogs & Websites::
+   * 
+   *
+   * 
+Community / Support::
+   *  
+   *
+   * 
+
+==== Similarly Awesome and Useful Tools
+
+Similar tools include:
+
+* 
+*
+* 

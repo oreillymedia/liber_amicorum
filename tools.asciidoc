@@ -1,9 +1,20 @@
 [[tools]]
 == Tools
 
-This section lists the main resources and tools.  For each tool, you should include the following information:
+This section attempts to map the key tools.  The goal is not so much to provide an exhaustive reference, but more to give a good overview of what the tool is, who the heavyweights in the field are, and list some interesting work. Here are a few examples:
 
-* Description and link
-* Useful resources and guides (blogs, books, etc)
-* Key practitioners
-* Examples that describe technologies or obstacles.
+* arduino
+* cinder
+* kinect
+* max
+* 3D printers
+
+For each tool, we'd like to see:
+
+* The quickest possible description.  We're not looking to recreate wikipedia.
+* What it's commonly used for
+* Important details, like whether it's free software
+* The heavyweights in the field
+* A list of interesting projects and examples
+* Resources and community support
+* Similar tools

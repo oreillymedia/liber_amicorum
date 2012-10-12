@@ -41,7 +41,7 @@ Details include:
 
 ==== Heavyweights
 
-Heavyweights include:
+The heavyweights in the field include:
 
 * http://www.tinker.it/[Massimo Banzi]
 * http://www.blushingboy.org/[David Cuartielles]
@@ -68,7 +68,7 @@ Tutorials::
    * link:http://www.youtube.com/rswwwchannel/[Arduino Video Tutorials]
 Books::
    *  link:http://shop.oreilly.com/product/9780596155520.do[Getting Started With Arduino by Massimo Banzi]
-   *  link:http://shop.oreilly.com/product/0636920010920.do[ Making Things Talk by Tom Igoe]
+   *  link:http://shop.oreilly.com/product/0636920010920.do[Making Things Talk by Tom Igoe]
    *  link:http://shop.oreilly.com/product/0636920022244.do[Arduino Cookbook By Michael Margolis]
    *  link:http://shop.oreilly.com/product/0636920021179.do[iOS Sensor Apps with Arduino By Alasdair Allan]
 Blogs & Websites::
@@ -81,6 +81,8 @@ Community / Support::
    * link:http://itp.nyu.edu/physcomp/Labs/Labs[ITP's Physical Computing site]
 
 ==== Similarly Awesome and Useful Tools
+
+Similar tools include:
   
 * link:http://www.makingthings.com/store/make-controller/make-controller-kit.html[Make Controller Kit]
 * link:http://www.raspberrypi.org/[Rasberry Pi] - a credit card sized single-board computer:

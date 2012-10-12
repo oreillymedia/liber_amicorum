@@ -51,7 +51,7 @@ The project currently has 3 main parts: organizations, tools, and projects.
 
 The *organizations* section lists the groups that are doing interesting and innovative work in the field.  This can range from a full academic program to a hackerspace to a conference to a gallery.  
 
-The *tools* section attemplts to map the key tools.  The goal is not so much to provide an exhautive reference, but more to give a good overview of what the tool is, who the heavyweights in the field are, and list some interesting work. Here are a few examples:
+The *tools* section attempts to map the key tools.  The goal is not so much to provide an exhaustive reference, but more to give a good overview of what the tool is, who the heavyweights in the field are, and list some interesting work. Here are a few examples:
 
 * arduino
 * cinder

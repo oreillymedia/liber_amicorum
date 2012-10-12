@@ -3,19 +3,21 @@
 
 R is a language and environment for statistical computing and graphics. It's an open source version / different implementation of S. Originally written by Robert Gentleman and Ross Ihaka of the Univeristy of Auckland, it is now collaborative effort with its own foundation and core contributors. It's widely used for data analytics, data mining, machine learning, data visualization. It's what you need for Big Data projects, basically. R is particularly useful because it's so extensible. Thousands of packages have been written to help R handle certain kinds of data from climate information to speech. This link:http://cran.r-project.org/web/views/["Task View"]page offers an overview of some of the ways R has been applied.
 
-NOTE
-====
-*Site*::
+.Quickest possible description
+****
+Site::
    http://www.r-project.org/
-*Git or Code*::
+Git or Code::
    http://cran.r-project.org/mirrors.html
-*Wikipedia*::
+Wikipedia::
    http://en.wikipedia.org/wiki/R_%28programming_language%29
-*Other wiki/resource*::
+Other wiki/resource::
    http://rwiki.sciviews.org/doku.php[R Wiki] 
-====
+****
 
 ==== Frequently Used For
+
+Major uses include:
 
 * ((Data visualization))
 * Analytics
@@ -26,23 +28,32 @@ NOTE
 
 ==== Important Details
 
+Details include:
+
 * GNU General Public License
 * Runs on UNIX including Windows, MacOS, FreeBSD, Linux
 
 ==== Heavyweights
-Dianne Cook +
-Bill Venables +
-http://en.wikipedia.org/wiki/John_Chambers_%28statistician%29[John Chambers] (creator of S, core committer of R) +
-Jake Porway +
-Amanda Cox
+
+The heavyweights in the field include:
+
+* Dianne Cook
+* Bill Venables
+* link:http://en.wikipedia.org/wiki/John_Chambers_%28statistician%29[John Chambers] (creator of S, core committer of R)
+* Jake Porway
+* Amanda Cox
 
 ==== Projects & Examples 
+
+Interesting projects and examples include:
 
 * link:http://blog.revolutionanalytics.com/2012/09/3-d-animation-of-the-changing-antarctic-ice-sheet.html[3-D Animation of the changing antarctic ice sheet]
 * link:http://blog.revolutionanalytics.com/2012/09/video-song-map.html[Video Map of the hottest songs in the US]
 * A bunch of great projects from link:http://www.periscopic.com[periscopic]
 
 ==== Resources / Community / Support 
+
+Useful resources include:
 
 Tutorials::
    * http://www.revolutionanalytics.com/news-events/free-webinars/2012/introduction-to-r-for-data-mining/[Introduction to R for Data Mining] (Webinar)
@@ -61,15 +72,13 @@ Books::
    * link:http://www.amazon.com/gp/product/0470944889/?tag=flowingdata-20+[Visualize This]
    * link:http://www.manning.com/kabacoff/[R in Action - Data Analysis and Graphics with R] by Robert Kabacoff
    * link:http://www.r-project.org/doc/bib/R-books.html[Books Related To R] (a list, not a book)
-
 Blogs & Websites::
    * http://www.inside-r.org/howto/finding-data-internet[Finding Data on the Internet] (This blog post lists data sources that are easily imported into R or already in R format)
-http://www.statmethods.net/[www.statmethods.net] A great blog with lots of information from the author of R In Action.
+   * http://www.statmethods.net/[www.statmethods.net] A great blog with lots of information from the author of R In Action.
    * http://blog.revolutionanalytics.com/[David Smith's R blog]
    * http://citizen-statistician.org/[Citizen Statistician] (a blog about stats that talks a lot about R)
    * http://journal.r-project.org/current.html[R Journal: Articles & News about R)
    * http://flowingdata.com[flowingdata.com]
-
 Community / Support::
 * link:http://cran.R-project.org/faqs.html[Cran R project FAQ]
 * link:http://www.inside-r.org/[inside-R]
@@ -79,12 +88,14 @@ Community / Support::
 
 ==== Similarly Awesome and Useful Tools
 
-http://cran.r-project.org/web/packages/Rook/index.html[Rook] - R package for building and running R web applications +
-http://rstudio.org[RStudio] - IDE for R +
-http://elastic-r.net[elasticR] - Package for using EC2 with R +
-http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/[R Commander] - Basic-Statics GUI for R +
-http://www.revolutionanalytics.com/products/revolution-r.php[RevolutionR] - Enterprise software for R (with academic and free versions) +
-http://www.bioconductor.org/[Bioconductor] open source development project to provide packages and tools for analysis and comprehension of high-throughput genomic data.  +
-http://cran.r-project.org/web/views/[CRAN Task Views Page] +
-http://crantastic.org/[Crantastic] Community site for R Packages +
-http://code.google.com/p/r4intellij/[R 4 IntelliJ:] - Integration of R into the intellij DEA +
+Similar tools include:
+
+* link:http://cran.r-project.org/web/packages/Rook/index.html[Rook] - R package for building and running R web applications
+* link:http://rstudio.org[RStudio] - IDE for R
+* link:http://elastic-r.net[elasticR] - Package for using EC2 with R
+* link:http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/[R Commander] - Basic-Statics GUI for R
+* link:http://www.revolutionanalytics.com/products/revolution-r.php[RevolutionR] - Enterprise software for R (with academic and free version +
+* http://www.bioconductor.org/[Bioconductor] open source development project to provide packages and tools for analysis and comprehension of high-throughput genomic data.
+* link:http://cran.r-project.org/web/views/[CRAN Task Views Page]
+* link:http://crantastic.org/[Crantastic] Community site for R Packages
+* link:http://code.google.com/p/r4intellij/[R 4 IntelliJ:] - Integration of R into the intellij DEA

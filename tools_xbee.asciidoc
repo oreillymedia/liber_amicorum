@@ -1,48 +1,74 @@
 [[xbee]]
 === xbee
-   
-*Site:* http://www.digi.com/xbee + 
-*Git:* +
-*Wikipedia:* http://en.wikipedia.org/wiki/XBee
-   
 
-==== Quickest Possible Description
 xBees make things talk, wirelessly. Free your projects.
+
+.Quickest possible description
+****
+Description::
+   xBees make things talk, wirelessly. Free your projects.
+Site::
+   http://www.digi.com/xbee
+wikipedia:: 
+   http://en.wikipedia.org/wiki/XBee
+**** 
 
 ==== Frequently Used For
 
- 
+Major uses include:
+
+* 
+*
 
 ==== Important Details
 
- 
+Details include:
+
+*
+*
+*
 
 ==== Heavyweights
-Rob Faludi @faludi | http://www.faludi.com/ + 
 
+The heavyweights in the field include:
+
+* link:http://www.faludi.com/[Rob Faludi] --  @faludi
+*
+* 
 
 ==== Projects & Examples 
 
+Interesting projects and examples include:
+
+*
+*
+*
 
 ==== Resources / Community / Support 
 
-*Tutorials* +
- +
- +
+Useful resources include:
 
-*Books* +
- +
- +
-
-*Blogs & Websites* +
- +
- +
-
-*Community / Support* +
- +
- +
-
+Tutorials::
+   *
+   *
+   * 
+Books::
+   * 
+   *
+   * 
+Blogs & Websites::
+   * 
+   *
+   * 
+Community / Support::
+   *  
+   *
+   * 
 
 ==== Similarly Awesome and Useful Tools
 
+Similar tools include:
 
+* 
+*
+* 
