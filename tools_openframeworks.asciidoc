@@ -68,8 +68,4 @@ http://forum.openframeworks.cc/index.php[Forum]  +
 ==== Similarly Awesome and Useful Tools
   
 http://ofxaddons.com[ofxaddons] A directory of extensions and libraries for OpenFrameworks +
-
 https://github.com/ofTheo/ofxKinect[ofxKinect], an OF add-on for the Xbox Kinect +
-
-
-
