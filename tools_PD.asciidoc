@@ -21,7 +21,7 @@ Mobile apps
  + Most associated software is licensed under http://www.gnu.org/copyleft/copyleft.html[GNU GPL]
 
 ==== Heavyweights
- +
+http://crca.ucsd.edu/~msp/[Miller Puckette] originator of PD +
  +
 
 
@@ -33,7 +33,8 @@ Silent Drum by Jaime Oliver
 *Tutorials* +
 A huge collection of http://puredata.info/docs/workshops[workshops] and http://puredata.info/docs/tutorials[tutorials] is available on the PD site +
 http://obiwannabe.co.uk/tutorials/html/tutorials_main.html[Practical Synthetic Sound Design] (tutorial by Andy Farnell) +
-http://blog.makezine.com/2012/09/24/protodrom-prototyping-with-pure-data-and-processing/[Prototyping with Pure Data and Processing]
+http://blog.makezine.com/2012/09/24/protodrom-prototyping-with-pure-data-and-processing/[Prototyping with Pure Data and Processing] +
+http://crca.ucsd.edu/~msp/techniques/latest/book-html/[The Theory and Technique of Electronic Music] by Miller Puckette
 
 *Books* +
 http://pd-tutorial.com/[Loadbang: Programming Electronic Music in PD] by Johannes Kreidler +
