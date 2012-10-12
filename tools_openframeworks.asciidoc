@@ -25,13 +25,13 @@ IDEs: XCode, pass:[Code::]Blocks, Visual Studio, Eclipse
 
 
 ==== Heavyweights:
-Zach Lieberman @zachlieberman | http://thesystemis.com/ +
-Arturo Castro @artur0castro | http://arturocastro.net/ +
-Kyle McDonald ‏ @kcimc | http://kylemcdonald.net/ +
-Theo Watson ‏ @theowatson | http://www.theowatson.com/ +
-Chris O’Shea ‏ @chrisoshea | http://www.chrisoshea.org/ +
-Evan Roth http://www.evan-roth.com/work/ | @fi5e +
-Golan Levin: http://flong.com/ | http://twitter.com/golan +
+Zach Lieberman https://twitter.com/zachlieberman[@zachlieberman] | http://thesystemis.com/ +
+Arturo Castro https://twitter.com/artur0castro[@artur0castro] | http://arturocastro.net/ +
+Kyle McDonald ‏ https://twitter.com/kcimc[@kcimc] | http://kylemcdonald.net/ +
+Theo Watson ‏ https://twitter.com/theowatson[@theowatson] | http://www.theowatson.com/ +
+Chris O’Shea ‏ https://twitter.com/chrisoshea[@chrisoshea] | http://www.chrisoshea.org/ +
+Evan Roth https://twitter.com/fi5e[@fi5e] | http://www.evan-roth.com/work/ +
+Golan Levin: http://twitter.com/golan[@golan] | http://flong.com/ +
 
 ==== Projects & Examples: 
 
