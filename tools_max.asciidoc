@@ -31,6 +31,7 @@ video::http://player.vimeo.com/video/41507465[height='300', width='500', poster=
 http://www.soundplusdesign.com/?p=5516[Skube] +
 http://www.youtube.com/watch?v=-1tTABS_Ugs[Monome] +
 http://cycling74.com/project/word-sequencer/[Word Sequencer] by Justin Sheriff +
+http://goldbergs.com/art/13hours.html[13 Hours Of The Discovery Channel] by Joshua Goldberg (2001) +
 video::http://www.youtube.com/embed/JKWsfzN3syo[height='300', width='500', poster='images/generic_video.png']
 
 ==== Resources / Community / Support 
