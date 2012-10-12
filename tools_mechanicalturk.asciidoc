@@ -1,0 +1,50 @@
+[[MechanicalTurk]]
+=== MechanicalTurk
+   
+*Site:* + 
+*Git:* +
+*Wikipedia:*
+   
+
+==== Quickest Possible Description
+Sometimes people do things better than code. Don't tell anybody, because you can keep that secret hidden with Mechanical Turk. 
+
+Fill out the rest of this page if you've used it or have any favorite projects.
+
+==== Frequently Used For
+ +
+ 
+
+==== Important Details
+ +
+ 
+
+==== Heavyweights
+ +
+ 
+
+
+==== Projects & Examples 
+
+==== Resources / Community / Support 
+
+*Tutorials* +
+ +
+ +
+
+*Books* +
+ +
+ +
+
+*Blogs & Websites* +
+ +
+ +
+
+*Community / Support* +
+ +
+ +
+
+
+==== Similarly Awesome and Useful Tools
+
+
