@@ -64,6 +64,7 @@ OF Frameworks Tutorials by Ben McChesney: https://github.com/benMcChesney/Open-F
 
 *Books* +
 Programming Interactivity by Joshua Noble: http://oreilly.com/catalog/9780596154141/ +
+
 *Community* +
 Mailing List: http://www.openframeworks.cc/list-info/ +
 Forum: http://forum.openframeworks.cc/index.php +
