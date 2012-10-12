@@ -55,5 +55,6 @@ Pure Data: An open source alternative to Max, originally developed by the same d
 
 http://ppooll.klingt.org/index.php/Main_Page[ppooll] is a networking system between max patches +
 http://www.maxobjects.com/[Max Objects] a database for Max objects, patches, etc. May looks old but it's still being updated. +
+http://www.ableton.com/maxforlive[Max For Live] A Toolkit for building new devices for Ableton Live
 
 
