@@ -29,11 +29,11 @@ http://marcinignac.com/projects/cindermedusae/[Cindermedusae] - Generative sea c
 
 === Resources / Community / Support 
 
-    ===== Tutorials
-http://libcinder.org/docs/v0.8.4/hello_cinder.html[Hello Cinder] - tutorial by Robert Hodgin +
+    *Tutorials*
+    http://libcinder.org/docs/v0.8.4/hello_cinder.html[Hello Cinder] - tutorial by Robert Hodgin +
 
-    ===== Books
-http://shop.oreilly.com/product/0636920024095.do[Exploring Cinder by Joshua Noble and Robert Hodgin]
+    *Books*
+    http://shop.oreilly.com/product/0636920024095.do[Exploring Cinder by Joshua Noble and Robert Hodgin] +
 
 ===== Community
 Cinder Forums: +
