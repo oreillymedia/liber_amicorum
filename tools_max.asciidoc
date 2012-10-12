@@ -44,7 +44,7 @@ http://www.virtual-sound.com/[Electronic Music & Sound Design] by Alessandro Cip
 http://www.oup.com/us/companion.websites/9780199777686/[Max/MSP/Jitter for Music] by V.J. Manzo +
 
 *Blogs & Websites* +
-+
+
 
 *Community / Support* +
 http://itp.nyu.edu/dataflow/Main/IntroToDataflow[Intro To Dataflow] - a syllabus for an ITP class taught by, with lots of good information. +
