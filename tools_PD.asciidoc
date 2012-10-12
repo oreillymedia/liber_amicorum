@@ -17,8 +17,8 @@ Mobile apps
 
 
 ==== Important Details
- +
- +
+ + PD is free and licensed under BSD
+ + Most associated software is licensed under http://www.gnu.org/copyleft/copyleft.html[GNU GPL]
 
 ==== Heavyweights
  +
