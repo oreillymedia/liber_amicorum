@@ -33,8 +33,8 @@ This section should have a list of examples that give the reader a flavor of wha
 Cinder is an open source C++ library for creative coding. Think of it as a non-Java  alternative to Processing. It was originally developed by the Barbarian Group for their interactive advertising projects, which required something more robust than Processing for programming graphics, audio & video, image processing, and computational geometry. It can be considered as a next-step beyond Processing, which is better for learning to code. 
 
 ==== Frequently Used For:
-Creative Coding. Simple as that.
-Often used for physical installations
+Creative Coding. Simple as that. +
+Often used for physical installations +
 Increasingly used for iphone/ipad apps
 
 
