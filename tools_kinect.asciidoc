@@ -1,0 +1,48 @@
+[[kinect]]
+=== kinect
+   
+*Site:* http://www.xbox.com/kinect/ + 
+*Git:* +
+*Wikipedia:* http://en.wikipedia.org/wiki/Kinect
+   
+
+==== Quickest Possible Description
+Video game console turned into magicmaking box. 
+
+==== Frequently Used For
+
+ 
+
+==== Important Details
+
+ 
+
+==== Heavyweights
+Greg Borenstein @atduskgreg | http://www.gregborenstein.com/ + 
+
+
+==== Projects & Examples 
+
+
+==== Resources / Community / Support 
+
+*Tutorials* +
+ +
+ +
+
+*Books* +
+ +
+ +
+
+*Blogs & Websites* +
+ +
+ +
+
+*Community / Support* +
+ +
+ +
+
+
+==== Similarly Awesome and Useful Tools
+
+
