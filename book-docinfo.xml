@@ -15,3 +15,8 @@
   <firstname>Andrew</firstname>
   <surname>Odewahn</surname>
 </editor>
+<mediaobject role="cover">
+<imageobject role="front-large" remap="lrg">
+<imagedata format="PNG" fileref="images/cover.png"/>
+</imageobject>
+</mediaobject>
