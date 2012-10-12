@@ -18,13 +18,13 @@ Big Screens +
 Physical & Screen Based Interaction Projects
 
 
-==== Important Details:
+==== Important Details
 Open Source, distributed under the https://en.wikipedia.org/wiki/MIT_License[MIT License] +
 Platforms: Windows, OSX, Linux, iOS, Android +
 IDEs: XCode, pass:[Code::]Blocks, Visual Studio, Eclipse
 
 
-==== Heavyweights:
+==== Heavyweights
 Zach Lieberman https://twitter.com/zachlieberman[@zachlieberman] | http://thesystemis.com/ +
 Arturo Castro https://twitter.com/artur0castro[@artur0castro] | http://arturocastro.net/ +
 Kyle McDonald ‏ https://twitter.com/kcimc[@kcimc] | http://kylemcdonald.net/ +
@@ -33,7 +33,7 @@ Chris O’Shea ‏ https://twitter.com/chrisoshea[@chrisoshea] | http://www.chri
 Evan Roth https://twitter.com/fi5e[@fi5e] | http://www.evan-roth.com/work/ +
 Golan Levin: http://twitter.com/golan[@golan] | http://flong.com/ +
 
-==== Projects & Examples: 
+==== Projects & Examples 
 made with openFrameworks: +
 video::http://player.vimeo.com/video/921725[height='377', width='500', poster='images/generic_video.png']
 
@@ -49,7 +49,7 @@ http://faceshift.com/[FaceShift (face tracking)] +
 http://www.ni9e.com/graffiti_analysis.html[Graffiti Analysis] by Evan Roth +
 
 
-==== Resources / Community / Support: 
+==== Resources / Community / Support
  
 *Tutorials* +
 http://www.openframeworks.cc/tutorials/[openframeworks.cc/tutorials/] has excellent tutorials, and is a great place to start +
