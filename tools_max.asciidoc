@@ -59,6 +59,7 @@ http://auv-i.com/[Auvi] is a collection of Max/Jitter objects for real-time vide
 http://jmpelletier.com/cvjit/[cvjit] is a collection of Max/MSP/Jitter objects for computer vision applications +
 http://ppooll.klingt.org/index.php/Main_Page[ppooll] is a networking system between max patches +
 http://www.maxobjects.com/[Max Objects] a database for Max objects, patches, etc. May looks old but it's still being updated. +
-http://www.ableton.com/maxforlive[Max For Live] A Toolkit for building new devices for Ableton Live
-http://abstrakt.vade.info/?p=272[v002] a promising alternative for live video performance that's being currently being built by Vade.
+http://www.ableton.com/maxforlive[Max For Live] A Toolkit for building new devices for Ableton Live +
+http://syphon.v002.info/[syphon] is an open source OSX technology for sharing frames between applications in real time. +
+http://abstrakt.vade.info/?p=272[v002] a promising alternative for live video performance that's being currently being built by Vade. +
 
