@@ -10,7 +10,19 @@ include::tools.asciidoc[]
 
 include::tools_openframeworks.asciidoc[]
 
+include::tools_opencv.asciidoc[]
+
+include::tools_xbee.asciidoc[]
+
+include::tools_mechanicalturk.asciidoc[]
+
 include::tools_processing.asciidoc[]
+
+include::tools_kinect.asciidoc[]
+
+include::tools_arduino.asciidoc[]
+
+include::tools_PD.asciidoc[]
 
 include::tools_max.asciidoc[]
 
@@ -25,3 +37,5 @@ include::projects_generativetype.asciidoc[]
 include::projects_galloway.asciidoc[]
 
 include::projects_bitshifting.asciidoc[]
+
+include::index.asciidoc[]
