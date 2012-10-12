@@ -38,9 +38,9 @@ include::tools_xbee.asciidoc[]
 
 include::projects.asciidoc[]
 
-include::project_liber_amicorum_cover.asciidoc[]
-
 include::projects_bitshifting.asciidoc[]
+
+include::projects_liber_amicorum_cover.asciidoc[]
 
 include::projects_galloway.asciidoc[]
 
