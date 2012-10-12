@@ -24,7 +24,8 @@ other wiki/resource::
 
 ==== Frequently Used For
 
-The Arduino is often used for:
+Major uses include:
+
 * ((Physical Computing))
 * Interactive art and objects
 * Translating physical inputs (sound, light, touch, temperature, vibration) into digital applications
@@ -32,13 +33,15 @@ The Arduino is often used for:
 
 ==== Important Details
 
+Details include:
+
 * Both the hardware and software are open-source. 
 * The software is released under the link:http://www.gnu.org/licenses/old-licenses/gpl-2.0.html[GNU GPL V2] (IDE) and LGPL (micro-controll *  libraries)
 * Hardware is released under an Creative Commons Attribution Share-Alike license
 
 ==== Heavyweights
 
-The Arduino team is
+Heavyweights include:
 
 * http://www.tinker.it/[Massimo Banzi]
 * http://www.blushingboy.org/[David Cuartielles]
@@ -47,6 +50,8 @@ The Arduino team is
 * http://dam.mellis.org/[David Mellis] 
 
 ==== Projects & Examples 
+
+Interesting projects and examples include:
 
 * link:http://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination.html[Massimo Banzi: How Arduino is open-sourcing imagination]
 * link:http://www.adimarom.com/?p=1386[Short++]
