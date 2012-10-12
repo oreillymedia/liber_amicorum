@@ -3,7 +3,9 @@
 
 
 URL::
-   http://example.com
+   Site: http://libcinder.org/
+Git: https://github.com/cinder/Cinder
+wikipedia: http://en.wikipedia.org/wiki/Cinder_(programming_language)
 Key areas::
    (((area 1))), (((area 2)))
 
