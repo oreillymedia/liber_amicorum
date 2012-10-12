@@ -1,4 +1,13 @@
 [preface]
 == Acknowledgments
 
-Heartfelt acknowledgments go here.
+The following people were critical to this project:
+
+* *Matthew Epler* is a graduate student at NYU's Interactive Telecommunications Program (ITP) specializing in computational art and archives.
+* link:http://www.rapidftr.com[Jorge Just]
+* Sanders Kleinfeld
+* link:http://runemadsen.com[Rune Madsen]
+* Nellie McKesson
+* Sara Winge
+* Adam Witwer
+* Jen Robbins
