@@ -2,9 +2,9 @@
 === Creative Archeology: finding inspiration in the archives
 
 What areas or field does it fall in::
-   (((History))), (((Genetics))) (((Algorithms)))
+   ((History)), ((Genetics)) ((Algorithms))
 What tools did you use?
-   (((Processing))
+   ((Processing))
    
 ==== Description
 image::images/galloway1.png[]
