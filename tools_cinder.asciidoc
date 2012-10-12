@@ -1,33 +1,33 @@
 [[Cinder]]
-== Cinder
+=== Cinder
    
 * Site: http://libcinder.org
 * Git: https://github.com/cinder/Cinder
 * Wikipedia: http://en.wikipedia.org/wiki/Cinder_(programming_language)
    
 
-=== Quickest Possible Description
+==== Quickest Possible Description
 Cinder is an open source C++ library for creative coding. Think of it as a non-Java  alternative to Processing. It was originally developed by the Barbarian Group for their interactive advertising projects, which required something more robust than Processing for programming graphics, audio & video, image processing, and computational geometry. It can be considered as a next-step beyond Processing, which is better for learning to code. 
 
-=== Frequently Used For
+==== Frequently Used For
 Creative Coding. Simple as that +
 Often used for physical installations +
 Increasingly used for iphone/ipad apps
 
 
-=== Important Details
+==== Important Details
 Supports Mac OS X (with XCode), Windows (with Visual C++), and IOS +
 Released under Simplified BSD License (http://www.oss-watch.ac.uk/resources/modbsd.xml)
 
-=== Heavyweights
+==== Heavyweights
 Andrew Bell - Originator and Lead Architect (http://drawnline.net/) +
 Robert Hodgin - Wrote the book on it. (http://roberthodgin.com/)
 
-=== Projects & Examples 
+==== Projects & Examples 
 http://planetary.bloom.io/[Planetary] - Visual exploration of your music collection  +
 http://marcinignac.com/projects/cindermedusae/[Cindermedusae] - Generative sea creatures
 
-=== Resources / Community / Support 
+==== Resources / Community / Support 
 
 *Tutorials* +
     http://libcinder.org/docs/v0.8.4/hello_cinder.html[Hello Cinder] - tutorial by Robert Hodgin +
@@ -35,12 +35,11 @@ http://marcinignac.com/projects/cindermedusae/[Cindermedusae] - Generative sea c
 *Books* +
     http://shop.oreilly.com/product/0636920024095.do[Exploring Cinder by Joshua Noble and Robert Hodgin] +
 
-===== Community
-Cinder Forums: +
-http://forum.libcinder.org/#allForums[http://forum.libcinder.org/]
+*Community* +
+Cinder Forums: http://forum.libcinder.org/#allForums[http://forum.libcinder.org/]
 
 
-=== Similarly Awesome and Useful Tools:
+==== Similarly Awesome and Useful Tools
   
 http://www.smallab.org/code/ccgl/[CCGL] and http://www.smallab.org/code/ccgl-touch/[CCGL-Touch] - Cinder Wrappers for OSx and iOS
 
