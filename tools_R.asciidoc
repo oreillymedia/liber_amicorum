@@ -3,28 +3,31 @@
 
 R is a language and environment for statistical computing and graphics. It's an open source version / different implementation of S. Originally written by Robert Gentleman and Ross Ihaka of the Univeristy of Auckland, it is now collaborative effort with its own foundation and core contributors. It's widely used for data analytics, data mining, machine learning, data visualization. It's what you need for Big Data projects, basically. R is particularly useful because it's so extensible. Thousands of packages have been written to help R handle certain kinds of data from climate information to speech. This link:http://cran.r-project.org/web/views/["Task View"]page offers an overview of some of the ways R has been applied.
 
-****
-*Site:* + http://www.r-project.org/ +
-*Git or Code:* http://cran.r-project.org/mirrors.html +
-*Wikipedia:* http://en.wikipedia.org/wiki/R_%28programming_language%29 +
-*Other wiki/resource:* http://rwiki.sciviews.org/doku.php[R Wiki] 
-****
+NOTE
+====
+*Site*::
+   http://www.r-project.org/
+*Git or Code*::
+   http://cran.r-project.org/mirrors.html
+*Wikipedia*::
+   http://en.wikipedia.org/wiki/R_%28programming_language%29
+*Other wiki/resource*::
+   http://rwiki.sciviews.org/doku.php[R Wiki] 
+====
 
 ==== Frequently Used For
-Data visualization +
-Analytics +
-Machine Learning +
-Basic and Advanced Statistics (modeling, distributions, tests, etc) +
-Handling GeoSpatial data, medical research, signal processing, etc +
-data mining
 
-
+* ((Data visualization))
+* Analytics
+* ((Machine Learning))
+* Basic and Advanced ((Statistics)) (modeling, distributions, tests, etc)
+* Handling ((GeoSpatial)) data, medical research, signal processing, etc
+* Data mining
 
 ==== Important Details
-GNU General Public License +
-Runs on UNIX including Windows, MacOS, FreeBSD, Linux
 
- 
+* GNU General Public License
+* Runs on UNIX including Windows, MacOS, FreeBSD, Linux
 
 ==== Heavyweights
 Dianne Cook +
@@ -34,23 +37,24 @@ Jake Porway +
 Amanda Cox
 
 ==== Projects & Examples 
-http://blog.revolutionanalytics.com/2012/09/3-d-animation-of-the-changing-antarctic-ice-sheet.html[3-D Animation of the changing antarctic ice sheet] +
-http://blog.revolutionanalytics.com/2012/09/video-song-map.html[Video Map of the hottest songs in the US] +
-a bunch of great projects from http://www.periscopic.com[periscopic]
+
+* link:http://blog.revolutionanalytics.com/2012/09/3-d-animation-of-the-changing-antarctic-ice-sheet.html[3-D Animation of the changing antarctic ice sheet]
+* link:http://blog.revolutionanalytics.com/2012/09/video-song-map.html[Video Map of the hottest songs in the US]
+* A bunch of great projects from link:http://www.periscopic.com[periscopic]
 
 ==== Resources / Community / Support 
 
-*Tutorials* +
-http://www.revolutionanalytics.com/news-events/free-webinars/2012/introduction-to-r-for-data-mining/[Introduction to R for Data Mining] (Webinar) +
-http://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2012/Why-and-How-People-Use-R[Why and How people Use R] by John Cook (presentation) +
-http://jeffreybreen.wordpress.com/2012/10/02/tapping-the-data-deluge-with-r/
-http://www.slideshare.net/jeffreybreen/tapping-the-data-deluge-with-r[Tapping the Data Deluge with R] - by Jeff Breen (lightning talk) +
-http://www.johndcook.com/R_language_for_programmers.html[Tutorial: R for programmers coming from different languages] by John Cook +
-http://burns-stat.com/pages/Tutor/hints_R_begin.html[Some Hints For The R Beginner] by Patrick Burns +
-http://www.burns-stat.com/pages/Tutor/R_inferno.pdf[The R Inferno] by Patrick Burns (PDF) +
-http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html[Google's R Style Guide]
-http://flowingdata.com/category/tutorials/[A bunch of great tutorials] from Flowing Data
-http://cran.r-project.org/doc/manuals/R-intro.html[an introduction to R]
+Tutorials::
+* http://www.revolutionanalytics.com/news-events/free-webinars/2012/introduction-to-r-for-data-mining/[Introduction to R for Data Mining] (Webinar)
+* http://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2012/Why-and-How-People-Use-R[Why and How people Use R] by John Cook (presentation)
+* http://jeffreybreen.wordpress.com/2012/10/02/tapping-the-data-deluge-with-r/
+* link:http://www.slideshare.net/jeffreybreen/tapping-the-data-deluge-with-r[Tapping the Data Deluge with R] - by Jeff Breen (lightning talk)
+* link:http://www.johndcook.com/R_language_for_programmers.html[Tutorial: R for programmers coming from different languages] by John Cook
+* link:http://burns-stat.com/pages/Tutor/hints_R_begin.html[Some Hints For The R Beginner] by Patrick Burns
+* link:http://www.burns-stat.com/pages/Tutor/R_inferno.pdf[The R Inferno] by Patrick Burns (PDF)
+* link:http://google-styleguide.googlecode.com/svn/trunk/google-r-style.html[Google's R Style Guide]
+* link:http://flowingdata.com/category/tutorials/[A bunch of great tutorials] from Flowing Data
+* link:http://cran.r-project.org/doc/manuals/R-intro.html[an introduction to R]
 
 
 
