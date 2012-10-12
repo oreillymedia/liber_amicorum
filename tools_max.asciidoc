@@ -48,6 +48,7 @@ video::http://www.youtube.com/embed/JKWsfzN3syo[height='300', width='500', poste
 
 *Tutorials* +
 There's a huge amount of resources available at the http://cycling74.com/community/[Max/MSP site]. That's the best place to start. +
+
 http://abstrakt.vade.info/?p=147[jitter movie playback optimizations]
 
 *Books* +
