@@ -60,6 +60,5 @@ http://jmpelletier.com/cvjit/[cvjit] is a collection of Max/MSP/Jitter objects f
 http://ppooll.klingt.org/index.php/Main_Page[ppooll] is a networking system between max patches +
 http://www.maxobjects.com/[Max Objects] a database for Max objects, patches, etc. May looks old but it's still being updated. +
 http://www.ableton.com/maxforlive[Max For Live] A Toolkit for building new devices for Ableton Live +
-http://syphon.v002.info/[syphon] is an open source OSX technology for sharing frames between applications in real time. +
-http://abstrakt.vade.info/?p=272[v002] a promising alternative for live video performance that's being currently being built by Vade. +
+http://v002.info/[v002] is an ongoing project to develop new effects and functionality to augment realtime video applications using Quartz Composer based technology. One such project is http://syphon.v002.info/[syphon], an open source OSX technology for sharing frames between applications in real time. +
 
