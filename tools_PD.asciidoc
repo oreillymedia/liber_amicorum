@@ -1,0 +1,55 @@
+[[PureData]]
+=== PureData (PD)
+   
+*Site:* http://puredata.info/ + 
+*Wikipedia:* http://en.wikipedia.org/wiki/Max_(software), http://en.wikipedia.org/wiki/Pure_Data +
+*other wiki/resource:* http://puredata.info/docs +
+*Code:* http://www-crca.ucsd.edu/~msp/software.html +
+*email list:* http://lists.puredata.info/pipermail/pd-list/
+
+==== Quickest Possible Description
+Pure Data: An open source alternative to Max, originally developed by the same developer, Miller Puckette. Labeled as a 'real-time music and multimedia environment' it allows manipulation of video, graphics, and music, and enables live collaboration across networks between musicians. It's multi-platform and portable so it can run on all sorts of devices and can be extended, just like Max. 
+
+==== Frequently Used For
+Realtime media manipulation +
+Interactive art with sound and video +
+Mobile apps
+
+
+==== Important Details
+ +
+ +
+
+==== Heavyweights
+ +
+ +
+
+
+==== Projects & Examples 
+Silent Drum by Jaime Oliver
+
+==== Resources / Community / Support 
+
+*Tutorials* +
+A huge collection of http://puredata.info/docs/workshops[workshops] and http://puredata.info/docs/tutorials[tutorials] is available on the PD site +
+http://obiwannabe.co.uk/tutorials/html/tutorials_main.html[Practical Synthetic Sound Design] (tutorial by Andy Farnell) +
+http://blog.makezine.com/2012/09/24/protodrom-prototyping-with-pure-data-and-processing/[Prototyping with Pure Data and Processing]
+
+*Books* +
+http://pd-tutorial.com/[Loadbang: Programming Electronic Music in PD] by Johannes Kreidler +
+http://shop.oreilly.com/product/0636920022503.do[Making Musical Apps – Real-time audio synthesis on Android and iOS] by Peter Brinkmann (2012) +
+[Composition: Pure Data as a Meta-Compositional Instrument]by Michael Barkl (2012) +
+[Pd Recipe Book ―Pure Data] by Sei Matsumura 
+
+*Blogs & Websites* +
+ +
+ +
+
+*Community / Support* +
+ +
+ +
+
+
+==== Similarly Awesome and Useful Tools
+  
+http://libpd.cc/[Libpd] is "PD made embeddable." It strips away the GUI and the concerns with inputs and outputs, to give a lightweight version of PD which is better suited to mobile development. https://github.com/libpd[libpd on github]
