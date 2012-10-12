@@ -26,18 +26,22 @@ link:http://cycling74.com/products/max/video-jitter/[Jitter] is another popular 
 ==== Heavyweights
 
 |====================================
-| Luke Dubois | https://twitter.com/RLukeDuBois[@RLukeDuBois] | link:http://www.lukedubois.com/ | (Co-author of Jitter, director of Experimental Media Center at NYU Poyltechnic)
-| Josh Goldberg (artist) | link:http://twitter.com/wugmump[@wugmump] | link:http://goldbergs.com/ |
+| Luke Dubois | https://twitter.com/RLukeDuBois[@RLukeDuBois] | http://www.lukedubois.com/ | (Co-author of Jitter, director of Experimental Media Center at NYU Poyltechnic)
+| Josh Goldberg (artist) | link:http://twitter.com/wugmump[@wugmump] | http://goldbergs.com/ |
 | Kurt Ralske | https://twitter.com/kurtralske[@kurtralske] | http://retnull.com/ | Artist and creator of Auvi
 |====================================
 
 
 ==== Projects & Examples 
-video::http://player.vimeo.com/video/41507465[height='300', width='500', poster='images/generic_video.png'] (- Vertical Music by R. Luke Dubois) +
-http://www.soundplusdesign.com/?p=5516[Skube] +
-http://www.youtube.com/watch?v=-1tTABS_Ugs[Monome] +
-http://goldbergs.com/art/13hours.html[13 Hours Of The Discovery Channel] by Joshua Goldberg (2001) +
-http://cycling74.com/project/word-sequencer/[Word Sequencer] by Justin Sheriff +
+
+Vertical Music by R. Luke Dubois:
+video::http://player.vimeo.com/video/41507465[height='300', width='500', poster='images/generic_video.png'] 
+
+* http://www.soundplusdesign.com/?p=5516[Skube] +
+* http://www.youtube.com/watch?v=-1tTABS_Ugs[Monome] +
+* http://goldbergs.com/art/13hours.html[13 Hours Of The Discovery Channel] by Joshua Goldberg (2001) +
+* http://cycling74.com/project/word-sequencer/[Word Sequencer] by Justin Sheriff +
+
 video::http://www.youtube.com/embed/JKWsfzN3syo[height='300', width='500', poster='images/generic_video.png']
 
 ==== Resources / Community / Support 
