@@ -33,7 +33,8 @@ http://www.soundplusdesign.com/?p=5516[Skube] +
 http://www.youtube.com/watch?v=-1tTABS_Ugs[Monome] +
 http://goldbergs.com/art/13hours.html[13 Hours Of The Discovery Channel] by Joshua Goldberg (2001) +
 http://cycling74.com/project/word-sequencer/[Word Sequencer] by Justin Sheriff +
-video::http://www.youtube.com/embed/JKWsfzN3syo[height='300', width='500', poster='images/generic_video.png']
+video::http://www.youtube.com/embed/JKWsfzN3syo[height='300', width='500', poster='images/generic_video.png'] +
+video::http://www.youtube.com/embed/B25tPKzyeJ4[height='300', width='500', poster='images/generic_video.png'] (Giant Theremin Project by Robin Fox)
 
 ==== Resources / Community / Support 
 
