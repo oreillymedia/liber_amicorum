@@ -40,6 +40,7 @@ There's a huge amount of resources available at the http://cycling74.com/communi
 
 *Books* +
 http://www.virtual-sound.com/[Electronic Music & Sound Design] by Alessandro Cipriani & Maurizio Giri +
+http://www.oup.com/us/companion.websites/9780199777686/[Max/MSP/Jitter for Music] by V.J. Manzo +
 
 *Blogs & Websites* +
  +
