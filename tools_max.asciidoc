@@ -50,11 +50,11 @@ http://www.oup.com/us/companion.websites/9780199777686/[Max/MSP/Jitter for Music
 http://www.s373.net/code/[s373.net]
 
 *Community / Support* +
-http://itp.nyu.edu/dataflow/Main/IntroToDataflow[Intro To Dataflow] - a syllabus for an ITP class taught by, with lots of good information. +
+Again, the best forums and community are the http://cycling74.com/community/[Max/MSP site]  +
 
 
 ==== Similarly Awesome and Useful Tools
-Pure Data: An open source alternative to Max, originally developed by the same developer, Miller Puckette. Labeled as a 'real-time music and multimedia environment' it allows manipulation of video, graphics, and music, and enables live collaboration across networks between musicians. It's multi-platform and portable so it can run on all sorts of devices and can be extended.+
+Pure Data: An open source alternative to Max, originally developed by the same developer, Miller Puckette. Labeled as a 'real-time music and multimedia environment' it allows manipulation of video, graphics, and music, and enables live collaboration across networks between musicians. It's multi-platform and portable so it can run on all sorts of devices and can be extended. +
 http://www.percussa.com/[Audio Cubes] are smart physical objects for live performance and installations +
 http://auv-i.com/[Auvi] is a collection of Max/Jitter objects for real-time video processing +
 http://jmpelletier.com/cvjit/[cvjit] is a collection of Max/MSP/Jitter objects for computer vision applications +
