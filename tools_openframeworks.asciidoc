@@ -11,7 +11,7 @@ collaborative book rough draft
 
  
 ==== Quickest Possible Description
- openFrameworks is an open source C++ toolkit designed to make creative coding easier. Its creators describe it as a "general purpose glue" that wraps together common libraries such as OpenGL, OpenCV, FreeType and many more. It is designed to be cross-platform and extensible, and to provide a promote experimentation with both software interfaces that allow for interesting real-time screen-based and physical interactions. openFrameworks shares many similarities with Processing and especially Cinder, which is also a C++ library framework. It makes sense to investigate all three when deciding on a creative coding tool.
+openFrameworks is an open source C pass:[++] toolkit designed to make creative coding easier. Its creators describe it as a "general purpose glue" that wraps together common libraries such as OpenGL, OpenCV, FreeType and many more. It is designed to be cross-platform and extensible, and to provide a promote experimentation with both software interfaces that allow for interesting real-time screen-based and physical interactions. openFrameworks shares many similarities with Processing and especially Cinder, which is also a C++ library framework. It makes sense to investigate all three when deciding on a creative coding tool.
 
 
 ==== Frequently Used For
