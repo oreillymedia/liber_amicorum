@@ -9,46 +9,36 @@
 ==== Quickest Possible Description
 Max is a visual dataflow programming environment for music and multimedia whose GUI reflects the structure of the program you're writing, where objects in the code are displayed on the screen and are connected to each other via inlets and outlets, in a similar way to how a sound engineer might connect analog inputs to processors and outputs. Following the metaphor, Max operates in response to 'bangs', which are initiating events, much like an electric current running through a synthesizer. MSP is a plug-in for Max that allows real-time manipulation of digital audio signals, and is designed to be fairly easy to start using and prototype with. When you think Max, you're probably really thinking Max/MSP.
 
-link:http://cycling74.com/products/max/video-jitter/[Jitter] is another popular Max package that allows for manipulation of real-time video, 3D graphics, animation, and more.
+http://cycling74.com/products/max/video-jitter/[Jitter] is another popular Max package that allows for manipulation of real-time video, 3D graphics, animation, and more.
 
 
 ==== Frequently Used For
-
-* ((Live performance)) +
-* ((Interactive art installations, both large and small))
+Live performance +
+Interactive art installations, both large and small
  
 
 ==== Important Details
-
-* Is not free software, but there are student and teacher versions.
-* Cross platform and widely supported.
+Is not free software, but there are student and teacher versions. +
+Cross platform and widely supported. +
 
 ==== Heavyweights
-
-|====================================
-| Luke Dubois | https://twitter.com/RLukeDuBois[@RLukeDuBois] | http://www.lukedubois.com/ | (Co-author of Jitter, director of Experimental Media Center at NYU Poyltechnic)
-| Josh Goldberg (artist) | link:http://twitter.com/wugmump[@wugmump] | http://goldbergs.com/ |
-| Kurt Ralske | https://twitter.com/kurtralske[@kurtralske] | http://retnull.com/ | Artist and creator of Auvi
-|====================================
-
+Luke Dubois https://twitter.com/RLukeDuBois[@RLukeDuBois] | http://www.lukedubois.com/ (Co-author of Jitter, director of Experimental Media Center at NYU Poyltechnic) +
+Josh Goldberg (artist) http://twitter.com/wugmump[@wugmump] | http://goldbergs.com/ +
+Kurt Ralske (artist, creator of Auvi) https://twitter.com/kurtralske[@kurtralske] | http://retnull.com/
+Jeremy Bailey (artist) https://twitter.com/jeremybailey[@jeremybailey] | http://www.jeremybailey.net/
 
 ==== Projects & Examples 
-
-Vertical Music by R. Luke Dubois:
-video::http://player.vimeo.com/video/41507465[height='300', width='500', poster='images/generic_video.png'] 
-
-* http://www.soundplusdesign.com/?p=5516[Skube] +
-* http://www.youtube.com/watch?v=-1tTABS_Ugs[Monome] +
-* http://goldbergs.com/art/13hours.html[13 Hours Of The Discovery Channel] by Joshua Goldberg (2001) +
-* http://cycling74.com/project/word-sequencer/[Word Sequencer] by Justin Sheriff +
-
+video::http://player.vimeo.com/video/41507465[height='300', width='500', poster='images/generic_video.png'] (- Vertical Music by R. Luke Dubois) +
+http://www.soundplusdesign.com/?p=5516[Skube] +
+http://www.youtube.com/watch?v=-1tTABS_Ugs[Monome] +
+http://goldbergs.com/art/13hours.html[13 Hours Of The Discovery Channel] by Joshua Goldberg (2001) +
+http://cycling74.com/project/word-sequencer/[Word Sequencer] by Justin Sheriff +
 video::http://www.youtube.com/embed/JKWsfzN3syo[height='300', width='500', poster='images/generic_video.png']
 
 ==== Resources / Community / Support 
 
 *Tutorials* +
 There's a huge amount of resources available at the http://cycling74.com/community/[Max/MSP site]. That's the best place to start. +
-
 http://abstrakt.vade.info/?p=147[jitter movie playback optimizations]
 
 *Books* +
@@ -64,11 +54,11 @@ http://itp.nyu.edu/dataflow/Main/IntroToDataflow[Intro To Dataflow] - a syllabus
 
 ==== Similarly Awesome and Useful Tools
 Pure Data: An open source alternative to Max, originally developed by the same developer, Miller Puckette. Labeled as a 'real-time music and multimedia environment' it allows manipulation of video, graphics, and music, and enables live collaboration across networks between musicians. It's multi-platform and portable so it can run on all sorts of devices and can be extended.+
-
+http://www.percussa.com/[Audio Cubes] are smart physical objects for live performance and installations +
 http://auv-i.com/[Auvi] is a collection of Max/Jitter objects for real-time video processing +
 http://jmpelletier.com/cvjit/[cvjit] is a collection of Max/MSP/Jitter objects for computer vision applications +
 http://ppooll.klingt.org/index.php/Main_Page[ppooll] is a networking system between max patches +
 http://www.maxobjects.com/[Max Objects] a database for Max objects, patches, etc. May looks old but it's still being updated. +
 http://www.ableton.com/maxforlive[Max For Live] A Toolkit for building new devices for Ableton Live +
-http://v002.info/[v002] is an ongoing project to develop new effects and functionality to augment realtime video applications using Quartz Composer based technology. One such project is http://syphon.v002.info/[syphon], an open source OSX technology for sharing frames between applications in real time. +
+http://v002.info/[v002] is an ongoing project to develop new effects and functionality to augment realtime video applications using Quartz Composer based technology. One such project is http://syphon.v002.info/[syphon], an open source OSX technology for sharing frames between applications in real time. 
 
