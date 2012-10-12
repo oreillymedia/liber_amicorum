@@ -86,7 +86,7 @@ http://rstudio.org[RStudio] - IDE for R +
 http://elastic-r.net[elasticR] - Package for using EC2 with R +
 http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/[R Commander] - Basic-Statics GUI for R +
 http://www.revolutionanalytics.com/products/revolution-r.php[RevolutionR] - Enterprise software for R (with academic and free versions) +
-http://www.bioconductor.org/[Bioconductor] open source development project to provide packages and tools for analysis and comprehension of high-throughput genomic data. Based on R.  +
+http://www.bioconductor.org/[Bioconductor] open source development project to provide packages and tools for analysis and comprehension of high-throughput genomic data.  +
 http://cran.r-project.org/web/views/[CRAN Task Views Page] +
 http://crantastic.org/[Crantastic] Community site for R Packages +
 http://code.google.com/p/r4intellij/[R 4 IntelliJ:] - Integration of R into the intellij DEA +
