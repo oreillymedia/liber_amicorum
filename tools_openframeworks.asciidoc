@@ -37,6 +37,8 @@ Golan Levin: http://twitter.com/golan[@golan] | http://flong.com/ +
 
 made with openFrameworks: http://vimeo.com/921725 +
 
+
+
 http://eyewriter.org/[Eyewriter] +
 http://thesystemis.com/projects/drawn/[Drawn] +
 http://arturocastro.net/work/faces.html[Faces] by Arturo Castro & Kyle McDonald +
@@ -55,9 +57,7 @@ http://www.ni9e.com/graffiti_analysis.html[Graffiti Analysis] by Evan Roth +
 http://www.openframeworks.cc/tutorials/[openframeworks.cc/tutorials/] has excellent tutorials, and is a great place to start +
 http://www.itee.uq.edu.au/~comp3300/Resources/C_C++_notes.pdf[C and pass:[C++ in 5 days]] by Philip Machanick (PDF) +
 http://wiki.openframeworks.cc/index.php?title=OF_for_Processing_users[OF for Processing Users] by Zach Gage, for those transitioning from Processing +
-
 http://www.sparkfun.com/tutorials/318[Using openFrameworks with Arduino] +
-
 https://github.com/benMcChesney/Open-Frameworks-Tutorials[OF Frameworks Tutorials] by Ben McChesney +
 
 *Books* +
