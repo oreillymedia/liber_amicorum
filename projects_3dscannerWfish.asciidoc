@@ -1,18 +1,16 @@
 [[bit_shifting]]
-=== Bit-shifting with Kyle McDonald
-
-
+=== Inferential 3D Scanner with Goldfish
 
 What areas or field does it fall in::
    ((processing)), ((3d scanning))
 What tools did you use?
-   ((Processing)) (())
-
+   ((Processing)) ((PlayStation Eye Camera))
 
 ==== Description
 
-Done in Kyle McDonald’s 3D Sensing and Visualization class, ITP Fall of 2012. By Deqing Sun and Tak Cheung.
-This first class assignment, we were asked to build a 3D sensor from scratch. The concept came from brainstorming what devices are available to detect space. Off-the-shelf sensors like a laser range finders can gather distance and implementing this within a matrix we can create a set of 3D data. We thought sensory inputs are also inherent in every living organism too. There’s a lot we can do with that concept like putting a GPS collar on dogs. Using their travel paths to scan out pedestrian sidewalks over time. We chose goldfish as they’re conveniently swimming in a 3 dimensional medium and for their bright color it’ll be easy for our program/camera to pick them out.
+This project was done in Kyle McDonald’s 3D Sensing and Visualization class at NYU's Interactive Master's Program (ITP) in the Fall of 2012 by Deqing Sun and Tak Cheung.
+
+For the first class assignment, we were asked to build a 3D sensor from scratch. The concept came from brainstorming what devices are available to detect space. Off-the-shelf sensors like a laser range finders can gather distance and implementing this within a matrix we can create a set of 3D data. We thought sensory inputs are also inherent in every living organism too. There’s a lot we can do with that concept like putting a GPS collar on dogs. Using their travel paths to scan out pedestrian sidewalks over time. We chose goldfish as they’re conveniently swimming in a 3 dimensional medium and for their bright color it’ll be easy for our program/camera to pick them out.
 
 We devised 2 cameras, front view and top view to track the goldfish. The video is passed through Processing that calculates red values in the scene which separates the fish from its white environment.
 
@@ -26,15 +24,13 @@ image::images/tak_4.jpeg[]
 
 ==== Bios
 
-Kyle McDonald is a media artist who works with code, with a background in philosophy and computer science. 
-
-Matthew Epler is a graduate student at NYU's Interactive Telecommunications Program (ITP) specializing in computational art and archives.
+Deqing Sun and Tak Cheung are students at NYU's Interactive Telecommunications Program.
 
 URL::
-*  http://kylemcdonald.net/
-*  http://mepler.com
+*  http://gettak.com/
+*  http://www.thinkcreate.org/
 Contact Information::
-*   kyle@kylemcdonald.net
-*   matthewepler@gmail.com
+*   Tak@gettak.com
+*   iamseer@gmail.com
 Tags::
-   ((processing))
+   ((processing)) ((3d scanning)) ((diy)) ((hack))
