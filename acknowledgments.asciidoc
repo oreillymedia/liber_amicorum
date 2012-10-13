@@ -4,7 +4,7 @@
 The following people were critical to this project:
 
 * *Matthew Epler* is a graduate student at NYU's Interactive Telecommunications Program (ITP) specializing in computational art and archives.
-* link:http://www.rapidftr.com[Jorge Just]
+* link:http://twitter.com/jorgej[Jorge Just] led link:http://www.rapidftr.com[RapidFTR] from student assignment to international volunteer driven software project that was recently deployed in a refugee camp in Uganda. He teaches at ITP.   
 * Sanders Kleinfeld
 * link:http://runemadsen.com[Rune Madsen]
 * Nellie McKesson
