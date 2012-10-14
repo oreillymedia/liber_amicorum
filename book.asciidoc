@@ -36,6 +36,10 @@ include::tools_processing.asciidoc[]
 
 include::tools_xbee.asciidoc[]
 
+include::Distribution_and_Exhibition.asciidoc[]
+
+include::Education.asciidoc[]
+
 include::projects.asciidoc[]
 
 include::projects_bitshifting.asciidoc[]
