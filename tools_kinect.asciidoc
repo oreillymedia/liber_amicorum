@@ -2,7 +2,7 @@
 === Kinect
    
 
-.Quickest Possible Description
+.3D camera developed for video gaming but hacked and now used for interactive art.
 ****
 Description::
    Video game console turned into magicmaking box. 
