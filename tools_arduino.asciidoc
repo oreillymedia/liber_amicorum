@@ -91,6 +91,3 @@ Similar tools include:
 * link:http://www.adafruit.com/[AdaFruit]
 * link:http://www.sparkfun.com/pages/arduino_guide[SparkFun]
 * link:http://www.ladyada.net/make/boarduino/[Boarduino]
-
-
-
