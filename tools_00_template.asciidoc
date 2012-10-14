@@ -5,7 +5,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu enim in nibh
 
 Vestibulum vitae ligula elit, quis dignissim urna. Sed posuere fermentum erat, non lobortis libero varius eu. Vivamus facilisis nisi id turpis semper suscipit. Duis nibh risus, dapibus at sagittis vitae, facilisis id magna. Mauris id enim id ante venenatis volutpat vel vel neque. Integer semper tincidunt nisl. Nullam mi est, pretium eget viverra eu, iaculis nec diam. Morbi ut tortor vel purus tempus posuere.
 
-.Quickest possible description
+.Quickest Possible Description
 ****
 Description::
    Etiam posuere fermentum lacus at facilisis.
