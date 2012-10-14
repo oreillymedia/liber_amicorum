@@ -21,16 +21,16 @@ Other wiki/resource::
 
 Frequent uses include:
 
-* Physical Installations
-* Big Screens
-* Physical & Screen Based Interaction Projects
+* Physical installations
+* Big screens
+* Physical and screen-based interaction projects
 
 
 ==== Important Details
 
 Details include:
 
-* Open Source, distributed under the https://en.wikipedia.org/wiki/MIT_License[MIT License
+* Open Source, distributed under the https://en.wikipedia.org/wiki/MIT_License[MIT License]
 * Platforms: Windows, OSX, Linux, iOS, Android
 * IDEs: XCode, pass:[Code::]Blocks, Visual Studio, Eclipse
 
@@ -38,13 +38,13 @@ Details include:
 
 The heavyweights in the field include:
 
-* Zach Lieberman: link:https://twitter.com/zachlieberman[@zachlieberman], http://thesystemis.com/
-* Arturo Castro:  link:https://twitter.com/artur0castro[@artur0castro], http://arturocastro.net/
-* Kyle McDonald: ‏ link:https://twitter.com/kcimc[@kcimc], http://kylemcdonald.net/
-* Theo Watson: ‏ link:https://twitter.com/theowatson[@theowatson], http://www.theowatson.com/
-* Chris O’Shea: ‏ link:https://twitter.com/chrisoshea[@chrisoshea], http://www.chrisoshea.org/
-* Evan Roth: link:https://twitter.com/fi5e[@fi5e], http://www.evan-roth.com/work/
-* Golan Levin: link:http://twitter.com/golan[@golan],  http://flong.com/
+* http://thesystemis.com/[Zach Lieberman], link:https://twitter.com/zachlieberman[@zachlieberman] 
+* http://arturocastro.net/[Arturo Castro], link:https://twitter.com/artur0castro[@artur0castro]
+* http://kylemcdonald.net/[Kyle McDonald], link:https://twitter.com/kcimc[@kcimc]
+* http://www.theowatson.com/[Theo Watson], link:https://twitter.com/theowatson[@theowatson]
+* http://www.chrisoshea.org/[Chris O’Shea], link:https://twitter.com/chrisoshea[@chrisoshea]
+* http://www.evan-roth.com/work/[Evan Roth], link:https://twitter.com/fi5e[@fi5e]
+* http://flong.com/[Golan Levin], link:http://twitter.com/golan[@golan]
 
 ==== Projects & Examples 
 
