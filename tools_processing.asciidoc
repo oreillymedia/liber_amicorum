@@ -3,50 +3,11 @@
 
 Processing is an open source programming language and environment for people who want to create images, animations, and interactions. Initially developed to serve as a software sketchbook and to teach fundamentals of computer programming within a visual context, Processing also has evolved into a tool for generating finished professional work. Today, there are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning, prototyping, and production.
 
-URL::
-   http://processing.org/
-Key areas::
-   (((Algorithmic and Generative Art))), (((Data Visualization))), (((Interaction Design)))
-
-==== Key resources 
-
-Processing has a rich set of resources.  These include:
-
-* link:http://forum.processing.org/[Processing Forums].  An old school community forum for asking questions and sharing techniques.  This is a great place for beginners and seasoned hands alike to discuss how to use the language.
-
-* link:http://www.amazon.com/Processing-Programming-Handbook-Designers-Artists/dp/0262182629[Processing: A Programming Handbook for Visual Designers and Artists].  A giant, beautifully designed and richly detailed exploration of Processing by languages co-founders.
-
-* link:http://www.openprocessing.org/[OpenProcessing]. OpenProcessing is a community-driven site where people can share their portfolios. You’ll find a vast array of creative sketches that range from art to science. For example, http://www.openprocessing.org/sketch/760[GUIGUITROCHOID] by http://www.openprocessing.org/user/613[Guigui] simulates the gears in a Spirograph. In addition to enjoying the visual beauty, you can also view the source code from any sketch to see how it works.
-
-image::images/processing_guiguitrochoid.png[]
-
-* http://http://www.learningprocessing.com/[Learning Processing]. This site is home for ITP Professor Daniel Shiffman’s book Learning Processing. Although this book doesn’t cover Arduino, it covers almost everything you would want to do in Processing, and is a great book to tackle once you’ve learned the language. The section on video has many creative mirrors, like “Video Pixelation.”
-
-* link:http://www.shiffman.net/teaching/nature/[The Nature of Code]. Another great site from Daniel Shiffman, this site covers “topics ranging from basic mathematics and physics concepts to more advanced simulations of complex systems. Subjects covered will include forces, trigonometry, fractals, cellular automata, self-organization, and genetic algorithms.” In addition to all the great Processing code, you’ll also learn the physics behind the code. For example, the material on vectors and path following will be helpful to anyone doing robotics.
-
-* link:http://shop.oreilly.com/product/0636920000570.do[Learning Processing].  A refreshingly brief introduction to Processing by the project's founders, Ben Fry and Casey Reas.  This is a great book for total beginners to Processing and programing in general.
-
-==== Key people
-
-Processing has a large and vital community.  Some of the key figures include:
-
-Ben Fry::
-   link:http://benfry.com/[Ben Fry] is a co-founder of the Processsing project, and is the principal of Fathom, a design and software consultancy located in Boston. He received his doctoral degree from the Aesthetics + Computation Group at the MIT Media Laboratory, where his research focused on combining fields such as computer science, statistics, graphic design, and data visualization as a means for understanding information. After completing his thesis, he spent time developing tools for visualization of genetic data as a postdoc with Eric Lander at the Eli & Edythe L. Broad Insitute of MIT & Harvard. During the 2006-2007 school year, Ben was the Nierenberg Chair of Design for the Carnegie Mellon School of Design. At the end of 2007, he finished writing Visualizing Data for O'Reilly. In 2011, he won the National Design Award for Interaction Design from the Cooper-Hewitt.
-   
-Casey Reas::
-   link:http://reas.com/[Casey Reas], a co-founder of the Processsing project, explores the relationship between naturally evolved systems and those that are synthetic. The imagery evokes transformation, and visualizes systems in motion and at rest. Equally embracing the qualitative human perception and the quantitative rules that define digital culture, organic form emerges from precise mechanical structures. Reas' software, prints, and installations have been featured in numerous solo and group exhibitions at museums and galleries in the United States, Europe, and Asia.
-
-Dan Shiffman:: 
-   link:http://www.shiffman.net/[Daniel Shiffman] works as an Assistant Arts Professor at the Interactive Telecommunications Program at NYU’s Tisch School of the Arts. Originally from Baltimore, Daniel received a BA in Mathematics and Philosophy from Yale University and a Master’s Degree from the Interactive Telecommunications Program. He works on developing tutorials, examples, and libraries for Processing, the open source programming language and environment created by Casey Reas and Ben Fry. He is the author of Learning Processing: A Beginner’s Guide to Programming Images, Animation, and Interaction and The Nature of Code (self-published via Kickstarter), an upcoming text and series of code examples about simulating natural phenomenon in Processing. 
-
-
-==== Overview
-
-Processing _sketches_, the Processing community's term for interactive programs, are created in a custom integrated devlopment environment (IDE) that makes it very easy to get started writing code.  Processing sketches end in the extension ".pde".  
+Processing _sketches_, the Processing community's term for interactive programs, are created in a custom integrated devlopment environment (IDE) that makes it very easy to get started writing code. Processing sketches end in the extension ".pde".  
 
 image::images/processing_ide.png[]
 
-The language has a Java-like syntax (in fact, it basically is Java with a few new commands) that will be immediately familiar to most coders.  Here, for example, is a Processing sketch called "Patternd.pde" that is included in the "Examples"that are shipped with the environment.  It makes interesting patterns as you move the mouse across the canvas area:
+The language has a Java-like syntax (in fact, it basically is Java with a few new commands) that will be immediately familiar to most coders. Here, for example, is a Processing sketch called "Patternd.pde" that is included in the "Examples"that are shipped with the environment. It makes interesting patterns as you move the mouse across the canvas area:
 
 [source, processingjslive]
 ----
@@ -86,4 +47,73 @@ Here's a sample of the output:
 
 image::images/processing_sketch_sample.png[]
 
-Most of the action revolves around painting images on the _canvas_, which is the main output display area.  Each sketch contains a method called _draw()_ that executes as a continuous loop on the main output of the program.  The sketches typically implement basic interactions, such as detecting mouse movements or button clicks.  There are additional libraries for more complex interactions.
+Most of the action revolves around painting images on the _canvas_, which is the main output display area. Each sketch contains a method called _draw()_ that executes as a continuous loop on the main output of the program.  The sketches typically implement basic interactions, such as detecting mouse movements or button clicks. There are additional libraries for more complex interactions.
+
+.Quickest Possible Description
+****
+URL::
+   http://processing.org/
+Key areas::
+   (((Algorithmic and Generative Art))), (((Data Visualization))), (((Interaction Design)))
+****
+
+==== Frequently Used For
+
+Major uses include:
+
+* 
+*
+
+==== Important Details
+
+Details include:
+
+*
+*
+*
+
+==== Heavyweights
+
+Processing has a large and vital community.  Some of the key figures include:
+
+Ben Fry::
+   link:http://benfry.com/[Ben Fry] is a cofounder of the Processsing project, and is the principal of Fathom, a design and software consultancy located in Boston. He received his doctoral degree from the Aesthetics + Computation Group at the MIT Media Laboratory, where his research focused on combining fields such as computer science, statistics, graphic design, and data visualization as a means for understanding information. After completing his thesis, he spent time developing tools for visualization of genetic data as a postdoc with Eric Lander at the Eli & Edythe L. Broad Insitute of MIT & Harvard. During the 2006-2007 school year, Ben was the Nierenberg Chair of Design for the Carnegie Mellon School of Design. At the end of 2007, he finished writing Visualizing Data for O'Reilly. In 2011, he won the National Design Award for Interaction Design from the Cooper-Hewitt.
+   
+Casey Reas::
+   link:http://reas.com/[Casey Reas], a cofounder of the Processsing project, explores the relationship between naturally evolved systems and those that are synthetic. The imagery evokes transformation, and visualizes systems in motion and at rest. Equally embracing the qualitative human perception and the quantitative rules that define digital culture, organic form emerges from precise mechanical structures. Reas' software, prints, and installations have been featured in numerous solo and group exhibitions at museums and galleries in the United States, Europe, and Asia.
+
+Dan Shiffman:: 
+   link:http://www.shiffman.net/[Daniel Shiffman] works as an Assistant Arts Professor at the Interactive Telecommunications Program at NYU’s Tisch School of the Arts. Originally from Baltimore, Daniel received a BA in Mathematics and Philosophy from Yale University and a Master’s Degree from the Interactive Telecommunications Program. He works on developing tutorials, examples, and libraries for Processing, the open source programming language and environment created by Casey Reas and Ben Fry. He is the author of Learning Processing: A Beginner’s Guide to Programming Images, Animation, and Interaction and The Nature of Code (self-published via Kickstarter), an upcoming text and series of code examples about simulating natural phenomenon in Processing. 
+
+==== Projects & Examples 
+
+Interesting projects and examples include:
+
+*
+*
+*
+
+==== Resources / Community / Support 
+
+Useful resources include:
+
+Tutorials::
+   *
+Books::
+   * link:http://www.amazon.com/Processing-Programming-Handbook-Designers-Artists/dp/0262182629[Processing: A Programming Handbook for Visual Designers and Artists]. A giant, beautifully designed and richly detailed exploration of Processing by languages cofounders.
+   * link:http://shop.oreilly.com/product/0636920000570.do[Learning Processing]. A refreshingly brief introduction to Processing by the project's founders, Ben Fry and Casey Reas. This is a great book for total beginners to Processing and programing in general. 
+Blogs & Websites::
+   * http://http://www.learningprocessing.com/[Learning Processing]. This site is home for ITP Professor Daniel Shiffman’s book Learning Processing. Although this book doesn’t cover Arduino, it covers almost everything you would want to do in Processing, and is a great book to tackle once you’ve learned the language. The section on video has many creative mirrors, like “Video Pixelation.” 
+   * link:http://www.shiffman.net/teaching/nature/[The Nature of Code]. Another great site from Daniel Shiffman, this site covers “topics ranging from basic mathematics and physics concepts to more advanced simulations of complex systems. Subjects covered will include forces, trigonometry, fractals, cellular automata, self-organization, and genetic algorithms.” In addition to all the great Processing code, you’ll also learn the physics behind the code. For example, the material on vectors and path following will be helpful to anyone doing robotics.
+Community / Support::
+   *  link:http://forum.processing.org/[Processing Forums]. An old school community forum for asking questions and sharing techniques. This is a great place for beginners and seasoned hands alike to discuss how to use the language.
+   * link:http://www.openprocessing.org/[OpenProcessing]. OpenProcessing is a community-driven site where people can share their portfolios. You’ll find a vast array of creative sketches that range from art to science. For example, http://www.openprocessing.org/sketch/760[GUIGUITROCHOID] by http://www.openprocessing.org/user/613[Guigui] simulates the gears in a Spirograph. In addition to enjoying the visual beauty, you can also view the source code from any sketch to see how it works.
+image::images/processing_guiguitrochoid.png[]
+
+==== Similarly Awesome and Useful Tools
+
+Similar tools include:
+
+* 
+*
+* 
