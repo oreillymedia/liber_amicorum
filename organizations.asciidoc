@@ -5,18 +5,12 @@ Here are some of the key organizations involved in the Creative Coding movement.
 
 === Academic Programs
 
-
 ITP::
    link:http://itp.nyu.edu/itp/[ITP] is a two-year graduate program located in the Tisch School of the Arts whose mission is to explore the imaginative use of communications technologies — how they might augment, improve, and bring delight and art into people's lives. Perhaps the best way to describe us is as a Center for the Recently Possible. 
-
-CMU program::
-
-MIT Media Lab::
-
+CMU program:: TK
+MIT Media Lab:: TK
 
 === Conferences and Events
 
-LISA::
-
-
-SIGGRAPH::
+LISA:: http://softwareandart.com/?page_id=3[The LISA Conference] is...
+SIGGRAPH:: TK
