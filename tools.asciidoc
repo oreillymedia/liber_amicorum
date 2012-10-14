@@ -1,7 +1,7 @@
 [[tools]]
 == Tools
 
-This section attempts to map the key tools.  The goal is not so much to provide an exhaustive reference, but more to give a good overview of what the tool is, who the heavyweights in the field are, and list some interesting work. Here are a few examples:
+This section attempts to map the key tools. The goal is not so much to provide an exhaustive reference, but more to give a good overview of what the tool is, who the heavyweights in the field are, and list some interesting work. Here are a few examples:
 
 * arduino
 * cinder
@@ -11,10 +11,10 @@ This section attempts to map the key tools.  The goal is not so much to provide 
 
 For each tool, we'd like to see:
 
-* The quickest possible description.  We're not looking to recreate wikipedia.
-* What it's commonly used for
-* Important details, like whether it's free software
-* The heavyweights in the field
+* A succinct description; we're not looking to recreate Wikipedia
+* What the tool is commonly used for
+* Important details, such as whether it's free software
+* Heavyweights in the field who use the tool
 * A list of interesting projects and examples
 * Resources and community support
 * Similar tools
