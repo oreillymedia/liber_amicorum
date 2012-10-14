@@ -2,7 +2,7 @@
 === Kinect
    
 
-.Quickest possible description
+.Quickest Possible Description
 ****
 Description::
    Video game console turned into magicmaking box. 
@@ -16,7 +16,7 @@ wikipedia::
 
 Major uses include:
 
-* 
+*
 *
 
 ==== Important Details
@@ -29,10 +29,7 @@ Details include:
 
 ==== Heavyweights
 
-Heavyweights include:
-
-* link:http://www.gregborenstein.com/[Greg Borenstein] --  @atduskgreg 
-
+Heavyweights include link:http://www.gregborenstein.com/[Greg Borenstein], http://twitter.com/atduskgreg[@atduskgreg]
 
 ==== Projects & Examples 
 
