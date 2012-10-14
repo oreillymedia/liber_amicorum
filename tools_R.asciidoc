@@ -22,8 +22,8 @@ Major uses include:
 * ((Data visualization))
 * Analytics
 * ((Machine Learning))
-* Basic and Advanced ((Statistics)) (modeling, distributions, tests, etc)
-* Handling ((GeoSpatial)) data, medical research, signal processing, etc
+* Basic and Advanced ((Statistics)) (modeling, distributions, tests, etc.)
+* Handling ((GeoSpatial)) data, medical research, signal processing, etc.
 * Data mining
 
 ==== Important Details
@@ -80,22 +80,22 @@ Blogs & Websites::
    * http://journal.r-project.org/current.html[R Journal: Articles & News about R)
    * http://flowingdata.com[flowingdata.com]
 Community / Support::
-* link:http://cran.R-project.org/faqs.html[Cran R project FAQ]
-* link:http://www.inside-r.org/[inside-R]
-* link:http://www.r-project.org/mail.html[R-Help Mailing List]
-* link:http://www.r-project.org/other-docs.html[project documentation]
+  * link:http://cran.R-project.org/faqs.html[Cran R project FAQ]
+  * link:http://www.inside-r.org/[inside-R]
+  * link:http://www.r-project.org/mail.html[R-Help Mailing List]
+  * link:http://www.r-project.org/other-docs.html[project documentation]
 
 
 ==== Similarly Awesome and Useful Tools
 
 Similar tools include:
 
-* link:http://cran.r-project.org/web/packages/Rook/index.html[Rook] - R package for building and running R web applications
-* link:http://rstudio.org[RStudio] - IDE for R
-* link:http://elastic-r.net[elasticR] - Package for using EC2 with R
-* link:http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/[R Commander] - Basic-Statics GUI for R
-* link:http://www.revolutionanalytics.com/products/revolution-r.php[RevolutionR] - Enterprise software for R (with academic and free version +
-* http://www.bioconductor.org/[Bioconductor] open source development project to provide packages and tools for analysis and comprehension of high-throughput genomic data.
+* link:http://cran.r-project.org/web/packages/Rook/index.html[Rook]—R package for building and running R web applications
+* link:http://rstudio.org[RStudio]—IDE for R
+* link:http://elastic-r.net[elasticR]—Package for using EC2 with R
+* link:http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/[R Commander]—Basic-Statics GUI for R
+* link:http://www.revolutionanalytics.com/products/revolution-r.php[RevolutionR]—Enterprise software for R (with academic and free version
+* http://www.bioconductor.org/[Bioconductor] open source development project to provide packages and tools for analysis and comprehension of high-throughput genomic data
 * link:http://cran.r-project.org/web/views/[CRAN Task Views Page]
-* link:http://crantastic.org/[Crantastic] Community site for R Packages
-* link:http://code.google.com/p/r4intellij/[R 4 IntelliJ:] - Integration of R into the intellij DEA
+* link:http://crantastic.org/[Crantastic] community site for R Packages
+* link:http://code.google.com/p/r4intellij/[R 4 IntelliJ:]—Integration of R into the intellij DEA
