@@ -34,9 +34,7 @@ The heavyweights in the field include http://crca.ucsd.edu/~msp/[Miller Puckette
 
 ==== Projects & Examples 
 
-Interesting projects and examples include:
-
-http://www.jaimeoliver.pe/instrumentos/silent-drum[Silent Drum] by Jaime Oliver
+Interesting projects and examples include Jamie Oliver's http://www.jaimeoliver.pe/instrumentos/silent-drum[Silent Drum].
 
 ==== Resources / Community / Support 
 
