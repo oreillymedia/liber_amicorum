@@ -20,6 +20,8 @@ Website: http://on1.zkm.de/zkm/e/
 
 Location: Germany
 
+video::http://www.youtube.com/embed/IoiDzCZ10_Q[height='300', width='500', poster='images/generic_video.png']
+
 Not about presenting in the museum. A website, and designated spaces on the website.
 
 
