@@ -34,31 +34,29 @@ Important details include:
 
 The heavyweights in the field include:
 
-* link:http://drawnline.net/[Andrew Bell] - Originator and Lead Architect.
-* link:http://roberthodgin.com/[Robert Hodgin] - Wrote the book on it.
+* link:http://drawnline.net/[Andrew Bell] was the originator and lead architect.
+* link:http://roberthodgin.com/[Robert Hodgin] wrote the book on it.
 
 ==== Projects & Examples 
 
 Interesting projects and examples include:
 
-* link:http://planetary.bloom.io/[Planetary] - Visual exploration of your music collection
-* link:http://marcinignac.com/projects/cindermedusae/[Cindermedusae] - Generative sea creatures
+* link:http://planetary.bloom.io/[Planetary]—Visual exploration of your music collection
+* link:http://marcinignac.com/projects/cindermedusae/[Cindermedusae]—Generative sea creatures
 
-==== Resources / Community / Support 
+==== Resources / Community / Support
 
 Useful resources include:
 
 Tutorials::
-   * link:http://libcinder.org/docs/v0.8.4/hello_cinder.html[Hello Cinder] - tutorial by Robert Hodgin
+   * link:http://libcinder.org/docs/v0.8.4/hello_cinder.html[Hello Cinder]—tutorial by Robert Hodgin
 Books::
-   * link:http://shop.oreilly.com/product/0636920024095.do[Exploring Cinder by Joshua Noble and Robert Hodgin]
+   * link:http://shop.oreilly.com/product/0636920024095.do[Exploring Cinder], by Joshua Noble and Robert Hodgin
 Community::
-   * link:http://forum.libcinder.org/#allForums[http://forum.libcinder.org/] -- Cinder forums
+   * link:http://forum.libcinder.org/#allForums[Cinder forums] 
 
 
 ==== Similarly Awesome and Useful Tools
 
-Similar tools include:
-
-* http://www.smallab.org/code/ccgl/[CCGL] and  http://www.smallab.org/code/ccgl-touch/[CCGL-Touch] - Cinder Wrappers for OSx and iOS
+Similar tools include http://www.smallab.org/code/ccgl/[CCGL] and  http://www.smallab.org/code/ccgl-touch/[CCGL-Touch], Cinder wrappers for OSX and iOS
 
