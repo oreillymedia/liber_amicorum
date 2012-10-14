@@ -74,7 +74,7 @@ Details include:
 
 ==== Heavyweights
 
-Processing has a large and vital community.  Some of the key figures include:
+Processing has a large and vital community. Some of the heavyweights include:
 
 Ben Fry::
    link:http://benfry.com/[Ben Fry] is a cofounder of the Processsing project, and is the principal of Fathom, a design and software consultancy located in Boston. He received his doctoral degree from the Aesthetics + Computation Group at the MIT Media Laboratory, where his research focused on combining fields such as computer science, statistics, graphic design, and data visualization as a means for understanding information. After completing his thesis, he spent time developing tools for visualization of genetic data as a postdoc with Eric Lander at the Eli & Edythe L. Broad Insitute of MIT & Harvard. During the 2006-2007 school year, Ben was the Nierenberg Chair of Design for the Carnegie Mellon School of Design. At the end of 2007, he finished writing Visualizing Data for O'Reilly. In 2011, he won the National Design Award for Interaction Design from the Cooper-Hewitt.
