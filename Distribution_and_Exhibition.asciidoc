@@ -6,6 +6,8 @@ This chapter will describe where and how artists can distribute, exhibit, and ex
 
 ===== Streaming Museum
 
+video::http://www.youtube.com/embed/_Tm9MTcoSYU[height='300', width='500', poster='images/generic_video.png']
+
 Website: http://www.streamingmuseum.org/
 
 Location: New York City
