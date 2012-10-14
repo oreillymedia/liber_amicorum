@@ -40,6 +40,8 @@ include::projects.asciidoc[]
 
 include::projects_bitshifting.asciidoc[]
 
+include::projects_3dscannerWfish.asciidoc[]
+
 include::projects_liber_amicorum_cover.asciidoc[]
 
 include::projects_galloway.asciidoc[]
