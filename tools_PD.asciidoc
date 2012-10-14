@@ -38,28 +38,21 @@ Interesting projects and examples include Jamie Oliver's http://www.jaimeoliver.
 
 ==== Resources / Community / Support 
 
-Tutorials:
-
+Tutorials::
 * A huge collection of http://puredata.info/docs/workshops[workshops] and http://puredata.info/docs/tutorials[tutorials] is available on the PD site.
 * http://obiwannabe.co.uk/tutorials/html/tutorials_main.html[Practical Synthetic Sound Design] (tutorial by Andy Farnell).
 * http://blog.makezine.com/2012/09/24/protodrom-prototyping-with-pure-data-and-processing/[Prototyping with Pure Data and Processing].
 * http://crca.ucsd.edu/~msp/techniques/latest/book-html/[The Theory and Technique of Electronic Music] by Miller Puckette.
 * http://www.youtube.com/user/cheetomoskeeto#grid/user/12DC9A161D8DC5DC[video lectures] by Dr.Hdez.
-
-Books:
-
+Books::
 * http://pd-tutorial.com/[Loadbang: Programming Electronic Music in PD] by Johannes Kreidler
 * http://shop.oreilly.com/product/0636920022503.do[Making Musical Apps – Real-Time Audio Synthesis on Android and iOS] by Peter Brinkmann (2012)
 * http://www.amazon.com/Composition-Pure-Data-Meta-Compositional-Instrument/dp/3838316479[Composition: Pure Data as a Meta-Compositional Instrument] by Michael Barkl (2012)
 * http://amzn.to/SX6DMh[Pd Recipe Book―Pure Data] by Sei Matsumura
 * http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=12282[Designing Sound] by Andy Farnell (2010)
-
-Blogs & Websites:
-
+Blogs & Websites::
 http://en.flossmanuals.net/puredata/[The Pure Data manual]
-
-Community / Support:
-
+Community / Support::
 http://puredata.info/community/IRC[IRC]
 
 ==== Similarly Awesome and Useful Tools
