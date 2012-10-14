@@ -5,7 +5,7 @@ Arduino--one of the most successful open-source hardware projects ever--is a mic
 
 Both the hardware and software are open source, so you can build-your-own Arduino, or buy one pre-assembled. In addition, many specialized versions have been created for specific uses, such as the Lilypad Arduino for wearable computing (official Arduino project) and the Boarduino, a breadboard-compatible clone. http://www.ladyada.net/make/boarduino/
 
-.Quickest possible description
+.Quickest Possible Description
 ****
 Description::
    A micro-controller and programming environment
@@ -14,11 +14,11 @@ Site::
 Git / Repo::
    * https://github.com/arduino/Arduino
    * http://code.google.com/p/arduino/ 
-wikipedia:: 
+Wikipedia:: 
    http://en.wikipedia.org/wiki/Arduino
-twitter:: 
+Twitter:: 
    http://twitter.com/arduinoteam
-other wiki/resource:: 
+Other wiki/resource:: 
    http://www.arduino.cc/playground/
 **** 
 
@@ -35,9 +35,9 @@ Major uses include:
 
 Details include:
 
-* Both the hardware and software are open-source. 
-* The software is released under the link:http://www.gnu.org/licenses/old-licenses/gpl-2.0.html[GNU GPL V2] (IDE) and LGPL (micro-controll *  libraries)
-* Hardware is released under an Creative Commons Attribution Share-Alike license
+* Both the hardware and software are open source. 
+* The software is released under the link:http://www.gnu.org/licenses/old-licenses/gpl-2.0.html[GNU GPL V2] (IDE) and LGPL (micro-controll *  libraries).
+* The hardware is released under an Creative Commons Attribution Share-Alike license.
 
 ==== Heavyweights
 
@@ -67,10 +67,10 @@ Tutorials::
    * link:http://arduino.cc/en/Guide/HomePage[Getting Started With Arduino]
    * link:http://www.youtube.com/rswwwchannel/[Arduino Video Tutorials]
 Books::
-   *  link:http://shop.oreilly.com/product/9780596155520.do[Getting Started With Arduino by Massimo Banzi]
-   *  link:http://shop.oreilly.com/product/0636920010920.do[Making Things Talk by Tom Igoe]
-   *  link:http://shop.oreilly.com/product/0636920022244.do[Arduino Cookbook By Michael Margolis]
-   *  link:http://shop.oreilly.com/product/0636920021179.do[iOS Sensor Apps with Arduino By Alasdair Allan]
+   *  link:http://shop.oreilly.com/product/9780596155520.do[Getting Started With Arduino] by Massimo Banzi
+   *  link:http://shop.oreilly.com/product/0636920010920.do[Making Things Talk] by Tom Igoe
+   *  link:http://shop.oreilly.com/product/0636920022244.do[Arduino Cookbook] by Michael Margolis
+   *  link:http://shop.oreilly.com/product/0636920021179.do[iOS Sensor Apps with Arduino] by Alasdair Allan
 Blogs & Websites::
    * TBD
 Community / Support::
@@ -85,8 +85,8 @@ Community / Support::
 Similar tools include:
   
 * link:http://www.makingthings.com/store/make-controller/make-controller-kit.html[Make Controller Kit]
-* link:http://www.raspberrypi.org/[Rasberry Pi] - a credit card sized single-board computer:
-* link:http://beagleboard.org/[BeagleBoard] - another popular single board computer
+* link:http://www.raspberrypi.org/[Rasberry Pi]—a credit card sized single-board computer:
+* link:http://beagleboard.org/[BeagleBoard]—another popular single-board computer
 * link:http://arduino.cc/en/Main/Hardware[Official Arduino Hardware]
 * link:http://www.adafruit.com/[AdaFruit]
 * link:http://www.sparkfun.com/pages/arduino_guide[SparkFun]
