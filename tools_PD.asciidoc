@@ -1,15 +1,15 @@
 [[PureData]]
 === PureData (PD)
-   
+
+Pure Data: An open source alternative to Max, originally developed by the same developer, Miller Puckette. Labeled as a 'real-time music and multimedia environment' it allows manipulation of video, graphics, and music, and enables live collaboration across networks between musicians. It's multi-platform and portable so it can run on all sorts of devices and can be extended, just like Max. 
+
+.Quickest Possible Description
+***
 Site:: http://puredata.info/[Project homepage]
 Wikipedia:: http://en.wikipedia.org/wiki/Max[Max], http://en.wikipedia.org/wiki/Pure_Data[Pure Data]
 Other wiki/resource:: http://puredata.info/docs[Docs from project homepage]
 Code:: http://www-crca.ucsd.edu/~msp/software.html
 Email list:: http://lists.puredata.info/pipermail/pd-list/
-
-.Quickest Possible Description
-***
-Pure Data: An open source alternative to Max, originally developed by the same developer, Miller Puckette. Labeled as a 'real-time music and multimedia environment' it allows manipulation of video, graphics, and music, and enables live collaboration across networks between musicians. It's multi-platform and portable so it can run on all sorts of devices and can be extended, just like Max. 
 ***
 
 ==== Frequently Used For
