@@ -1,7 +1,7 @@
 [[OpenFrameworks]]
-=== OpenFrameworks
+=== openFrameworks
 
-openFrameworks is an open source pass:[C\+\+] toolkit designed to make creative coding easier. Its creators describe it as a "general purpose glue" that wraps together common libraries such as OpenGL, OpenCV, FreeType and many more. It is designed to be cross-platform and extensible, and to provide a promote experimentation with both software interfaces that allow for interesting real-time screen-based and physical interactions. openFrameworks shares many similarities with Processing and especially Cinder, which is also a C++ library framework. It makes sense to investigate all three when deciding on a creative coding tool.
+openFrameworks is an open source pass:[C\+\+] toolkit designed to make creative coding easier. Its creators describe it as a "general purpose glue" that wraps together common libraries such as OpenGL, OpenCV, FreeType and many more. It is designed to be cross-platform and extensible, and to provide a promote experimentation with both software interfaces that allow for interesting real-time screen-based and physical interactions. openFrameworks shares many similarities with Processing and especially Cinder, which is also a pass:[C\+\+] library framework. It makes sense to investigate all three when deciding on a creative coding tool.
 
 .Quickest Possible Description
 ****
@@ -48,13 +48,13 @@ The heavyweights in the field include:
 
 ==== Projects & Examples 
 
-Made with openFrameworks:
+http://player.vimeo.com/video/921725[Made with openFrameworks]:
 
 video::http://player.vimeo.com/video/921725[height='377', width='500', poster='images/generic_video.png']
 
 * link:http://eyewriter.org/[Eyewriter]
 * link:http://thesystemis.com/projects/drawn/[Drawn]
-* link:http://arturocastro.net/work/faces.html[Faces] by Arturo Castro & Kyle McDonald
+* link:http://arturocastro.net/work/faces.html[Faces] by Arturo Castro and Kyle McDonald
 * link:http://www.chrisoshea.org/body-swap[Body Swap]
 * link:http://vimeo.com/44489751[Blind Self Portrait] by Kyle McDonald
 * link:http://design-io.com/site_docs/work.php?id=13[Night Bright] by Design I/O
@@ -69,7 +69,7 @@ video::http://player.vimeo.com/video/921725[height='377', width='500', poster='i
 Useful resources include:
 
 Tutorials::
-   * link:http://www.openframeworks.cc/tutorials/[openframeworks.cc/tutorials/] has excellent tutorials, and is a great place to start
+   * link:http://www.openframeworks.cc/tutorials/[openframeworks.cc/tutorials/] has excellent tutorials and is a great place to start
    * link:http://www.itee.uq.edu.au/~comp3300/Resources/C_C++_notes.pdf[C and pass:[C++ in 5 days]] by Philip Machanick (PDF)
    * link:http://wiki.openframeworks.cc/index.php?title=OF_for_Processing_users[OF for Processing Users] by Zach Gage, for those transitioning from Processing
    * link:http://www.sparkfun.com/tutorials/318[Using openFrameworks with Arduino]
