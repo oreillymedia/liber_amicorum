@@ -3,7 +3,7 @@
 
 xBees make things talk, wirelessly. Free your projects.
 
-.Quickest possible description
+.Quickest Possible Description
 ****
 Description::
    xBees make things talk, wirelessly. Free your projects.
