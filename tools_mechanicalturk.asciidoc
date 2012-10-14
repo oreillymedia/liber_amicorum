@@ -1,8 +1,7 @@
 [[MechanicalTurk]]
 === MechanicalTurk
 
-Sometimes people do things better than code. Don't tell anybody, because you can keep that secret hidden with Mechanical Turk. 
-
+Sometimes people do things better than code. Don't tell anybody because you can keep that secret hidden with Mechanical Turk. 
 
 .Quickest possible description
 ****
@@ -20,7 +19,7 @@ wikipedia::
 
 Major uses include:
 
-* 
+*
 *
 
 ==== Important Details
@@ -43,9 +42,8 @@ The heavyweights in the field include:
 
 Interesting projects and examples include:
 
-* link:http://www.bicyclebuiltfortwothousand.com/[Bicycle Built For Two Thousand] by Aaron Koblin and Daniel Massey +
-* link:http://www.emojidick.com/[Emoji Dick] -- Crowdsourced Emoji translation of Moby Dick
-*
+* link:http://www.bicyclebuiltfortwothousand.com/[Bicycle Built For Two Thousand] by Aaron Koblin and Daniel Massey
+* link:http://www.emojidick.com/[Emoji Dick], crowdsourced Emoji translation of Moby Dick
 
 ==== Resources / Community / Support 
 
