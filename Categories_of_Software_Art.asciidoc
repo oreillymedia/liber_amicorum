@@ -1,0 +1,9 @@
+== Categories of Software Art
+
+=== Crowdsourced
+
+=== Sound
+
+=== Intercative
+
+=== Performance
