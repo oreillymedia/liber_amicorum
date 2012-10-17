@@ -2,15 +2,17 @@
 
 = Liber Amicorum
 
-include::foreword.asciidoc[]
-
-include::preface.asciidoc[]
-
 include::acknowledgments.asciidoc[]
 
 include::README.asciidoc[]
 
 include::organizations.asciidoc[]
+
+include::Categories_of_Software_Art.asciidoc[]
+
+include::Media_Theorists.asciidoc[]
+
+include::archiving.asciidoc[]
 
 include::tools.asciidoc[]
 
@@ -30,9 +32,11 @@ include::tools_openframeworks.asciidoc[]
 
 include::tools_PD.asciidoc[]
 
+include::tools_processing.asciidoc[]
+
 include::tools_R.asciidoc[]
 
-include::tools_processing.asciidoc[]
+include::tools_reprap.asciidoc[]
 
 include::tools_xbee.asciidoc[]
 
