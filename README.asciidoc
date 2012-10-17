@@ -82,7 +82,7 @@ We're much more interested in the "why's" of the project -- why did you pick cer
 
 === How to Contribute
 
-The simplest way to get started is to link:https://github.com/oreillymedia/liber_amicorum[Liber Amicorum] prject on GitHub.  And if you're wondering, "Why GitHub?," Clay Shirky explains its transformative superpowers in his talk link::http://www.youtube.com/watch?v=CEN4XNth61o[How the Internet will (one day) transform government].
+The simplest way to get started is to go to the link:https://github.com/oreillymedia/liber_amicorum[Liber Amicorum] project on GitHub.  And if you're wondering, "Why GitHub?," Clay Shirky explains its transformative superpowers in his talk link::http://www.youtube.com/watch?v=CEN4XNth61o[How the Internet will (one day) transform government].
 
 video::http://www.youtube.com/embed/CEN4XNth61o[height='300', width='500', poster='images/clay_shirky_github_talk_poster.png']
 
