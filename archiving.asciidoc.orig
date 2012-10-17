@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 [[Archiving]]
-=== Archiving Digital ArtSoftware archiving is important and difficult.
+=== Archiving Digital Art
+=======
+Software archiving is important and difficult.
 
-Part of the problem in software art that this project needs to address is balkanization, and lack of memory.
+Part of the problem in software art that this project indends to address is balkanization, and lack of memory.
 
 Software is extremely fragile, and this is part of the problem.  Even though people have made amazing art in decades past, we today probably have no way to access
 that work, because it was written for computers and operating systems and hardware that is obsolete and may not longer exist.
+>>>>>>> e2aac4cb2cedc2e1f1a11e9785e7e58c36a8905c
