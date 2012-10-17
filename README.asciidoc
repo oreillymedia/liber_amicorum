@@ -4,7 +4,7 @@ Creative Coding. Software Art. It's a pan-disciplinary field so new that those w
 
 Liber Amicorum is a collaborative, community-driven project to map the state of the art and create a useful resource for both new and experienced software artists. Andrew Odewahn of O'Reilly Media, Isabel Draves of LISA (Leaders in Software and Art), and select members of the community will serve as curators. It  will operate as open source project on GitHub, and be maintained by O'Reilly. Through Liber Amicorum, we aim to:
 
-* Create a resource--equal parts inspiration, guide, and catalog--that maps this emerging space, advances practitioners'understanding of it, and shows that there's a there there.
+* Create a resource--equal parts inspiration, guide, and catalog--that maps this emerging space, advances practitioners' understanding of it, and shows that there's a there there.
 * Document inspirational projects--not only the amazing finished product, but the workflow, tools, and hacks the artist used in the process of creating it.
 * Help practitioners identify and find each other.
 * Surface and address practitioners' pain points and stumbling blocks. For example, what happens when an artist's creative vision is held up by a lack of technical or mathematical knowledge?
