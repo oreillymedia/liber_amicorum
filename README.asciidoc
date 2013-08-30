@@ -100,3 +100,7 @@ We'll use the feedback and discussion generated from your pull request to decide
 
 The guide is licensed under the link:http://creativecommons.org/licenses/by-nc/3.0/[Creative Commons Attribution-NonCommercial 3.0 Unported License]. You are free to share and remix the book, as long as you provide attribution and do not attempt to re-sell.
 
+=== Adjustment
+
+Addendum
+
