@@ -1,6 +1,6 @@
 == Overview
 
-Creative Coding. Software Art. It's a pan-disciplinary field so new that those working in it haven't yet settled on a name. Practitioners are artists, designers, sculptors, computer scientists, vision researchers, hardware hackers--anyone who makes art through the creative application of technology. 
+Creative Coding. Software Art. It's a multi-disciplinary field so new that those working in it haven't yet settled on a name. Practitioners are artists, designers, sculptors, computer scientists, vision researchers, hardware hackers--anyone who makes art through the creative application of technology. 
 
 Liber Amicorum is a collaborative, community-driven project to map the state of the art and create a useful resource for both new and experienced software artists. Andrew Odewahn of O'Reilly Media, Isabel Draves of LISA (Leaders in Software and Art), and select members of the community will serve as curators. It  will operate as open source project on GitHub, and be maintained by O'Reilly. Through Liber Amicorum, we aim to:
 
