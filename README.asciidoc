@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 == Overview
 
 
@@ -101,3 +102,111 @@ We'll use the feedback and discussion generated from your pull request to decide
 
 The guide is licensed under the link:http://creativecommons.org/licenses/by-nc/3.0/[Creative Commons Attribution-NonCommercial 3.0 Unported License]. You are free to share and remix the book, as long as you provide attribution and do not attempt to re-sell.
 
+=======
+== Overview
+
+Creative Coding. Software Art. It's a field so new that those working in it haven't yet settled on a name. Practitioners are artists, designers, sculptors, computer scientists, vision researchers, hardware hackers--anyone who makes art through the creative application of technology. 
+
+Liber Amicorum is a collaborative, community-driven project to map the state of the art and create a useful resource for both new and experienced software artists. Andrew Odewahn of O'Reilly Media, Isabel Draves of LISA (Leaders in Software and Art), and select members of the community will serve as curators. It  will operate as open source project on GitHub, and be maintained by O'Reilly. Through Liber Amicorum, we aim to:
+
+* Create a resource--equal parts inspiration, guide, and catalog--that maps this emerging space, advances practitioners' understanding of it, and shows that there's a there there.
+* Document inspirational projects--not only the amazing finished product, but the workflow, tools, and hacks the artist used in the process of creating it.
+* Help practitioners identify and find each other.
+* Surface and address practitioners' pain points and stumbling blocks. For example, what happens when an artist's creative vision is held up by a lack of technical or mathematical knowledge?
+* Explore the use of GitHub as a tool for collaborative authoring. How does this new platform, which has fueled community-driven innovation in the software world, serve the creative community?
+
+We'll publish Liber Amicorum periodically as a PDF, on the iBookstore, on the Kindle, and, in the not-too-distant future, on the web.  
+
+[NOTE]
+====
+And that title? _Liber Amicorum_ means the "book of friends."  We thought that was a pretty good description for what we want to do and how we want to do it.  (And, we liked it a lot better than "guide" or "directory").
+====
+
+
+=== What We're Looking For
+
+* Useful tools or techniques
+* Inspirational projects
+* Hands-on tutorials or articles [Coming Soon]
+* Sites and resources of interest to practitioners
+* Key people or organizations
+
+
+=== Areas / Fields
+
+We're interested primarily in these areas:
+
+* 3D graphics
+* Algorithmic and Generative Art
+* Animation
+* App Design
+* Circuit Bending
+* Data visualization
+* Electromechanical sculpture
+* Interaction Design
+* LED design
+* Musical / Sound Arts
+* Physical Computing
+
+Please note that we're not seeking to _define_ these areas in particular -- that's better done on Wikipedia or similar sites.  We're interested mainly in identifying trends, tools, people, and projects that are advancing the state of the art in the field.
+
+=== How the Project is Structured
+
+The project currently has 3 main parts: organizations, tools, and projects.
+
+The *organizations* section lists the groups that are doing interesting and innovative work in the field.  This can range from a full academic program to a hackerspace to a conference to a gallery.  
+
+The *tools* section attempts to map the key tools.  The goal is not so much to provide an exhaustive reference, but more to give a good overview of what the tool is, who the heavyweights in the field are, and list some interesting work. Here are a few examples:
+
+* arduino
+* cinder
+* kinect
+* max
+* 3D printers
+
+For each tool, we'd like to see:
+
+* The quickest possible description.  We're not looking to recreate wikipedia.
+* What it's commonly used for
+* Important details, like whether it's free software
+* The heavyweights in the field
+* A list of interesting projects and examples
+* Resources and community support
+* Similar tools
+
+Finally, the *projects* section explores a particular projectin more depth.  The goal is to articulate the vision and thoughts that go into creating an interesting work or solving an interesting problem, with a particular focus on the project's relevance compared to other computational / serial artists or projects.  
+
+We're much more interested in the "why's" of the project -- why did you pick certain tools, why did you take the approach, why is this different than what's come before -- before the "how's".  (But, don't worry -- you can put the How's in the tutorial or example sections.)  The project descriptions should serve as a guide of your thinking for people who will follow after you.  
+
+* What was the project?
+* What areas or field does it fall in?
+* What tools did you use?
+* Why was this an interesting project to you -- what was new or innovative?
+* What were the key challenges you had to overcome?
+* Your name and a brief bio
+
+=== How to Contribute
+
+The simplest way to get started is to go to the link:https://github.com/oreillymedia/liber_amicorum[Liber Amicorum] project on GitHub.  And if you're wondering, "Why GitHub?," Clay Shirky explains its transformative superpowers in his talk link::http://www.youtube.com/watch?v=CEN4XNth61o[How the Internet will (one day) transform government].
+
+video::http://www.youtube.com/embed/CEN4XNth61o[height='300', width='500', poster='images/clay_shirky_github_talk_poster.png']
+
+To contribute to Liber Amicorum:
+
+* Create a GitHub account (If you don't have one already)
+* Go to the link:https://github.com/oreillymedia/liber_amicorum[Liber Amicorum] repo
+* Fork the repository, or just go to the file you want to edit and click "Edit"
+* Enter your changes in link::http://powerman.name/doc/asciidoc-compact.html[AsciiDoc] format
+* Send a pull request
+
+We'll use the feedback and discussion generated from your pull request to decide whether to accept the contribution.  Once we do, we'll generate a fresh version of the guide in PDF, EPUB (for iBooks), and Mobi (for Kindle) formats.
+
+=== License
+
+The guide is licensed under the link:http://creativecommons.org/licenses/by-nc/3.0/[Creative Commons Attribution-NonCommercial 3.0 Unported License]. You are free to share and remix the book, as long as you provide attribution and do not attempt to re-sell.
+
+=== Adjustment
+
+Addendum 2
+
+>>>>>>> master
