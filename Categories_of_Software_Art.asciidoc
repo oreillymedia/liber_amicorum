@@ -4,7 +4,7 @@
 
 === Sound
 
-=== Intercative
+=== Interactive
 
 === Performance
 
